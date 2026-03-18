@@ -64,12 +64,12 @@ const ProcessSection = () => {
                     </div>
 
                     {/* Right: Sticky Image */}
-                    <div className="lg:sticky lg:top-32">
+                    <div className="lg:sticky lg:top-40">
                         <motion.div
-                            initial={{ opacity: 0, scale: 0.9 }}
-                            animate={isVisible ? { opacity: 1, scale: 1 } : {}}
-                            transition={{ duration: 1, ease: [0.25, 0.8, 0.25, 1] }}
-                            className="relative aspect-square rounded-[40px] overflow-hidden group"
+                            initial={{ opacity: 0, scale: 0.95, filter: "blur(10px)" }}
+                            animate={isVisible ? { opacity: 1, scale: 1, filter: "blur(0px)" } : {}}
+                            transition={{ duration: 1.2, ease: [0.25, 0.8, 0.25, 1] }}
+                            className="relative aspect-square rounded-[40px] overflow-hidden group shadow-2xl"
                         >
                             <img
                                 src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65cc7e9c392151a48226ba88_process-image.webp"

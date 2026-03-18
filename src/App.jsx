@@ -8,6 +8,8 @@ import Services from './pages/Services';
 import Contact from './pages/Contact';
 import Team from './pages/Team';
 import Blog from './pages/Blog';
+import Appointment from './pages/Appointment';
+import PricingPlan from './pages/PricingPlan';
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
             <Route path="/team" element={<Team />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/appointment" element={<Appointment />} />
+            <Route path="/pricing-plan" element={<PricingPlan />} />
           </Routes>
         </main>
       </div>

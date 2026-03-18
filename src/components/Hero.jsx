@@ -42,16 +42,35 @@ const Hero = () => {
                         </div>
                     </motion.div>
 
-                    {/* Large Hero Image with Filter */}
+                    {/* Description and CTA */}
                     <motion.div
                         initial="hidden"
                         animate={isVisible ? "visible" : "hidden"}
                         custom={2}
                         variants={webflowVariants}
+                        className="flex flex-col md:flex-row items-start md:items-center justify-between gap-8 mt-4"
+                    >
+                        <p className="text-lg md:text-xl text-ovicare-text/60 max-w-xl leading-relaxed">
+                            With OviCare, your health is our priority. We offer comprehensive medical services, personalized care plans, and a dedicated team of professionals committed to your well-being.
+                        </p>
+                        <a
+                            href="/appointment"
+                            className="bg-ovicare-primary text-ovicare-dark px-10 py-5 rounded-2xl font-bold uppercase tracking-widest text-sm hover:bg-white transition-all transform hover:scale-[1.05]"
+                        >
+                            Get Appointment!
+                        </a>
+                    </motion.div>
+
+                    {/* Large Hero Image with Filter */}
+                    <motion.div
+                        initial="hidden"
+                        animate={isVisible ? "visible" : "hidden"}
+                        custom={3}
+                        variants={webflowVariants}
                         className="mt-12 md:mt-20 relative w-full aspect-[16/7] rounded-[40px] overflow-hidden group border border-white/5"
                     >
                         <img
-                            src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65c9e9e554f647d563194c96_hero.webp"
+                            src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65f2ef6c41b80d0d869279a0_hero-image.webp"
                             alt="Advanced Healthcare"
                             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 filter brightness-[85%]"
                         />

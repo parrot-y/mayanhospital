@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/FooterRefined';
 import ServicesSection from '../components/ServicesSection';
+import MarqueeTicker from '../components/MarqueeTicker';
 import { motion } from 'framer-motion';
 
 const Services = () => {
@@ -24,6 +25,7 @@ const Services = () => {
 
             <ServicesSection />
 
+            <MarqueeTicker />
             <Footer />
         </div>
     );

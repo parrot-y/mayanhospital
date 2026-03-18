@@ -22,10 +22,16 @@ const Footer = () => {
                     <div className="space-y-8">
                         <h3 className="text-xl font-bold uppercase tracking-tight">Pages</h3>
                         <ul className="space-y-4">
-                            {['Home', 'Our doctor', 'Blog', 'Appointment'].map((link) => (
-                                <li key={link}>
-                                    <Link to="/" className="text-white/60 font-bold uppercase tracking-widest text-xs hover:text-ovicare-primary transition-colors">
-                                        {link}
+                            {[
+                                { name: 'Home', path: '/' },
+                                { name: 'Our doctor', path: '/team' },
+                                { name: 'Pricing Plan', path: '/pricing-plan' },
+                                { name: 'Blog', path: '/blog' },
+                                { name: 'Appointment', path: '/appointment' }
+                            ].map((link) => (
+                                <li key={link.name}>
+                                    <Link to={link.path} className="text-white/60 font-bold uppercase tracking-widest text-xs hover:text-ovicare-primary transition-colors">
+                                        {link.name}
                                     </Link>
                                 </li>
                             ))}
