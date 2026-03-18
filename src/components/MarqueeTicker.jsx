@@ -19,7 +19,7 @@ const MarqueeTicker = ({ reverse = false }) => (
         <div
             className="flex items-center"
             style={{
-                animation: `marquee${reverse ? 'Reverse' : ''} 30s linear infinite`,
+                animation: `marquee${reverse ? 'Reverse' : ''} var(--marquee-speed, 30s) linear infinite`,
                 willChange: 'transform',
                 whiteSpace: 'nowrap',
             }}

@@ -64,7 +64,7 @@ export const webflowVariants = {
         opacity: 1,
         y: 0,
         transition: {
-            delay: i * 0.1,
+            delay: i * 0.08,
             duration: 0.8,
             ease: [0.25, 0.8, 0.25, 1],
         },
