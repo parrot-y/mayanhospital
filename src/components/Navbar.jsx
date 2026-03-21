@@ -22,7 +22,6 @@ const Navbar = () => {
         { name: 'About', path: '/about' },
         { name: 'Services', path: '/services' },
         { name: 'Medicines', path: '/medicines' },
-        { name: 'Team', path: '/team' },
         { name: 'Contact', path: '/contact' },
     ];
 
@@ -37,11 +36,11 @@ const Navbar = () => {
                 <div className="container flex items-center justify-between">
                     {/* Logo */}
                     <Link to="/" className="relative z-10 flex items-center gap-3 group">
-                        <div className="w-8 h-8 md:w-10 md:h-10 bg-ovicare-primary rounded-full flex items-center justify-center -rotate-12 transition-transform duration-500 group-hover:rotate-0">
+                        <div className="w-8 h-8 md:w-10 md:h-10 flex items-center justify-center -rotate-12 transition-transform duration-500 group-hover:rotate-0">
                             <img
-                                src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65c9ef098ec979d4fa72d6f3_icon-1.webp"
-                                alt="Star"
-                                className="w-1/2 h-1/2 object-contain"
+                                src="/favicon.svg"
+                                alt="Mayan Lifestyle"
+                                className="w-full h-full object-contain"
                             />
                         </div>
                         <span className="text-xl md:text-2xl font-black uppercase tracking-tighter text-white">
@@ -113,11 +112,11 @@ const Navbar = () => {
                             <div>
                                 <div className="flex items-center justify-between">
                                     <div className="flex items-center gap-3">
-                                        <div className="w-8 h-8 bg-ovicare-primary rounded-full flex items-center justify-center -rotate-12">
+                                        <div className="w-8 h-8 flex items-center justify-center -rotate-12">
                                             <img
-                                                src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65c9ef098ec979d4fa72d6f3_icon-1.webp"
+                                                src="/favicon.svg"
                                                 alt="Star"
-                                                className="w-1/2 h-1/2 object-contain"
+                                                className="w-full h-full object-contain"
                                             />
                                         </div>
                                         <span className="text-xl font-black uppercase tracking-tighter text-white">

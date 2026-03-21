@@ -47,7 +47,7 @@ const FooterRefined = () => {
                         <div className="space-y-8">
                             <h4 className="text-white font-bold uppercase tracking-widest text-sm">Navigation</h4>
                             <ul className="space-y-4">
-                                {['Home', 'About', 'Services', 'Team', 'Contact'].map((item) => (
+                                {['Home', 'About', 'Services', 'Contact'].map((item) => (
                                     <li key={item}>
                                         <Link
                                             to={item === 'Home' ? '/' : `/${item.toLowerCase()}`}

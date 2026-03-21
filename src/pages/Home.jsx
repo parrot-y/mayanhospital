@@ -5,7 +5,6 @@ import ServiceCarousel from '../components/ServiceCarousel';
 import MarqueeTicker from '../components/MarqueeTicker';
 import ProcessSection from '../components/ProcessSection';
 import CTASection from '../components/CTASection';
-import TeamSlider from '../components/TeamSlider';
 import TestimonialSection from '../components/TestimonialSection';
 
 const Home = () => {
@@ -17,7 +16,6 @@ const Home = () => {
             <MarqueeTicker />
             <ProcessSection />
             <CTASection />
-            <TeamSlider />
             <TestimonialSection />
             <MarqueeTicker reverse />
         </div>
