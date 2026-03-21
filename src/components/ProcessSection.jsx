@@ -72,7 +72,7 @@ const ProcessSection = () => {
                             className="relative aspect-square rounded-[40px] overflow-hidden group shadow-2xl"
                         >
                             <img
-                                src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65cc7e9c392151a48226ba88_process-image.webp"
+                                src="/assets/images/pharmacy_interior.png"
                                 alt="Process"
                                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
                             />

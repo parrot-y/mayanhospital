@@ -70,7 +70,7 @@ const Hero = () => {
                         className="mt-12 md:mt-20 relative w-full aspect-[16/7] rounded-[40px] overflow-hidden group border border-white/5"
                     >
                         <img
-                            src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65f2ef6c41b80d0d869279a0_hero-image.webp"
+                            src="/assets/images/hospital_exterior.png"
                             alt="Advanced Healthcare"
                             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 filter brightness-[85%]"
                         />

@@ -31,7 +31,7 @@ const AboutSection = () => {
                         className="rounded-[40px] overflow-hidden aspect-[4/5] group border border-white/5"
                     >
                         <img
-                            src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65f2f4762cfac3218de92131_about-image-2.webp"
+                            src="/assets/images/mri_scanner.png"
                             alt="Medical"
                             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105 filter brightness-[90%]"
                         />
