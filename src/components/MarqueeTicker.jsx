@@ -1,32 +1,25 @@
 import React from 'react';
+import { servicesData } from '../utils/servicesData';
 
-const items = [
-    'Cardiologist', 'Plasma cell', 'Transplant', 'Inpatient care',
-    'Cardiologist', 'Plasma cell', 'Transplant', 'Inpatient care',
-];
+const items = servicesData.map(s => s.title);
 
 const PlusStar = () => (
-    <img
-        src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65ca12c4278110ddde5541ea_icon-3.webp"
-        alt="*"
-        className="w-6 h-6 mx-6 object-contain flex-shrink-0"
-        loading="lazy"
-    />
+    <span className="text-ovicare-dark/30 text-3xl font-black mx-8">•</span>
 );
 
 const MarqueeTicker = ({ reverse = false }) => (
-    <div className="flex w-full overflow-hidden border-y border-white/10 py-5 bg-ovicare-dark/50">
+    <div className="flex w-full overflow-hidden py-8 bg-vibrant-marquee border-y border-black/5">
         <div
             className="flex items-center"
             style={{
-                animation: `marquee${reverse ? 'Reverse' : ''} var(--marquee-speed, 30s) linear infinite`,
+                animation: `marquee${reverse ? 'Reverse' : ''} 60s linear infinite`,
                 willChange: 'transform',
                 whiteSpace: 'nowrap',
             }}
         >
-            {[...items, ...items, ...items].map((text, i) => (
+            {[...items, ...items, ...items, ...items].map((text, i) => (
                 <React.Fragment key={i}>
-                    <span className="text-xl md:text-2xl font-bold uppercase tracking-widest text-white/80">
+                    <span className="text-2xl md:text-3xl font-black uppercase tracking-tighter text-ovicare-dark">
                         {text}
                     </span>
                     <PlusStar />

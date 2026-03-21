@@ -1,0 +1,5662 @@
+[
+  {
+    "name": "LACTITOSS SYRUP 200MLS",
+    "image": "lactitoss_syrup_200mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID V-6 VAG PESSARY 6S",
+    "image": "candid_v_6_vag_pessary_6s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID B CREAM 30GM",
+    "image": "candid_b_cream_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALCIMAX SYRUP 150ML",
+    "image": "calcimax_syrup_150ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURGICAL STERILE GLOVES",
+    "image": "surgical_sterile_gloves.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEPHALEXIN 500MG 100S (ORACEF)",
+    "image": "cephalexin_500mg_100s_oracef.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID V-1 VAG PESSARY 1S",
+    "image": "candid_v_1_vag_pessary_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID POWDER 30GM",
+    "image": "candid_powder_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CATOXYMAG N 200ML",
+    "image": "catoxymag_n_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CETAMOL SP 100ML",
+    "image": "cetamol_sp_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GENTIAN VIOLET (GV) 50MLS",
+    "image": "gentian_violet_gv_50mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIVOLIN FORTE 30S",
+    "image": "livolin_forte_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLYKOFF COUGH SYRUP 120ML",
+    "image": "glykoff_cough_syrup_120ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GRABACIN POWDER 10GM",
+    "image": "grabacin_powder_10gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEPHALEXIN SUSPENSION 125MG 100ML (CEFALIN)",
+    "image": "cephalexin_suspension_125mg_100ml_cefalin.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "O2 OFLOXACIN/ORNIDAZOLE",
+    "image": "o2_ofloxacin_ornidazole.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GYNO DAKTARIN CREAM 40MG",
+    "image": "gyno_daktarin_cream_40mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HEEL CREAM 30GM",
+    "image": "heel_cream_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IBUMEX SYRUP 100ML (BRUFEN SYRUP)",
+    "image": "ibumex_syrup_100ml_brufen_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARBAMAZEPINE 200MG (NEURITROL) 100S",
+    "image": "carbamazepine_200mg_neuritrol_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID B CREAM 15GM",
+    "image": "candid_b_cream_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AVALIFE DAILY FLORA 30S",
+    "image": "avalife_daily_flora_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SARACAL SUSPENSION",
+    "image": "saracal_suspension.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAGNOMINT 100ML",
+    "image": "magnomint_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MARAMOJA 50",
+    "image": "maramoja_50.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CERUMOL EAR DROPS 11ML",
+    "image": "cerumol_ear_drops_11ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NATOA TABS 6S",
+    "image": "natoa_tabs_6s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GACET 250 SUPPOSITORY (PARACETAMOL) 10S",
+    "image": "gacet_250_suppository_paracetamol_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PANADOL COLD & FLU 24S",
+    "image": "panadol_cold_flu_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID V-3 VAG PESSARY 3S",
+    "image": "candid_v_3_vag_pessary_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOZOLE-B CREAM 15G",
+    "image": "clozole_b_cream_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VOX VITAMIN D3 DROPS 30MLS",
+    "image": "vox_vitamin_d3_drops_30mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VARICOSE STOCKING S BELOW KNEE",
+    "image": "varicose_stocking_s_below_knee.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BEECHAMS HOT LEMON 24",
+    "image": "beechams_hot_lemon_24.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENACOFF EXPECTORANT 100ML",
+    "image": "benacoff_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLYCERINE SUPPOSITORY 4GM ADULTS 12S",
+    "image": "glycerine_suppository_4gm_adults_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GRISEOFULVIN 125MG (MEDIFULVIN) 100S",
+    "image": "griseofulvin_125mg_medifulvin_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEFUROXIME 125 (CEFUAXIT/EVOROX) SYRUP 50ML",
+    "image": "cefuroxime_125_cefuaxit_evorox_syrup_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENASED CHESTY 60ML",
+    "image": "benased_chesty_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BECLOMIN OINTMENT 15MG",
+    "image": "beclomin_ointment_15mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "XIBRA 90",
+    "image": "xibra_90.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENASED PAEDIATRIC COUGH EXPECTORANT 100ML",
+    "image": "benased_paediatric_cough_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENYLIN 4 FLU 200ML",
+    "image": "benylin_4_flu_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENACOFF PAEDIATRIC 100ML",
+    "image": "benacoff_paediatric_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENYLIN DRY COUGH 100ML",
+    "image": "benylin_dry_cough_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENYLIN (ORIGINAL) EXPECTORANT 100ML",
+    "image": "benylin_original_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENASED CHESTY 100ML",
+    "image": "benased_chesty_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENACOFF LINCTUS 100ML",
+    "image": "benacoff_linctus_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CURAMOL SYRUP 100ML",
+    "image": "curamol_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETADINE GARGLE & MOUTHWASH 125ML",
+    "image": "betadine_gargle_mouthwash_125ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENASED MUCOLYTIC EXPECTORANT 100ML",
+    "image": "benased_mucolytic_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ADOL SUPPOSITORY 125MG 10S",
+    "image": "adol_suppository_125mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENASED PAEDIATRIC 60ML",
+    "image": "benased_paediatric_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MONTEBASTO 10MG TABS 10S",
+    "image": "montebasto_10mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALACOT DS OLAPATADINE 5ML",
+    "image": "alacot_ds_olapatadine_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ABZ SUSPENSION 400MG/10ML",
+    "image": "abz_suspension_400mg_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORELOX 200MG TABS",
+    "image": "orelox_200mg_tabs.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LINEZOLID 600MG TABS 10S",
+    "image": "linezolid_600mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALLOPURINOL (ALEZE) TABS 300MG 28S",
+    "image": "allopurinol_aleze_tabs_300mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASCOFF EXPECTORANT 100ML",
+    "image": "ascoff_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENYLIN CHESTY 100ML",
+    "image": "benylin_chesty_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NATOA SUSPENSION 30ML",
+    "image": "natoa_suspension_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENYLIN WITH CODEINE 100ML",
+    "image": "benylin_with_codeine_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENYLIN PAEDIATRIC 100ML",
+    "image": "benylin_paediatric_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MINOCYCLINE 100MG 28S",
+    "image": "minocycline_100mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AUGMENTIN BD TABLETS 625MG 14S",
+    "image": "augmentin_bd_tablets_625mg_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ROUGH RIDER CONTEMPO FP CONDOMS",
+    "image": "rough_rider_contempo_fp_condoms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAPYN TABS 18S",
+    "image": "betapyn_tabs_18s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SALBUTAMOL SYRUP 100ML",
+    "image": "salbutamol_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SALBUTAMOL 4MG TABS 100S",
+    "image": "salbutamol_4mg_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCOTTS EMULSION ORANGE 100ML",
+    "image": "scotts_emulsion_orange_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCOTTS EMULSION ORANGE 200ML",
+    "image": "scotts_emulsion_orange_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ADOL SUPPOSITORY 250MG 10S",
+    "image": "adol_suppository_250mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCOTTS EMULSION REGULAR 200ML 1S",
+    "image": "scotts_emulsion_regular_200ml_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EVANOVA",
+    "image": "evanova.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCOTTS EMULSION REGULAR 100ML",
+    "image": "scotts_emulsion_regular_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASPIRIN 300MG TABS 1000S",
+    "image": "aspirin_300mg_tabs_1000s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENZHEXOL (ARTANE) 5MG 100S",
+    "image": "benzhexol_artane_5mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SALBUTAMOL SYRUP 60ML",
+    "image": "salbutamol_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MINOCYCLINE 50MG 28S",
+    "image": "minocycline_50mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AUGMENTIN BD SYRUP 457MG/5ML 70ML",
+    "image": "augmentin_bd_syrup_457mg_5ml_70ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SONATEC MOUTHWASH 200ML",
+    "image": "sonatec_mouthwash_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TAGERA FORTE 2",
+    "image": "tagera_forte_2.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LORHISTINA TABS 10MG 30S",
+    "image": "lorhistina_tabs_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETASON CREAM 15G",
+    "image": "betason_cream_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLIPITA M 50/500MG TABS 30S",
+    "image": "glipita_m_50_500mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUTAMIN BG TABS 20S",
+    "image": "glutamin_bg_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STREPSILS REGULAR 50S 2S",
+    "image": "strepsils_regular_50s_2s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITAHEALTH COD LIVER OIL 100ML",
+    "image": "vitahealth_cod_liver_oil_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUBSYDE CR CAPS 10S",
+    "image": "subsyde_cr_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LETZGO MR 30S",
+    "image": "letzgo_mr_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYDEXNEOCIN EYE DROPS 10MLS",
+    "image": "ivydexneocin_eye_drops_10mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BIO-OIL 60ML",
+    "image": "bio_oil_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRUSTAN SUSPENSION 100ML",
+    "image": "brustan_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRONYL EXPECTORANT 120ML",
+    "image": "bronyl_expectorant_120ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BULKOT CREAM 15G",
+    "image": "bulkot_cream_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CADIPHEN EXPECTORANT 100ML",
+    "image": "cadiphen_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATRIZINE SYRUP 60ML",
+    "image": "atrizine_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SEVEN SEAS 170ML",
+    "image": "seven_seas_170ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALPOL INFANT SUSPENSION 60ML",
+    "image": "calpol_infant_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SOLVIN PLUS LIQUID 120ML",
+    "image": "solvin_plus_liquid_120ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LOBAK TABS 100S",
+    "image": "lobak_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID LOTION",
+    "image": "candid_lotion.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BORIC ACID DROPS (BIODEAL)",
+    "image": "boric_acid_drops_biodeal.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TOB-DEX EYE",
+    "image": "tob_dex_eye.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRUFEN (ORIGINAL) 100MG/5ML 100ML",
+    "image": "brufen_original_100mg_5ml_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "INTAMINE CREAM 25G",
+    "image": "intamine_cream_25g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHARMADEXGENT EYE DROPS",
+    "image": "pharmadexgent_eye_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRUSTAN TABS 10S",
+    "image": "brustan_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KARVOL DECONGESTANT CAPS 10S",
+    "image": "karvol_decongestant_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KONAZOLE CREAM 15GM",
+    "image": "konazole_cream_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "INFACOL LIQUID 100D 50ML",
+    "image": "infacol_liquid_100d_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LETRAX 15ML",
+    "image": "letrax_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LETRAX TABS 3S",
+    "image": "letrax_tabs_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OBREX EXPECTORANT 100ML",
+    "image": "obrex_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PAROL 250MG 100ML SYRUP",
+    "image": "parol_250mg_100ml_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEET DRY SKIN 30MG",
+    "image": "veet_dry_skin_30mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALAMINE LOTION 100ML",
+    "image": "calamine_lotion_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TOBREX",
+    "image": "tobrex.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MYONAC MR",
+    "image": "myonac_mr.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORUSH GEL 15ML",
+    "image": "orush_gel_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ONAZIN EYE DROPS 10ML",
+    "image": "onazin_eye_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZYNCET SYRUP 60ML",
+    "image": "zyncet_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALPOL INFANT SUSPENSION 100ML",
+    "image": "calpol_infant_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UDIHEP FORTE 300MG 50S",
+    "image": "udihep_forte_300mg_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OPELE TREATMENT 50ML",
+    "image": "opele_treatment_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASOMEX 5MGS 30S",
+    "image": "asomex_5mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ONACOF SYRUP 100ML",
+    "image": "onacof_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLWORM SYRUP/TABS",
+    "image": "olworm_syrup_tabs.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RANFERON CAPS 30S",
+    "image": "ranferon_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OBREX EXPECTORANT 60ML",
+    "image": "obrex_expectorant_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KAPLIV FORTE 30S",
+    "image": "kapliv_forte_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "REXEDINE MOUTH WASH 100MLS",
+    "image": "rexedine_mouth_wash_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZYNCET TABS 50S",
+    "image": "zyncet_tabs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRICOFF EXPECTORANT 100ML (GREEN)",
+    "image": "tricoff_expectorant_100ml_green.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRICOHIST 60ML EXPECTORANT",
+    "image": "tricohist_60ml_expectorant.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMEX EXPECTORANT 100ML ADULT",
+    "image": "trimex_expectorant_100ml_adult.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OSSCOF SYRUP 100ML",
+    "image": "osscof_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINIDAZOLE 500MG 4S (TINIFRED)",
+    "image": "tinidazole_500mg_4s_tinifred.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RANFERON SYRUP 200ML",
+    "image": "ranferon_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OSSCOFF 60ML",
+    "image": "osscoff_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TUSPEL PLUS SYRUP 100ML",
+    "image": "tuspel_plus_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEDIVEN OINTMENT 15G",
+    "image": "mediven_ointment_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMEX EXPECTORANT (PAEDIATRIC) 100ML",
+    "image": "trimex_expectorant_paediatric_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TUSPRESS 60MLS",
+    "image": "tuspress_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULGICID SUSPENSION 200ML (CHERRY FLAVOR)",
+    "image": "ulgicid_suspension_200ml_cherry_flavor.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULGICID SUSPENSION 200ML (PINEAPPLE FLAVOR)",
+    "image": "ulgicid_suspension_200ml_pineapple_flavor.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STAY YOUNG ACTIVE GIRL",
+    "image": "stay_young_active_girl.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRUST RIBBED 24S",
+    "image": "trust_ribbed_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TUSPRESS SUSPENSION 100ML",
+    "image": "tuspress_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIOKIT 1S",
+    "image": "triokit_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULGICID SUSPENSION 200ML (MINT FLAVOR)",
+    "image": "ulgicid_suspension_200ml_mint_flavor.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VENTOLIN COUGH EXPECTORANT 100ML",
+    "image": "ventolin_cough_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VENTOLIN SYRUP (SUGAR FREE) 2MG/5ML 100ML",
+    "image": "ventolin_syrup_sugar_free_2mg_5ml_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEDROX DRY SYRUP 60ML",
+    "image": "vedrox_dry_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VENTOLIN EVOHALER 200 DOSE",
+    "image": "ventolin_evohaler_200_dose.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "WHITFIELDS OINTMENT 25GM (REGAL)",
+    "image": "whitfields_ointment_25gm_regal.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEDROX DRY SYRUP 100ML",
+    "image": "vedrox_dry_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMEX EXPECTORANT (DIABETIC) 100ML",
+    "image": "trimex_expectorant_diabetic_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNIVIR CREAM 10GM",
+    "image": "univir_cream_10gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TUSPEL PLUS SYRUP 60ML",
+    "image": "tuspel_plus_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KLY LUBRICATING GEL 42GMS (STERILE)",
+    "image": "kly_lubricating_gel_42gms_sterile.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENTAMAXIN SUSPENSION 100ML",
+    "image": "entamaxin_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENTAMAXIN SUSPENSION 60ML",
+    "image": "entamaxin_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENO LEMON SACHETS 48S",
+    "image": "eno_lemon_sachets_48s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCLOXACILLIN DAWAFLOX SYRUP 100ML",
+    "image": "flucloxacillin_dawaflox_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLAGYL SUSPENSION ORIGINAL 100ML",
+    "image": "flagyl_suspension_original_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FINOSIN 30S",
+    "image": "finosin_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIRACIP SUSPENSION 100ML",
+    "image": "diracip_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLATAMEAL DS SUSPENSION 200ML",
+    "image": "flatameal_ds_suspension_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINC SULPHATE 20MG 100S (ZEENK)",
+    "image": "zinc_sulphate_20mg_100s_zeenk.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "INSTANERVE CAPSULES 30S",
+    "image": "instanerve_capsules_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUOLAC LACTULOSE 200ML SYRUP",
+    "image": "duolac_lactulose_200ml_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANTI SNAKE VENOM",
+    "image": "anti_snake_venom.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MONTELUKAST (MONLUKE) 10MGS 30S",
+    "image": "montelukast_monluke_10mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EPIMOLE-B BABY/JUNIOR 150GM",
+    "image": "epimole_b_baby_junior_150gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ECEE 2 TABS 1S",
+    "image": "ecee_2_tabs_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCLOXACILLIN 500MG (DAWAFLOX) CAPS 100S",
+    "image": "flucloxacillin_500mg_dawaflox_caps_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUGONE DM SUSPENSION 120ML",
+    "image": "flugone_dm_suspension_120ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MOSQUITO REPELLENT BABY",
+    "image": "mosquito_repellent_baby.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELYCORT OINTMENT 15G",
+    "image": "elycort_ointment_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELYVATE OINTMENT 15GM",
+    "image": "elyvate_ointment_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUO COTECXIN TABS 9S",
+    "image": "duo_cotecxin_tabs_9s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PARADENK 125MG 12S",
+    "image": "paradenk_125mg_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EFLARON SUSPENSION 60ML",
+    "image": "eflaron_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AFLARON 100ML",
+    "image": "aflaron_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PARADENK 250M SUPPOSITORY 12S",
+    "image": "paradenk_250m_suppository_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IMACOF DRY SUSPENSION 100ML",
+    "image": "imacof_dry_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IMACOF EXPECTORANT 100ML",
+    "image": "imacof_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELYCORT CREAM 15G",
+    "image": "elycort_cream_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENARIL 5 TABS 100S",
+    "image": "enaril_5_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FENPAR TABS 725MG 10S",
+    "image": "fenpar_tabs_725mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DEEP HEAT SPRAY 150ML",
+    "image": "deep_heat_spray_150ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENAPRIL INTAS TABS 5MG 100S",
+    "image": "enapril_intas_tabs_5mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DELASED DRY COUGH 100 ML",
+    "image": "delased_dry_cough_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DENTOGEL GEL 10G",
+    "image": "dentogel_gel_10g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DACOFF PAEDRIATIC 100ML",
+    "image": "dacoff_paedriatic_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWAHIST 100ML",
+    "image": "dawahist_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIRACIP MDS TABS 1S",
+    "image": "diracip_mds_tabs_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOWELL-MET 50/1000 28S",
+    "image": "glucowell_met_50_1000_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IMACOF PAEDRIATIC SUSPENSION 100ML",
+    "image": "imacof_paedriatic_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALMAX FORTE SACHETS 30S",
+    "image": "almax_forte_sachets_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DELASED CHESTY 100ML",
+    "image": "delased_chesty_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DEEP HEAT RUB 15GM",
+    "image": "deep_heat_rub_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DEEP HEAT RUB 35GM",
+    "image": "deep_heat_rub_35gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "WRIST SUPPORT",
+    "image": "wrist_support.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALUGEL SYRUP 100ML",
+    "image": "alugel_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMPICLOX (ORIGINAL) NEONATAL DROPS 8ML",
+    "image": "ampiclox_original_neonatal_drops_8ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLOSUN 10MG 30S",
+    "image": "amlosun_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETADINE GARGLE MOUTH WASH 250ML",
+    "image": "betadine_gargle_mouth_wash_250ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEVONOGESTREL HYAN FC 28S",
+    "image": "levonogestrel_hyan_fc_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHLORO G CAPS 10S",
+    "image": "phloro_g_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMPICLO DAWA 100ML DRY SYRUP",
+    "image": "ampiclo_dawa_100ml_dry_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOSPA TABS 100S",
+    "image": "nospa_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LAMITOR TABS 100MG 60S",
+    "image": "lamitor_tabs_100mg_60s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIQUID PARAFFIN B.P 50 ML",
+    "image": "liquid_paraffin_b_p_50_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYCROM EYE DROPS 10ML",
+    "image": "ivycrom_eye_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SPASMOMEN TABLETS 40MG 30S",
+    "image": "spasmomen_tablets_40mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LONART DS TABS 6S",
+    "image": "lonart_ds_tabs_6s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASCORIL EXPECTORANT SYRUP 200ML",
+    "image": "ascoril_expectorant_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASCARD TABS 75 MG 30S",
+    "image": "ascard_tabs_75_mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASCORIL EXPECTORANT 100ML",
+    "image": "ascoril_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRO- ZEET 100ML",
+    "image": "bro_zeet_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTIFED COLD SYRUP 100 ML",
+    "image": "actifed_cold_syrup_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MTM 100 MG TABS 4S",
+    "image": "mtm_100_mg_tabs_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "JUNERVE PLUS TABS 30S",
+    "image": "junerve_plus_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIQUID PARAFFIN 100 ML",
+    "image": "liquid_paraffin_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NO SPA TABS 40 MG 20S",
+    "image": "no_spa_tabs_40_mg_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LOTEM SUSPENSION 100ML",
+    "image": "lotem_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDEX COUGH SYRUP 100ML",
+    "image": "zedex_cough_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZENTEL SUSPENSION 20ML",
+    "image": "zentel_suspension_20ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NAUMA BALM",
+    "image": "nauma_balm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZENTEL 400 MG 1S",
+    "image": "zentel_400_mg_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEURORUBINE FORTE LACTAB 20S",
+    "image": "neurorubine_forte_lactab_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MTM 50 MG TABS 4S",
+    "image": "mtm_50_mg_tabs_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURGICAL SPIRIT 50 ML",
+    "image": "surgical_spirit_50_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOGLUC TABS 28S",
+    "image": "nogluc_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITACAL 30S",
+    "image": "vitacal_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUNSCREEN CREAM MALIBU SPF 30",
+    "image": "sunscreen_cream_malibu_spf_30.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAMOL SUSPENSION 100 ML",
+    "image": "betamol_suspension_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAMOL SUSPENSION 60 ML",
+    "image": "betamol_suspension_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LUNAHIST EXPECTORANT 60 ML",
+    "image": "lunahist_expectorant_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NUTRIVITA 100ML",
+    "image": "nutrivita_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORMAL SALINE DROPS",
+    "image": "normal_saline_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MENOEASE 30S",
+    "image": "menoease_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORMAX TABS 10S",
+    "image": "normax_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GRIPE WATER (BETA) 100ML",
+    "image": "gripe_water_beta_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESOMEPRAZOLE 40MG (SOMPRAZ) INJECTION",
+    "image": "esomeprazole_40mg_sompraz_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEVOTHYROXINE (EUTHYROX) 50 MCG 30S",
+    "image": "levothyroxine_euthyrox_50_mcg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VONAC 50MG TABS 50S",
+    "image": "vonac_50mg_tabs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURGICAL SPIRIT 100ML",
+    "image": "surgical_spirit_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BROZELIN EXPECTORANT SYRUP 100 ML",
+    "image": "brozelin_expectorant_syrup_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RHINATHIOL PROMETHAZINE SYRUP 125 ML",
+    "image": "rhinathiol_promethazine_syrup_125_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LUNAHIST EXPECTORANT 100 ML",
+    "image": "lunahist_expectorant_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEFCOLIN SYRUP 100 ML",
+    "image": "zefcolin_syrup_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BIC RAZOR",
+    "image": "bic_razor.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOSIC TABS 20S",
+    "image": "nosic_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EPOSOFT 30S",
+    "image": "eposoft_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EVISOFT CREAM BABY AND JUNIOR CREAM 50GM",
+    "image": "evisoft_cream_baby_and_junior_cream_50gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATSTAT 10 30S",
+    "image": "atstat_10_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STOPACID SUSPENSION 100 ML",
+    "image": "stopacid_suspension_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RHINATHIOL INFANT PINK SYRUP 125ML",
+    "image": "rhinathiol_infant_pink_syrup_125ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CHLORPROMAZINE TABS 100MG 100S",
+    "image": "chlorpromazine_tabs_100mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRIMOCHECK T",
+    "image": "brimocheck_t.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ABSOLUT 30S",
+    "image": "absolut_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LORHISTINA SYRUP 5 MG/5 ML 60 ML",
+    "image": "lorhistina_syrup_5_mg_5_ml_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CIPLADON 1000 MG TABS 8S",
+    "image": "cipladon_1000_mg_tabs_8s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CIPLADON 500 MG 16S",
+    "image": "cipladon_500_mg_16s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CERELIFE TABLET 30S",
+    "image": "cerelife_tablet_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CETAMOL 60 ML",
+    "image": "cetamol_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HYLO COMOD EYE DROPS 10ML",
+    "image": "hylo_comod_eye_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OXYTOCIN INJECTION 10IU",
+    "image": "oxytocin_injection_10iu.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVULIN SYRUP 457 MG/5ML 70 ML",
+    "image": "clavulin_syrup_457_mg_5ml_70_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEDIVEN 15G CREAM",
+    "image": "mediven_15g_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SEPTRIN (GENERIC) SUSPENSION 50ML",
+    "image": "septrin_generic_suspension_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOB-B CREAM 15 G",
+    "image": "clob_b_cream_15_g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRITON INJECTION 10S",
+    "image": "piriton_injection_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FANLAR TABS 25S",
+    "image": "fanlar_tabs_25s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVULIN 625 MG 14S",
+    "image": "clavulin_625_mg_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESOMEZOL 40MG CAPS 30S",
+    "image": "esomezol_40mg_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "METHYLATED SPIRIT 70% 1 L",
+    "image": "methylated_spirit_70_1_l.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "METHYLATED SPIRIT 500 ML",
+    "image": "methylated_spirit_500_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOB CREAM 15G",
+    "image": "clob_cream_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVULIN ORAL SUSPENSION 228MG/5ML 70ML",
+    "image": "clavulin_oral_suspension_228mg_5ml_70ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELCAM 15MG TABS 50S",
+    "image": "melcam_15mg_tabs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "METHYLATED SPIRIT 50 ML",
+    "image": "methylated_spirit_50_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "METHYLATED SPIRIT 100 ML",
+    "image": "methylated_spirit_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENERVIT SYRUP 60 ML",
+    "image": "enervit_syrup_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMARYL 1MG 30S",
+    "image": "amaryl_1mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MULTIVITAMIN TABS 100S (ENERVIT)",
+    "image": "multivitamin_tabs_100s_enervit.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NASIVION ADULT NASAL DROPS 10ML",
+    "image": "nasivion_adult_nasal_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NASIVION PAEDIATRIC DROPS 10ML",
+    "image": "nasivion_paediatric_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MICROGYNON 30 TABS 21S",
+    "image": "microgynon_30_tabs_21s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FOLIC ACID 5 MG TABS 100S",
+    "image": "folic_acid_5_mg_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENERVIT SYRUP 100ML",
+    "image": "enervit_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GAVISCON PEPPERMINT SUSPENSION 200 ML",
+    "image": "gaviscon_peppermint_suspension_200_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATROPINE INJECTION",
+    "image": "atropine_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AVEZA 30S",
+    "image": "aveza_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYSOLONE SUSPENSION",
+    "image": "ivysolone_suspension.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELCAM 7.5MG 100S",
+    "image": "melcam_7_5mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUGONE P PLUS SYRUP 60 ML",
+    "image": "flugone_p_plus_syrup_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FUNGISTAT CREAM",
+    "image": "fungistat_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PLUS MULTIVITAMIN CAPS 30S",
+    "image": "plus_multivitamin_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GENTAMYCIN EYE DROPS 10 ML (IVY)",
+    "image": "gentamycin_eye_drops_10_ml_ivy.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHARMASINE EYE DROPS 10ML",
+    "image": "pharmasine_eye_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEDIVEN - S OINTMENT 15GM",
+    "image": "mediven_s_ointment_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MICROGYNON - FE 28S",
+    "image": "microgynon_fe_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCLOXACILLIN 250 MG 100S (DAWAFLOX)",
+    "image": "flucloxacillin_250_mg_100s_dawaflox.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DREZ V GEL",
+    "image": "drez_v_gel.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GUMMYS 30S",
+    "image": "gummys_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OPSITE SPRAY 100ML/79GM",
+    "image": "opsite_spray_100ml_79gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PREDNISOLONE BLUE 5MG TABS 100S",
+    "image": "prednisolone_blue_5mg_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CIPROKEN EYE DROPS 5 ML",
+    "image": "ciproken_eye_drops_5_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FUROSEMIDE 40MG TABS 100S",
+    "image": "furosemide_40mg_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYPHENICOL EYE DROPS",
+    "image": "ivyphenicol_eye_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOMET 850MG 56S",
+    "image": "glucomet_850mg_56s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LOSARTAS TABS 50 MG 28S",
+    "image": "losartas_tabs_50_mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HYDROCORTISONE EYE DROPS 10 ML",
+    "image": "hydrocortisone_eye_drops_10_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZERODOL - CR TABS 200 MG 30 S",
+    "image": "zerodol_cr_tabs_200_mg_30_s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZERODOL P TABS 100 MG 30S",
+    "image": "zerodol_p_tabs_100_mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SILVERLIFE TOPICAL SPRAY 100MLS",
+    "image": "silverlife_topical_spray_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PURECAL CHEWABLE TABS 30S",
+    "image": "purecal_chewable_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACINET 625 MG 10S",
+    "image": "acinet_625_mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOPHAGE TABS 500MG 90S",
+    "image": "glucophage_tabs_500mg_90s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMOXIL ORIGINAL 500 MG CAPS 100S",
+    "image": "amoxil_original_500_mg_caps_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RELCER GEL 180ML",
+    "image": "relcer_gel_180ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYDEXANEOCIN EYE DROPS 5MLS",
+    "image": "ivydexaneocin_eye_drops_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NIFELAT RETARD 20 MG 100S",
+    "image": "nifelat_retard_20_mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURGICAL SPIRIT 500 ML",
+    "image": "surgical_spirit_500_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRICLOR 100ML (PIRITON)",
+    "image": "piriclor_100ml_piriton.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FANSIDAR TABS 150 S",
+    "image": "fansidar_tabs_150_s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEXITO 5MG 30S",
+    "image": "nexito_5mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PRIMOLUT N TABS 30S",
+    "image": "primolut_n_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NILACID 200MLS",
+    "image": "nilacid_200mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARTIL FORTE CAPS 30S",
+    "image": "cartil_forte_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POWERGESIC MR TABS 100S",
+    "image": "powergesic_mr_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LOSARTAS HT 150S",
+    "image": "losartas_ht_150s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CADRONATE 150MGS 3S",
+    "image": "cadronate_150mgs_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUGONE P PLUS SUSPENSION 120 ML",
+    "image": "flugone_p_plus_suspension_120_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PANADOL EXTRA 50S",
+    "image": "panadol_extra_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRALIX TABS 100S",
+    "image": "bralix_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OSTEOCARE TABS 30S",
+    "image": "osteocare_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARTIL SUPER FORTE TABS 30 S",
+    "image": "cartil_super_forte_tabs_30_s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KALUMA KING THROAT LOZENGES 50 PAIRS",
+    "image": "kaluma_king_throat_lozenges_50_pairs.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PREGNACARE CONCEPTION TABS 30 S",
+    "image": "pregnacare_conception_tabs_30_s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELASTOPLASTS 100S",
+    "image": "elastoplasts_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAXY 625 MG TABS 10S",
+    "image": "claxy_625_mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STERON TABS 5 MG 100S",
+    "image": "steron_tabs_5_mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VOLINI GEL 30GMS",
+    "image": "volini_gel_30gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASOMEX 2.5MG 30S",
+    "image": "asomex_2_5mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MYTEKA TABS 10MG 14S",
+    "image": "myteka_tabs_10mg_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PANADOL ADVANCE 50S",
+    "image": "panadol_advance_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWANOL 50S",
+    "image": "dawanol_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTION 100S",
+    "image": "action_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LYRICA 25MGS 28S",
+    "image": "lyrica_25mgs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MENTHOL PLUS 9MLS",
+    "image": "menthol_plus_9mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COFTA TABLETS 50S",
+    "image": "cofta_tablets_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALBENDAZOLE SUSPENSION 100 ML (EMITEL)",
+    "image": "albendazole_suspension_100_ml_emitel.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUNNY GIRL PADS",
+    "image": "sunny_girl_pads.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CHESTCOF SYRUP 100ML",
+    "image": "chestcof_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIDEX 100 ML",
+    "image": "tridex_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIDEX 60 ML",
+    "image": "tridex_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWA PROM (PROMETHAZINE 60ML)",
+    "image": "dawa_prom_promethazine_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWAHIST 60 ML",
+    "image": "dawahist_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALBENDAZOLE (NUBEND) TABLETS 400 MG",
+    "image": "albendazole_nubend_tablets_400_mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PAMOL 60 ML",
+    "image": "pamol_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULCERID PLAIN 100 ML",
+    "image": "ulcerid_plain_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NICOF EXPECTORANTS",
+    "image": "nicof_expectorants.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TOFEN EYE DROPS",
+    "image": "tofen_eye_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRICOHIST 100 ML",
+    "image": "tricohist_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BONNISAN 120 ML",
+    "image": "bonnisan_120_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CURAMOL 60 ML",
+    "image": "curamol_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONSED EXPECTORANT 100 ML",
+    "image": "consed_expectorant_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONSED EXPECTORANT 60 ML",
+    "image": "consed_expectorant_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWAVITE 100ML",
+    "image": "dawavite_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEOCOFF D 60 ML",
+    "image": "neocoff_d_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWAVITE 60ML",
+    "image": "dawavite_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COLDCAP SYRUP 100 ML",
+    "image": "coldcap_syrup_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COLDCAP ORIGINAL 12S",
+    "image": "coldcap_original_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COTTON WOOL 400 GM (KINGS)",
+    "image": "cotton_wool_400_gm_kings.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COTTON WOOL 50 GM (KINGS)",
+    "image": "cotton_wool_50_gm_kings.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CYCLOPAM SUSPENSION 30 ML",
+    "image": "cyclopam_suspension_30_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SEPTRIN GENERIC 480 MG 100S (LECOT)",
+    "image": "septrin_generic_480_mg_100s_lecot.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHENCOD 60 ML",
+    "image": "phencod_60_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIHISTAMIN 100ML",
+    "image": "trihistamin_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHENOBARBITONE TABS 30 MG 100S B.P",
+    "image": "phenobarbitone_tabs_30_mg_100s_b_p.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRITON SYRUP 100 ML",
+    "image": "piriton_syrup_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CREPE BANDAGE 4 INCH",
+    "image": "crepe_bandage_4_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CREPE BANDAGE 3 INCH",
+    "image": "crepe_bandage_3_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DACOF EXPECTORANT 100 ML",
+    "image": "dacof_expectorant_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CRAFE AWAY CIGARETTES",
+    "image": "crafe_away_cigarettes.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ONE STEP HCG STRIPS (EROVITA)",
+    "image": "one_step_hcg_strips_erovita.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CREPE BANDAGES 2 INCH",
+    "image": "crepe_bandages_2_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROMETHAZINE 25 MG 100S",
+    "image": "promethazine_25_mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PENAMOX SUSPENSION FORTE 250 MG/5 ML",
+    "image": "penamox_suspension_forte_250_mg_5_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMIKACIN INJECTION 500MG/2ML",
+    "image": "amikacin_injection_500mg_2ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIROXICAM CAPS 20MG 100S (PIROMED)",
+    "image": "piroxicam_caps_20mg_100s_piromed.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AUGMENTIN TABS 1GM 14S",
+    "image": "augmentin_tabs_1gm_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNIBROL 250 MG TABS 24S",
+    "image": "unibrol_250_mg_tabs_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROBETA - N EYE/EAR/NOSE DROPS 7.5 ML",
+    "image": "probeta_n_eye_ear_nose_drops_7_5_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MYTEKA SACHETS 14S",
+    "image": "myteka_sachets_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POSTINOR TABS 1S",
+    "image": "postinor_tabs_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROPRANOLOL 40MG 100S B.P",
+    "image": "propranolol_40mg_100s_b_p.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORVATIS GLIMEPIRIDE 4MG 90S",
+    "image": "norvatis_glimepiride_4mg_90s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SAFERON SYRUP",
+    "image": "saferon_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRITON EXPECTORANT LINCTUS 100ML",
+    "image": "piriton_expectorant_linctus_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZYRTEC SYRUP 75ML",
+    "image": "zyrtec_syrup_75ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ABZ (ALBENDAZOLE) TABS 400MG 1S",
+    "image": "abz_albendazole_tabs_400mg_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POLYCID FORTE GEL 120 ML",
+    "image": "polycid_forte_gel_120_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RAPIDOL (PARACETAMOL) TABS 500MG 1000S",
+    "image": "rapidol_paracetamol_tabs_500mg_1000s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRICLOR SYRUP 60ML",
+    "image": "piriclor_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FUTSIL LOTION 15ML",
+    "image": "futsil_lotion_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VISCID GEL 200ML",
+    "image": "viscid_gel_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EUFOL-PLUS 30S",
+    "image": "eufol_plus_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DELASED PAEDIATRIC 100ML",
+    "image": "delased_paediatric_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RHIZIN SYRUP 60ML",
+    "image": "rhizin_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COSCOF-C LINCTUS 60ML",
+    "image": "coscof_c_linctus_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HUMALOG KWIKPEN 3ML",
+    "image": "humalog_kwikpen_3ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CIFEX TABS 200MG 7S",
+    "image": "cifex_tabs_200mg_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DR. TOUX SYRUP 100ML",
+    "image": "dr_toux_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "REMIDIN MOUTHWASH 100ML",
+    "image": "remidin_mouthwash_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MYCOTA POWDER 70GM",
+    "image": "mycota_powder_70gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMPICLOX ORIGINAL SYRUP 250MG 100ML",
+    "image": "ampiclox_original_syrup_250mg_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELASTOPLAST FITZROY 100S",
+    "image": "elastoplast_fitzroy_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOMET 850MG 28S",
+    "image": "glucomet_850mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KOFED COMPOUND SYRUP 100ML",
+    "image": "kofed_compound_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AUGMENTIN 228MG/5ML 70ML",
+    "image": "augmentin_228mg_5ml_70ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COSCOF-C LINCTUS 100ML",
+    "image": "coscof_c_linctus_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANKLE SUPPORT L",
+    "image": "ankle_support_l.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BROZEDEX SYRUP 100ML",
+    "image": "brozedex_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FERRO B SYRUP 100ML",
+    "image": "ferro_b_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KOFED MULTI-ACTION 100ML",
+    "image": "kofed_multi_action_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NUTRIVITA SYRUP 200ML",
+    "image": "nutrivita_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "APPEVITE FORTE SYRUP 200ML",
+    "image": "appevite_forte_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNICOLD SYRUP 60ML",
+    "image": "unicold_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PLACTINIC SYRUP 100ML",
+    "image": "plactinic_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMETABOL SYRUP 150ML",
+    "image": "trimetabol_syrup_150ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIMCEE VITAMIN C CHEWABLE 500 ORANGE 300S",
+    "image": "limcee_vitamin_c_chewable_500_orange_300s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COSVATE G CREAM 15MGS",
+    "image": "cosvate_g_cream_15mgs.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENTAMAXIN CAPS 30S",
+    "image": "entamaxin_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASTYMIN LIQUID 200ML",
+    "image": "astymin_liquid_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIOHIST EXPECTORANT 60ML",
+    "image": "triohist_expectorant_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COLDCAP SYRUP 100ML",
+    "image": "coldcap_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COLDEC SYRUP STAY YOUNG 100ML",
+    "image": "coldec_syrup_stay_young_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FERRO B COMPLEX 60ML",
+    "image": "ferro_b_complex_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "APPEVITE SYRUP 100ML",
+    "image": "appevite_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CADISTIN EXPECTORANT 100ML",
+    "image": "cadistin_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BABYMOL SUSPENSION 100ML",
+    "image": "babymol_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINCAT ZINC SULPHATE SYRUP 60ML",
+    "image": "zincat_zinc_sulphate_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMITRIPTYLINE 25MG 100S B.P",
+    "image": "amitriptyline_25mg_100s_b_p.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DENTAMOL TABS 20S",
+    "image": "dentamol_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HYDROCHLOROTHIAZIDE TABS 50MG 100S",
+    "image": "hydrochlorothiazide_tabs_50mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PREDSOL SUSPENSION 60ML",
+    "image": "predsol_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLAMOX DRY SUSPENSION 250MG/5ML",
+    "image": "flamox_dry_suspension_250mg_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINIDAZOLE (TINISTAR-500) 4S",
+    "image": "tinidazole_tinistar_500_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COSVATE CREAM 15MG",
+    "image": "cosvate_cream_15mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BIOFERON 200ML",
+    "image": "bioferon_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAGNESIUM SULPHATE VIAL INJECTION 10ML",
+    "image": "magnesium_sulphate_vial_injection_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEURO FORTE 20S",
+    "image": "neuro_forte_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AZICIP (AZITHROMYCIN) 500MG 3S",
+    "image": "azicip_azithromycin_500mg_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CYPON DROPS 15ML",
+    "image": "cypon_drops_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMOXIL SYRUP 125MG ORIGINAL 100ML",
+    "image": "amoxil_syrup_125mg_original_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLAMOX CAPS 20S",
+    "image": "flamox_caps_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OCID CAPS 20MG 100S",
+    "image": "ocid_caps_20mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONTUS 650 TABS 10S",
+    "image": "contus_650_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CYPON SYRUP 200ML",
+    "image": "cypon_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DEXTRACIN EYE DROPS 5ML",
+    "image": "dextracin_eye_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KOACT 625MG 15S",
+    "image": "koact_625mg_15s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEJOINT 30S",
+    "image": "zejoint_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEBACTUM 1.5",
+    "image": "cebactum_1_5.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DACOF DRY COUGH SYRUP 100ML",
+    "image": "dacof_dry_cough_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DABORAL SYRUP 125MG/5ML 60ML",
+    "image": "daboral_syrup_125mg_5ml_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AERIUS SYRUP 60ML",
+    "image": "aerius_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ERYTHROMYCIN 250MG 100S",
+    "image": "erythromycin_250mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEDIKEEL BLACKCURRANT 16S",
+    "image": "medikeel_blackcurrant_16s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEPROLENE -D EAR/EYE DROPS 5ML",
+    "image": "ceprolene_d_ear_eye_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESOMAC 20MG 28S",
+    "image": "esomac_20mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINNAT SUSPENSION 125MG/5ML 50ML",
+    "image": "zinnat_suspension_125mg_5ml_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEGA 100MG 4S",
+    "image": "vega_100mg_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEGA 50MG 4S",
+    "image": "vega_50mg_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FEFOL SPANSULE CAPS 30S",
+    "image": "fefol_spansule_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POLYGYNAX 12S",
+    "image": "polygynax_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOVELTA 100MLS",
+    "image": "novelta_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESOMAC 40MG 14S",
+    "image": "esomac_40mg_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEPROLENE EYE/EAR DROPS 5ML",
+    "image": "ceprolene_eye_ear_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RANITIN 150MG 100S",
+    "image": "ranitin_150mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELOXICAM (NEOXICAM) TABS 15MG 100S",
+    "image": "meloxicam_neoxicam_tabs_15mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CYPROL B PLUS SYRUP 200ML",
+    "image": "cyprol_b_plus_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CRANMED 30S",
+    "image": "cranmed_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BIOTET OINTMENT 15GM",
+    "image": "biotet_ointment_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAZIT CAPSULES 250MG 6S",
+    "image": "mazit_capsules_250mg_6s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AZITHROMYCIN SYRUP (AZITHROSAFE) 15ML",
+    "image": "azithromycin_syrup_azithrosafe_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELATONIN 10MG 60S",
+    "image": "melatonin_10mg_60s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IMIPRAMINE 25MG 28S",
+    "image": "imipramine_25mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BULKOT MIX CREAM 20G",
+    "image": "bulkot_mix_cream_20g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OXIFAST P 10S",
+    "image": "oxifast_p_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINNAT TABLETS 500MG 10S",
+    "image": "zinnat_tablets_500mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEMOCID (PYRANTEL PAMOATE) TABS 3S",
+    "image": "nemocid_pyrantel_pamoate_tabs_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STERAMINE TABS 30S",
+    "image": "steramine_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "WATER (WETLANDS) 1 LITRE 12S",
+    "image": "water_wetlands_1_litre_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "WATER (WETLANDS) 500ML 24S",
+    "image": "water_wetlands_500ml_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RIVALEXIN SYRUP 125MG 100ML",
+    "image": "rivalexin_syrup_125mg_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LYRICA 75MGS 56S",
+    "image": "lyrica_75mgs_56s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "INOVIT E VITAMIN E 30S",
+    "image": "inovit_e_vitamin_e_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RIVALEXIN (CEFALEXIN) 250MG/5ML",
+    "image": "rivalexin_cefalexin_250mg_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNISTEN CREAM",
+    "image": "unisten_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MYOLGIN CAPS 10S",
+    "image": "myolgin_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORCLEN GEL 15ML",
+    "image": "orclen_gel_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BG- GLUTAMIN TABS 30S",
+    "image": "bg_glutamin_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CABALIN 25MG NT CAPS 30S",
+    "image": "cabalin_25mg_nt_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALDOMET 500MG TABS 30S",
+    "image": "aldomet_500mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "P- ALAXIN TABS 9S",
+    "image": "p_alaxin_tabs_9s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDCAL TABS 30S",
+    "image": "zedcal_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MONTALLERG CT 10S",
+    "image": "montallerg_ct_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FEXET (FEXOFENADINE) 120MG 20S",
+    "image": "fexet_fexofenadine_120mg_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNISTEN HC CREAM 20GM",
+    "image": "unisten_hc_cream_20gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RANITIDINE (RANIDIN) INJECTION 50MG 10S",
+    "image": "ranitidine_ranidin_injection_50mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDEREL TABS 1S",
+    "image": "canderel_tabs_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESCLAM KIT 7S",
+    "image": "esclam_kit_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PURECAL SUSPENSION 200ML",
+    "image": "purecal_suspension_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LATEX GLOVES 100S (MEDIUM)",
+    "image": "latex_gloves_100s_medium.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZATHRIN (AZITHROMYCIN) 500MG 3S",
+    "image": "zathrin_azithromycin_500mg_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARDINOL (ATENOLOL) 50MG TABS 28S",
+    "image": "cardinol_atenolol_50mg_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NILOL SR TABS 30S",
+    "image": "nilol_sr_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEDICAL ENVELOPES 1000S",
+    "image": "medical_envelopes_1000s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRANSAMIN 500MG CAPS 20S",
+    "image": "transamin_500mg_caps_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ROMANTIC CONDOMS 48S",
+    "image": "romantic_condoms_48s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MENTHODEX COUGH SYRUP 100ML",
+    "image": "menthodex_cough_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SOLVIN PLUS TABS 100S",
+    "image": "solvin_plus_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DONECEPT 10MG DONEPEZIL TABS 30S",
+    "image": "donecept_10mg_donepezil_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ITRACONAZOLE 100MG CAPS (ITACON) 10S",
+    "image": "itraconazole_100mg_caps_itacon_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRUST CONDOM STUDDED 24S",
+    "image": "trust_condom_studded_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DICLOMOL SR TABS 100MG 100S",
+    "image": "diclomol_sr_tabs_100mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "P.O.P 6 INCH / 8 INCH",
+    "image": "p_o_p_6_inch_8_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MIRTAZAPINE GENERIC 15MG 28S",
+    "image": "mirtazapine_generic_15mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DELUXE CONDOMS 24S",
+    "image": "deluxe_condoms_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VARICOSE STOCKING XL ABOVE KNEE",
+    "image": "varicose_stocking_xl_above_knee.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MIXAVIT SYRUP 120ML",
+    "image": "mixavit_syrup_120ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENTEROGERMINA ORAL SUSPENSION 5ML 10S",
+    "image": "enterogermina_oral_suspension_5ml_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITIX GEL FOR HYPOPIGMENTATION 20ML",
+    "image": "vitix_gel_for_hypopigmentation_20ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIPROSALIC OINTMENT 30GM",
+    "image": "diprosalic_ointment_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PANADOL BABY & INFANT SYRUP 100ML",
+    "image": "panadol_baby_infant_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NETAZOX OF TABS 10S",
+    "image": "netazox_of_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLOVAS 10MG 30S",
+    "image": "amlovas_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYSONE EYE DROPS 5ML",
+    "image": "ivysone_eye_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OFLOXACIN & ORNIDAZOLE (OFLONIDA) TABS 10S",
+    "image": "ofloxacin_ornidazole_oflonida_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROMETHAZINE 60ML (HISTAGAN)",
+    "image": "promethazine_60ml_histagan.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLOVAS 5MG TABS 30S",
+    "image": "amlovas_5mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLOZAAR 30S (LOSARTAN & AMLODIPINE)",
+    "image": "amlozaar_30s_losartan_amlodipine.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID TV SUSPENSION 60ML",
+    "image": "candid_tv_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RILIF MR TABS 20S",
+    "image": "rilif_mr_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OILATUM SOAP 100GM BAR",
+    "image": "oilatum_soap_100gm_bar.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BUSCOPAN PLUS GENERIC 100S",
+    "image": "buscopan_plus_generic_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NETAZOX 500MG (NITAZOXANIDE) TABS 6S",
+    "image": "netazox_500mg_nitazoxanide_tabs_6s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MONTALLERG TABS 20S",
+    "image": "montallerg_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOLOACT MR TABS 100S",
+    "image": "doloact_mr_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OTOREX EAR DROPS",
+    "image": "otorex_ear_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEUROCARE PLUS CAPS 30S",
+    "image": "neurocare_plus_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEVOLUKAST KIDI TABS 30S",
+    "image": "levolukast_kidi_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEOCLAV 228MG/5ML 70ML",
+    "image": "neoclav_228mg_5ml_70ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TOPCORT NASAL SPRAY",
+    "image": "topcort_nasal_spray.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEVOLUKAST TABS 30S",
+    "image": "levolukast_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DECOMIT NASAL SPRAY 50MCG",
+    "image": "decomit_nasal_spray_50mcg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOLGRIPP JUNIOR SYRUP 100ML",
+    "image": "nolgripp_junior_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SOLVIN PLUS LIQUID 60ML",
+    "image": "solvin_plus_liquid_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CREPE BANDAGE 6 INCH",
+    "image": "crepe_bandage_6_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDCAL ORAL SUSPENSION 200ML",
+    "image": "zedcal_oral_suspension_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEOCLAV 457MG/5ML 70ML",
+    "image": "neoclav_457mg_5ml_70ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLINDACIN CAPS 150MGS 100S",
+    "image": "clindacin_caps_150mgs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MUCOSOLVAN LIQUID 15MG/5ML 100ML",
+    "image": "mucosolvan_liquid_15mg_5ml_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AQUEOUS CREAM 500GMS",
+    "image": "aqueous_cream_500gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESOSE TABS 40MG 10S",
+    "image": "esose_tabs_40mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DECOMIT INHALER 100MCG 200 DOSES",
+    "image": "decomit_inhaler_100mcg_200_doses.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESOSE TABS 20MG 10S",
+    "image": "esose_tabs_20mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OMEGA H-3 CAPS 30S",
+    "image": "omega_h_3_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEVAMISOLE-LEVAWORM SUSPENSION",
+    "image": "levamisole_levaworm_suspension.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID MOUTH PAINT 15ML",
+    "image": "candid_mouth_paint_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VDM KIT (FLUC + AZITH + SEC) 1S",
+    "image": "vdm_kit_fluc_azith_sec_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PPF (PROCAINE PENICILLIN FORTIFIED) I.M",
+    "image": "ppf_procaine_penicillin_fortified_i_m.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVAM SYRUP 156MG/ML 100MLS",
+    "image": "clavam_syrup_156mg_ml_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUPHASTON TABS 10MG 20S",
+    "image": "duphaston_tabs_10mg_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAFRACLAV 625MG 15S",
+    "image": "dafraclav_625mg_15s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOTRINE B CREAM",
+    "image": "clotrine_b_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANOMEX SUPPOSITORIES 5S",
+    "image": "anomex_suppositories_5s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENEMAX ENEMA 120MLS",
+    "image": "enemax_enema_120mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MENTHODEX COUGH MIXTURE 200MLS",
+    "image": "menthodex_cough_mixture_200mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOFORT SUSPENSION CEFACLOR 125MGS",
+    "image": "clofort_suspension_cefaclor_125mgs.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IBICAR S INHALER",
+    "image": "ibicar_s_inhaler.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMPICLO DAWA DRY SYRUP 60ML",
+    "image": "ampiclo_dawa_dry_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANUSTAT OINTMENT 15MG",
+    "image": "anustat_ointment_15mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ADACIN GEL 15GMS",
+    "image": "adacin_gel_15gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORMAL SALINE 500MLS",
+    "image": "normal_saline_500mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SYLATE TABS 18S",
+    "image": "sylate_tabs_18s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOTRINE CREAM 20G",
+    "image": "clotrine_cream_20g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACYCLOVIR UNIVIR 400MGS TABS 10S",
+    "image": "acyclovir_univir_400mgs_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OZITAS 10MGS 30S",
+    "image": "ozitas_10mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OXYBUTYNIN 5MG TABS (OXINUS) 100S",
+    "image": "oxybutynin_5mg_tabs_oxinus_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "XTRADERM CREAM",
+    "image": "xtraderm_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BURNESE CREAM 15GMS",
+    "image": "burnese_cream_15gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINCOFER SYRUP 200ML",
+    "image": "zincofer_syrup_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCONAZOLE 150MGS 1S (FLUTROX)",
+    "image": "fluconazole_150mgs_1s_flutrox.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLIVE OIL (DIARIM) 50ML",
+    "image": "olive_oil_diarim_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARBIMAZOLE TABS 5MGS (CARAL METRO)",
+    "image": "carbimazole_tabs_5mgs_caral_metro.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALLERSTOP TABS 30S",
+    "image": "allerstop_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SULPHUR OINTMENT 20G",
+    "image": "sulphur_ointment_20g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AL (ARTEFAN) TABS 20/120MG 24S",
+    "image": "al_artefan_tabs_20_120mg_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOSALLA SALINE DROPS 10ML",
+    "image": "nosalla_saline_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVAM SUSPENSION 228 70MLS",
+    "image": "clavam_suspension_228_70mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "XPEN INJECTION MEGA",
+    "image": "xpen_injection_mega.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GABICA CAPS 75MG 35S",
+    "image": "gabica_caps_75mg_35s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "INOSITA PLUS 50/500 28S",
+    "image": "inosita_plus_50_500_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SILVEREX CREAM 25GM",
+    "image": "silverex_cream_25gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENAT 400MGS 30S",
+    "image": "enat_400mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "REMUS 0.03% OINTMENT 10G (TACROLIMUS)",
+    "image": "remus_0_03_ointment_10g_tacrolimus.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVAM SUSPENSION 457MG 70MLS",
+    "image": "clavam_suspension_457mg_70mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOLAFREE 50MGS 30S",
+    "image": "dolafree_50mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CITAL SYRUP 100ML",
+    "image": "cital_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZUPRICIN OINTMENT",
+    "image": "zupricin_ointment.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MICROENEMA 10MLS",
+    "image": "microenema_10mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DULCOLAX 5MG TABS 30S",
+    "image": "dulcolax_5mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELBOW SUPPORT M",
+    "image": "elbow_support_m.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SOFTBAN 20CM BY 3M (8 INCH)",
+    "image": "softban_20cm_by_3m_8_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BIO- OIL 125ML",
+    "image": "bio_oil_125ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOMET N TABS 28S",
+    "image": "glucomet_n_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELBOW SUPPORT XL",
+    "image": "elbow_support_xl.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOLOMED MR TABS 100S",
+    "image": "dolomed_mr_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIOGLUC 15MG TABS 28S",
+    "image": "piogluc_15mg_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GOODMORNING LUNG TONIC 60ML",
+    "image": "goodmorning_lung_tonic_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASHTON AND PARSONS 20S",
+    "image": "ashton_and_parsons_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SYLENT TX TABS 10S",
+    "image": "sylent_tx_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIOGLUC 30MG TABS 28S",
+    "image": "piogluc_30mg_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEPIN SR 20MGS 100S",
+    "image": "nepin_sr_20mgs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAXITROL DROPS 5MLS",
+    "image": "maxitrol_drops_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ARTEMETHER & LUMEFANTRINE 24S",
+    "image": "artemether_lumefantrine_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TETRACYCLINE EYE OINTMENT 5G",
+    "image": "tetracycline_eye_ointment_5g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEFUROXIME SUSPENSION (SEFUR DS) 250MG/5ML",
+    "image": "cefuroxime_suspension_sefur_ds_250mg_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PERNEX AC 5% GEL 20GMS",
+    "image": "pernex_ac_5_gel_20gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DERMIKELP CREAM 25GMS",
+    "image": "dermikelp_cream_25gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ASCORIL D 100ML",
+    "image": "ascoril_d_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINC SULPHATE EYE DROP 5ML",
+    "image": "zinc_sulphate_eye_drop_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "THIOCARB & PROMETHAZINE 100ML SYRUP",
+    "image": "thiocarb_promethazine_100ml_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RANITIDINE (NEOTACK) INJECTION 50MG/2ML 10S",
+    "image": "ranitidine_neotack_injection_50mg_2ml_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "INSULIN SYRINGE G30 (MICROFINE) 1ML 100S",
+    "image": "insulin_syringe_g30_microfine_1ml_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TEARS NATURALE II 15MLS",
+    "image": "tears_naturale_ii_15mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COARTEM TABS 20MG/120MG 24S",
+    "image": "coartem_tabs_20mg_120mg_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KLENZIT C GEL 15GMS",
+    "image": "klenzit_c_gel_15gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDIDDUO 7S (CLINDAMYCIN/CLOTRIMAZOLE) VAGINAL CAPSULES",
+    "image": "candidduo_7s_clindamycin_clotrimazole_vaginal_capsules.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VOLTAREN EMULGEL 1% 20GMS",
+    "image": "voltaren_emulgel_1_20gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONTRATUBEX GEL 20G",
+    "image": "contratubex_gel_20g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ERYTHROMYCIN 125MG/5ML 60MLS",
+    "image": "erythromycin_125mg_5ml_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAXIPLEX TABS 30S",
+    "image": "maxiplex_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NILACID 100MLS",
+    "image": "nilacid_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COTTON WOOL 200 GM (KINGS)",
+    "image": "cotton_wool_200_gm_kings.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATORVASTATIN (ARVAZ) 20MG 28S",
+    "image": "atorvastatin_arvaz_20mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NITROFURANTOIN TABS 100MG 100S",
+    "image": "nitrofurantoin_tabs_100mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMOXYCILLIN (KEMOXYL) 250MGS CAPS 100S",
+    "image": "amoxycillin_kemoxyl_250mgs_caps_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRITON CHLOROPHENIRAMINE SYRUP 60ML (DAWA-CPM)",
+    "image": "piriton_chloropheniramine_syrup_60ml_dawa_cpm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MONTANA TAB 10MG 14S",
+    "image": "montana_tab_10mg_14s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AVASTATIN 10MGS 28S",
+    "image": "avastatin_10mgs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COLIZA (COLIX) DROPS",
+    "image": "coliza_colix_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CETRIZET-D 100S (AS FILBET)",
+    "image": "cetrizet_d_100s_as_filbet.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACNES SCAR CARE 12GM",
+    "image": "acnes_scar_care_12gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DISFLATYL TABS 100S",
+    "image": "disflatyl_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALLERGO COMOD DROPS 10ML",
+    "image": "allergo_comod_drops_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MICROENEMA 20MLS",
+    "image": "microenema_20mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOXAZOSIN 4MG TABS 28S",
+    "image": "doxazosin_4mg_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DESOSTAR 5MG DESLORATADINE 30S",
+    "image": "desostar_5mg_desloratadine_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TML EYE DROPS 5MLS",
+    "image": "tml_eye_drops_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZINCOMPLEX DROPS 30ML",
+    "image": "zincomplex_drops_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ROACCUTANE CAPS 10MG 30S",
+    "image": "roaccutane_caps_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FASTUM GEL 20G",
+    "image": "fastum_gel_20g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACINET 1GM/100MG 10S",
+    "image": "acinet_1gm_100mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCONAZOLE INJECTION",
+    "image": "fluconazole_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIANGULAR BANDAGES 90CM BY 90CM",
+    "image": "triangular_bandages_90cm_by_90cm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "JIK 5LITRES",
+    "image": "jik_5litres.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "M2 TONE TABS 20S",
+    "image": "m2_tone_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAALOX PLUS TABS 40S",
+    "image": "maalox_plus_tabs_40s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAFEN PLUS SYRUP 60MLS",
+    "image": "betafen_plus_syrup_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "JUNIOR ASPIRIN 75MGS TABS 1000S",
+    "image": "junior_aspirin_75mgs_tabs_1000s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVAM TABS 1GM 10S",
+    "image": "clavam_tabs_1gm_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOLAFREE SR 100MG 30S",
+    "image": "dolafree_sr_100mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FOPYN TABS 20S",
+    "image": "fopyn_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SIGN KIT TABS 7S",
+    "image": "sign_kit_tabs_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAALOX PLUS SUSPENSION 250ML",
+    "image": "maalox_plus_suspension_250ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TERBEX CREAM 15GM",
+    "image": "terbex_cream_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AXE BRAND CHAPA SHOKA",
+    "image": "axe_brand_chapa_shoka.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TPN TOTAL PARENTERAL PERIPHERAL INFUSION",
+    "image": "tpn_total_parenteral_peripheral_infusion.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SEVEN SEAS COD LIVER OIL 100ML",
+    "image": "seven_seas_cod_liver_oil_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEFUROXIME (PULMOCEF) 500MG TABS 10S",
+    "image": "cefuroxime_pulmocef_500mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ROSTAT -10 (ROSUVASTATIN) 30S",
+    "image": "rostat_10_rosuvastatin_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GYPSONA P.O.P 8 INCH",
+    "image": "gypsona_p_o_p_8_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLARITHROMYCIN (REMAC) 500MG 10S",
+    "image": "clarithromycin_remac_500mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DEMELAN SUNSCREEN SPF 50",
+    "image": "demelan_sunscreen_spf_50.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KAMAGRA ORAL JELLY 100MG 7S",
+    "image": "kamagra_oral_jelly_100mg_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DEEP RELIEF GEL 30GM",
+    "image": "deep_relief_gel_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOTRIMAZOLE PESSARIES 6S",
+    "image": "clotrimazole_pessaries_6s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELYVATE CREAM 15GM",
+    "image": "elyvate_cream_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BULKOT B CREAM 15G",
+    "image": "bulkot_b_cream_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLIVE OIL 25ML (IDEAL)",
+    "image": "olive_oil_25ml_ideal.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KETOPLUS SHAMPOO 120ML",
+    "image": "ketoplus_shampoo_120ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SODAMINT TABS 100S",
+    "image": "sodamint_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SODIUM CROMOGLYCATE (IVYCROM)",
+    "image": "sodium_cromoglycate_ivycrom.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANGIZAAR 50 30S",
+    "image": "angizaar_50_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLORANOM SACHET 10S",
+    "image": "floranom_sachet_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONFERRON 200MLS (BLOOD BUILDER)",
+    "image": "conferron_200mls_blood_builder.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCONAZOLE CAPS 200MG (KANDIBAN) 10S",
+    "image": "fluconazole_caps_200mg_kandiban_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELBOW SUPPORT L",
+    "image": "elbow_support_l.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARNATION CORN CAPS 5S",
+    "image": "carnation_corn_caps_5s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CHLOROPHENIRAMINE SYRUP 100ML",
+    "image": "chloropheniramine_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EXEVATE MF OINTMENT 20GMS",
+    "image": "exevate_mf_ointment_20gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRUST CONDOMS 24S (CLASSIC)",
+    "image": "trust_condoms_24s_classic.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEOPEPTINE RB DROPS 15ML",
+    "image": "neopeptine_rb_drops_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAFEN PLUS SYRUP 100MLS",
+    "image": "betafen_plus_syrup_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DERMAZINE CREAM 50GMS",
+    "image": "dermazine_cream_50gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SOFTBAND SYNTHETIC 20CM BY 3M (8 INCH)",
+    "image": "softband_synthetic_20cm_by_3m_8_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BROMOCRIPTINE TABS 30S (BROMODEL)",
+    "image": "bromocriptine_tabs_30s_bromodel.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VERMOX SYRUP 30ML",
+    "image": "vermox_syrup_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINIDAZOLE 500MG 4S (TINDA)",
+    "image": "tinidazole_500mg_4s_tinda.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TOUCH AND GO SOLUTION 7ML",
+    "image": "touch_and_go_solution_7ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROMETHAZINE (CONCEPTS) SUSPENSION 60ML",
+    "image": "promethazine_concepts_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COMAX DROPS 60MLS",
+    "image": "comax_drops_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CHLORPROMAZINE 25MG 100S",
+    "image": "chlorpromazine_25mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANTI D INJECTION",
+    "image": "anti_d_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACYCLOVIR (UNIVIR) CREAM 10GM",
+    "image": "acyclovir_univir_cream_10gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BISOLVON LINCTUS 200ML",
+    "image": "bisolvon_linctus_200ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GENTIAN VIOLET (GV) 100MLS",
+    "image": "gentian_violet_gv_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RABEPRAZOLE (RABEMAC) 20MG TABS 30S",
+    "image": "rabeprazole_rabemac_20mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NETAZOX DRY SYRUP 100MG/5ML 30ML",
+    "image": "netazox_dry_syrup_100mg_5ml_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CABALIN CAPS 75MGS 30S",
+    "image": "cabalin_caps_75mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORASH CREAM",
+    "image": "norash_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DALACIN C 300MG 16S",
+    "image": "dalacin_c_300mg_16s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NYSTATIN (DAWASTIN) SUSPENSION 30ML",
+    "image": "nystatin_dawastin_suspension_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RANITIDINE (UMETAC) INJECTION 50MG 10S",
+    "image": "ranitidine_umetac_injection_50mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEFUROXIME (PULMOCEF) 250MG TABS 10S",
+    "image": "cefuroxime_pulmocef_250mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COTRIMOXAZOLE (CALTRIM) SUSPENSION 50ML",
+    "image": "cotrimoxazole_caltrim_suspension_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARDINOL (ATENOLOL) 25MG F/C 28S",
+    "image": "cardinol_atenolol_25mg_f_c_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAFEN SYRUP 60MLS",
+    "image": "betafen_syrup_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLIVE OIL 50ML (IDEAL)",
+    "image": "olive_oil_50ml_ideal.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FERROSOFT FA 30S",
+    "image": "ferrosoft_fa_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINIDAZOLE (T ZEX) TABS 500MG 4S",
+    "image": "tinidazole_t_zex_tabs_500mg_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLEMONT L TABS 7S",
+    "image": "glemont_l_tabs_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURDEX SYRUP 60ML",
+    "image": "surdex_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MOMATE CREAM 15GM",
+    "image": "momate_cream_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZYRTAL MR TABS 1.1GM 20S",
+    "image": "zyrtal_mr_tabs_1_1gm_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHARMATON CAPSULES 30S",
+    "image": "pharmaton_capsules_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "REMUS OINTMENT 5GMS (TACROLIMUS 0.03%)",
+    "image": "remus_ointment_5gms_tacrolimus_0_03.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETASON G OINTMENT 15G",
+    "image": "betason_g_ointment_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATOREC TABS 20MG 30S",
+    "image": "atorec_tabs_20mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLAGYL (CALZOLE) SUSPENSION 100ML",
+    "image": "flagyl_calzole_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MUCOLYT 600 TABS 30S",
+    "image": "mucolyt_600_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HUGGIES DRY COMFORT 50S",
+    "image": "huggies_dry_comfort_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "REMUS 0.1% OINTMENT 10G",
+    "image": "remus_0_1_ointment_10g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAXY SUSPENSION 228.5 MG 100ML",
+    "image": "claxy_suspension_228_5_mg_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEROPENEM INJECTION",
+    "image": "meropenem_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONTIFLO OD 0.4 10S",
+    "image": "contiflo_od_0_4_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ARIMIS MILKING JELLY 12S",
+    "image": "arimis_milking_jelly_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FRESHMED MOUTH WASH 250ML (SPEARMINT)",
+    "image": "freshmed_mouth_wash_250ml_spearmint.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MACRO CARE ADULT LARGE 10S",
+    "image": "macro_care_adult_large_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAPEFY SM 10/100/500MG 28S",
+    "image": "dapefy_sm_10_100_500mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DORMICUM TABS 15MG 10S",
+    "image": "dormicum_tabs_15mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SENSEGRA ORAL JELLY",
+    "image": "sensegra_oral_jelly.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DETTOL LIQUID 50ML",
+    "image": "dettol_liquid_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEDICORT MATERNITY PAD (MEDMAX)",
+    "image": "medicort_maternity_pad_medmax.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRAMADOL 50MG (TRASIC) 100S",
+    "image": "tramadol_50mg_trasic_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMINOPHYLLINE INJECTION",
+    "image": "aminophylline_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIAZEPAM (COZEPAM) TABS 100S",
+    "image": "diazepam_cozepam_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ROCEPHIN 1GM INJECTION",
+    "image": "rocephin_1gm_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUCRAFIL O GEL 100ML",
+    "image": "sucrafil_o_gel_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROMIMBA F 30S",
+    "image": "promimba_f_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HALOPERIDOL TABS 5MG 100S (MEDISEL)",
+    "image": "haloperidol_tabs_5mg_100s_medisel.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BABYCARE 25GM 12S",
+    "image": "babycare_25gm_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZITHROMAX 200MG SUSPENSION 15ML",
+    "image": "zithromax_200mg_suspension_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAXY 1GM TABS 10S",
+    "image": "claxy_1gm_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLATAMEAL DS TABS 100S",
+    "image": "flatameal_ds_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DF118 TABLETS 30MG 100S",
+    "image": "df118_tablets_30mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STRAPPIN (ZINC OXIDE) 3 INCH",
+    "image": "strappin_zinc_oxide_3_inch.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRUFEN GENERIC BP 200MG 100S",
+    "image": "brufen_generic_bp_200mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GABANERVE TABS 10S",
+    "image": "gabanerve_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PRESARTAN H 50MG TABS 28S",
+    "image": "presartan_h_50mg_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DALACIN C 150MGS 20S",
+    "image": "dalacin_c_150mgs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PIRITON ORIGINAL TABS 150S (GSK)",
+    "image": "piriton_original_tabs_150s_gsk.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTOPHLEM SYRUP",
+    "image": "actophlem_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIBEES FORTE TABS 20S",
+    "image": "tribees_forte_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCHERIPROCT SUPPOSITORY 12S",
+    "image": "scheriproct_suppository_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTIFED WET 100 ML",
+    "image": "actifed_wet_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWA PROM (PROMETHAZINE TABS 100S)",
+    "image": "dawa_prom_promethazine_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTIFED DRY COUGH AND COLD 100ML",
+    "image": "actifed_dry_cough_and_cold_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COMBIWAVE SF 250",
+    "image": "combiwave_sf_250.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINIDAZOLE (TINIKA-500MG) 4S",
+    "image": "tinidazole_tinika_500mg_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ERYTHROMYCIN (BIOTROCIN) SUSPENSION 100ML",
+    "image": "erythromycin_biotrocin_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUZELA 30MG CAPS 30S",
+    "image": "duzela_30mg_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EPIMAX BABY & JUNIOR 400MG PURPLE",
+    "image": "epimax_baby_junior_400mg_purple.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TEGRETOL TABS 200MG 50S",
+    "image": "tegretol_tabs_200mg_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BETAFEN SYRUP 100MLS",
+    "image": "betafen_syrup_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GINSOMIN MULTIVITAMIN CAPS 30S",
+    "image": "ginsomin_multivitamin_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAWA PROM (PROMETHAZINE SYRUP 60ML)",
+    "image": "dawa_prom_promethazine_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FERROUS SULPHATE TABS 1000S",
+    "image": "ferrous_sulphate_tabs_1000s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DELASED DRY COUGH NON DROWSY 100ML",
+    "image": "delased_dry_cough_non_drowsy_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BIOSELENIUM SHAMPOO 100ML",
+    "image": "bioselenium_shampoo_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CAVINTON-5 50S",
+    "image": "cavinton_5_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATORVASTATIN 20MGS (LOLIP) 30S",
+    "image": "atorvastatin_20mgs_lolip_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FUNGIFIN CREAM TERBINAFINE",
+    "image": "fungifin_cream_terbinafine.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELASTOPLAST (MAXPLAST) 100S",
+    "image": "elastoplast_maxplast_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COTRIMOXAZOLE (BIODEAL) SUSPENSION 100ML",
+    "image": "cotrimoxazole_biodeal_suspension_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOWELL-MET 50/850 30S",
+    "image": "glucowell_met_50_850_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLFEN 50MGS 20S",
+    "image": "olfen_50mgs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TALIMUS OINTMENT 0.03% 10GM",
+    "image": "talimus_ointment_0_03_10gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOBESIL H CREAM 30G",
+    "image": "dobesil_h_cream_30g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALMEX ALPRAZOLAM 0.5MG 100S",
+    "image": "calmex_alprazolam_0_5mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VOLIGEL GEL 50GM",
+    "image": "voligel_gel_50gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLANZAPINE (OZITAS 5MGS) 30S",
+    "image": "olanzapine_ozitas_5mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "XARTAN 50MG LOSARTAN TABS 30S",
+    "image": "xartan_50mg_losartan_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FRESHMED MOUTH WASH 500ML (ICEMINT)",
+    "image": "freshmed_mouth_wash_500ml_icemint.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SAVLON 75ML",
+    "image": "savlon_75ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDITONE CHLORPHENIRAMINE SYRUP 100 ML",
+    "image": "zeditone_chlorpheniramine_syrup_100_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZUPRICIN B OINTMENT 15GMS",
+    "image": "zupricin_b_ointment_15gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SKDERM CREAM 30G",
+    "image": "skderm_cream_30g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MOODS CONDOMS REGULAR 3S",
+    "image": "moods_condoms_regular_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MOODS CONDOMS 1500 DOTS 3S",
+    "image": "moods_condoms_1500_dots_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GABIX 100MGS 10S",
+    "image": "gabix_100mgs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COSVATE GM CREAM",
+    "image": "cosvate_gm_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLINDAR T GEL",
+    "image": "clindar_t_gel.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CUTIVATE OINTMENT 15GM",
+    "image": "cutivate_ointment_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZYBAN TABLETS 150MG 60S",
+    "image": "zyban_tablets_150mg_60s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCABION LOTION 60MLS",
+    "image": "scabion_lotion_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OVACARE MYO TABS 20S",
+    "image": "ovacare_myo_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ARM SLING MEDIUM",
+    "image": "arm_sling_medium.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DYNAPAR QPS 30MLS",
+    "image": "dynapar_qps_30mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COMBIGAN EYE DROPS 5MLS",
+    "image": "combigan_eye_drops_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MAXITROL OINTMENT 3.5G",
+    "image": "maxitrol_ointment_3_5g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIGNOCAINE INJECTION",
+    "image": "lignocaine_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORNIDAZOLE (DIAZOLE) 10S",
+    "image": "ornidazole_diazole_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARCA TABS 6.25MG 30S",
+    "image": "carca_tabs_6_25mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALERCHECK 0.2% EYE DROPS 5ML",
+    "image": "alercheck_0_2_eye_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ODIMONT 10MGS 7S",
+    "image": "odimont_10mgs_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MEXIC 15MG (MELOXICAM TABS) 30S",
+    "image": "mexic_15mg_meloxicam_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POWERGESIC PLUS GEL 30GM",
+    "image": "powergesic_plus_gel_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZULU TABS 10S",
+    "image": "zulu_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ROACCUTANE 20MG 30S CAPS",
+    "image": "roaccutane_20mg_30s_caps.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UPACOF EXPECTORANT 100ML",
+    "image": "upacof_expectorant_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTRAPID INSULIN 100IU 10S",
+    "image": "actrapid_insulin_100iu_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UPACOF DRY 100ML",
+    "image": "upacof_dry_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANUSOL OINTMENT 25GM",
+    "image": "anusol_ointment_25gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATROPINE EYE DROPS 5MLS",
+    "image": "atropine_eye_drops_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SCHERIPROCT OINTMENT",
+    "image": "scheriproct_ointment.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRES ORIX SYRUP 250MLS",
+    "image": "tres_orix_syrup_250mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AZITHROMYCIN 500MG (AZITHROSAFE) 3S",
+    "image": "azithromycin_500mg_azithrosafe_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "(ASCORBIC ACID) VITAMIN C 250MG 1000S",
+    "image": "ascorbic_acid_vitamin_c_250mg_1000s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACINET DRY SYRUP 156MGS 100ML",
+    "image": "acinet_dry_syrup_156mgs_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIV 52 30S",
+    "image": "liv_52_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOMPERON SUSPENSION 30MLS",
+    "image": "domperon_suspension_30mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIPROFOS ORIGINAL INJECTION",
+    "image": "diprofos_original_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RETIN A CREAM 20GMS",
+    "image": "retin_a_cream_20gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DETTOL SOAP 60GM 1S",
+    "image": "dettol_soap_60gm_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NADOXIN CREAM 10MG",
+    "image": "nadoxin_cream_10mg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDID EAR DROPS 15ML",
+    "image": "candid_ear_drops_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINCTURE OF IODINE 50MLS",
+    "image": "tincture_of_iodine_50mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IBUGESIC SUSPENSION 60ML",
+    "image": "ibugesic_suspension_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLARITEK SUSPENSION 50MLS",
+    "image": "claritek_suspension_50mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "L- MONTUS 10S",
+    "image": "l_montus_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOBEDERM OINTMENT 15G",
+    "image": "clobederm_ointment_15g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLOZAAR H 30S",
+    "image": "amlozaar_h_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYMOICELL (PHARMAMOICELL) 0.7% EYE DROP 10MLS",
+    "image": "ivymoicell_pharmamoicell_0_7_eye_drop_10mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TUSICOFF PAEDRIATIC MIX 100MLS",
+    "image": "tusicoff_paedriatic_mix_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUNIL CAPS 30S",
+    "image": "flunil_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUSAL 250MCG",
+    "image": "flusal_250mcg.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALLOPURINOL (ALEZE) 100MG 30S",
+    "image": "allopurinol_aleze_100mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIAMICRON 60MR 30 TABS",
+    "image": "diamicron_60mr_30_tabs.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEOPEPTINE CAPS 10S",
+    "image": "neopeptine_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORTHOKIT HM 10S",
+    "image": "orthokit_hm_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MIRTAZAPINE (MIRTAZ) 15MG 30S",
+    "image": "mirtazapine_mirtaz_15mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CHLORAMPHENICOL EAR DROP 10ML",
+    "image": "chloramphenicol_ear_drop_10ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAKTARIN CREAM 30GM",
+    "image": "daktarin_cream_30gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLONG 10MG 30S",
+    "image": "amlong_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACTICOFF CHESTY 100ML",
+    "image": "acticoff_chesty_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "XIBRA PLUS 10S",
+    "image": "xibra_plus_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITAMIN D3 INJECTION (DEVIT-3)",
+    "image": "vitamin_d3_injection_devit_3.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALWAYS MAXI-EXTRA LONG-BLUE",
+    "image": "always_maxi_extra_long_blue.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVYTIMOL 0.5% EYE DROP",
+    "image": "ivytimol_0_5_eye_drop.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORIGYNON/NORISTERAT INJECTION",
+    "image": "norigynon_noristerat_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FUNGITER CREAM 15MG (TERBINAFINE)",
+    "image": "fungiter_cream_15mg_terbinafine.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLORAL EYE DROPS 5MLS",
+    "image": "floral_eye_drops_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OCULAST EYE DROPS",
+    "image": "oculast_eye_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIBOINIS TABS 250MG 112S",
+    "image": "diboinis_tabs_250mg_112s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EARKLIN EAR DROPS",
+    "image": "earklin_ear_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITSOL D3 DROPS",
+    "image": "vitsol_d3_drops.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COMBIZOL TABS 10S",
+    "image": "combizol_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOXAFIN SYRUP 150MLS",
+    "image": "doxafin_syrup_150mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAFLON 500MG TABS 30S",
+    "image": "daflon_500mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LUMET TABS 20/120MG 24S",
+    "image": "lumet_tabs_20_120mg_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BONECARE PLUS CAPS 30S",
+    "image": "bonecare_plus_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLODIPINE (AMLOPRES) 5MG 30S (CIPLA)",
+    "image": "amlodipine_amlopres_5mg_30s_cipla.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AKUDINIR 250MG 30ML",
+    "image": "akudinir_250mg_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLINTELLE PESSARIES (CLINDAMYCIN+CLOTRIMAZOLE)",
+    "image": "clintelle_pessaries_clindamycin_clotrimazole.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AKUDINIR 125MG 30ML",
+    "image": "akudinir_125mg_30ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CATHETER (URIDOM) MEDIUM 1S",
+    "image": "catheter_uridom_medium_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAONIL TABLETS 5MG 100S",
+    "image": "daonil_tablets_5mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BONJELA TEETHING GEL (CHILD)",
+    "image": "bonjela_teething_gel_child.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEFTRIAXONE INJECTION 1GM",
+    "image": "ceftriaxone_injection_1gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TELMI 80MGS 28S",
+    "image": "telmi_80mgs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AKUDINIR 300MG (CEFDINIR) CAPS 10S",
+    "image": "akudinir_300mg_cefdinir_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORTHOKI KIT 10S",
+    "image": "orthoki_kit_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "THIOVENT (WITH PROMETHAZINE) 100MLS",
+    "image": "thiovent_with_promethazine_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AFLODOR 8 30S",
+    "image": "aflodor_8_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BUSCOPAN TABS 10MGS 50S",
+    "image": "buscopan_tabs_10mgs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLODIPINE 5MG (AMAX) 30S",
+    "image": "amlodipine_5mg_amax_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEXOTANIL TABS 1.5MG 30S (ROCHE)",
+    "image": "lexotanil_tabs_1_5mg_30s_roche.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MOMATE AZ NASAL SPRAY",
+    "image": "momate_az_nasal_spray.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULSACURE 7S",
+    "image": "ulsacure_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMLODIPINE 10MG (AMAX) 30S",
+    "image": "amlodipine_10mg_amax_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KNEE SUPPORT M",
+    "image": "knee_support_m.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KETOLAC EYE DROP 5ML",
+    "image": "ketolac_eye_drop_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROMENSIL 30S",
+    "image": "promensil_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OJEN OZ TABS 10S",
+    "image": "ojen_oz_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LONART TABS 24S",
+    "image": "lonart_tabs_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEOGADINE SYRUP 150ML",
+    "image": "neogadine_syrup_150ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "APROVEL 150MG 28S",
+    "image": "aprovel_150mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PEARDINE MOUTHWASH",
+    "image": "peardine_mouthwash.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EMULSIFYING OINTMENT 500GMS",
+    "image": "emulsifying_ointment_500gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DERMAZINE CREAM 100GMS",
+    "image": "dermazine_cream_100gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CABALIN 150MG 24S",
+    "image": "cabalin_150mg_24s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ATORVASTATIN (ATORID) 20MG 30S",
+    "image": "atorvastatin_atorid_20mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OB ORIGINAL NORMAL 1S",
+    "image": "ob_original_normal_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRAMACETAL 10S",
+    "image": "tramacetal_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ANKLE SUPPORT S",
+    "image": "ankle_support_s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOBEDERM S LOTION 20ML",
+    "image": "clobederm_s_lotion_20ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SERRAZEN PLUS TABS 10S",
+    "image": "serrazen_plus_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CATAFLAM TABS 50MG 20S",
+    "image": "cataflam_tabs_50mg_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCONAZOLE FC-ZOLE SUSPENSION 50MG/5ML 60ML",
+    "image": "fluconazole_fc_zole_suspension_50mg_5ml_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROBIO SACHETS 10S",
+    "image": "probio_sachets_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOBEDERM LOTION 20ML",
+    "image": "clobederm_lotion_20ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SYRUP 150MLS",
+    "image": "syrup_150mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TOBRADEX DROPS 5ML",
+    "image": "tobradex_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VOLTAREN RETARD 100MG 30S",
+    "image": "voltaren_retard_100mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MOMATE F 10GM",
+    "image": "momate_f_10gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DERIPHYLLIN SYRUP 100MLS",
+    "image": "deriphyllin_syrup_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLOXAPEN SYRUP 125MG 100MLS",
+    "image": "floxapen_syrup_125mg_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OB ORIGINAL SUPER 1S",
+    "image": "ob_original_super_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PLENDIL 10MG FELODIPINE TABLETS 30S",
+    "image": "plendil_10mg_felodipine_tablets_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SAFECAL TABLETS 30S",
+    "image": "safecal_tablets_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GRABACIN OINTMENT 20G",
+    "image": "grabacin_ointment_20g.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELOXICAM (MOFIC) TABS 15MG 100S",
+    "image": "meloxicam_mofic_tabs_15mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HEPATITIS B VACCINE 1 DOSE",
+    "image": "hepatitis_b_vaccine_1_dose.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALTACEF SUSPENSION 125MG/5ML 50ML",
+    "image": "altacef_suspension_125mg_5ml_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DESAFE SYRUP 100MLS",
+    "image": "desafe_syrup_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ODIMONT 10MGS 30S",
+    "image": "odimont_10mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLYCERIN 1.2GM SUPPOSITORY 10S",
+    "image": "glycerin_1_2gm_suppository_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVAM 375 TABS 20S",
+    "image": "clavam_375_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PROLOC D 30S",
+    "image": "proloc_d_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EPIBALIN 75MGS CAPS 30S",
+    "image": "epibalin_75mgs_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "WARFARIN 5MG (WAREXX) 100 CAPS",
+    "image": "warfarin_5mg_warexx_100_caps.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLINDAMYCIN CAPS 300MGS (CINDI) 100S",
+    "image": "clindamycin_caps_300mgs_cindi_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BONIUM TABLETS 30S",
+    "image": "bonium_tablets_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AVAMYS AQ NASAL SPRAY 120D",
+    "image": "avamys_aq_nasal_spray_120d.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KLENZIT GEL",
+    "image": "klenzit_gel.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PANTOCID (PANTOPRAZOLE) 40MG 50S",
+    "image": "pantocid_pantoprazole_40mg_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LIMZER CAPS (OMEPRAZOLE & DOMPERIDONE) 30S",
+    "image": "limzer_caps_omeprazole_domperidone_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FYBOGEL SACHETS 30S",
+    "image": "fybogel_sachets_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NIFEDIPINE (NIFPINE RETARD) 20MG 30S",
+    "image": "nifedipine_nifpine_retard_20mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RHINAPHYTO SYRUP 100ML",
+    "image": "rhinaphyto_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MYPAID CAPS 30S",
+    "image": "mypaid_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORMAGUT 250MG CAPS 30S",
+    "image": "normagut_250mg_caps_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DERMOL CREAM EMOLLIENT 500ML",
+    "image": "dermol_cream_emollient_500ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEET 50GM",
+    "image": "veet_50gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ORBIDEX EYE DROPS 5ML (DEXAMETHASONE)",
+    "image": "orbidex_eye_drops_5ml_dexamethasone.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "IVERMECTOL 3MG TABS 10S",
+    "image": "ivermectol_3mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "XYZAL SYRUP 75MLS",
+    "image": "xyzal_syrup_75mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAPSONE TABS 100MG 100S",
+    "image": "dapsone_tabs_100mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUOFILM WART TREATMENT 15ML",
+    "image": "duofilm_wart_treatment_15ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLUCOLDEX TABS 12S",
+    "image": "flucoldex_tabs_12s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BUDECORT INHALER 200MCG 200D",
+    "image": "budecort_inhaler_200mcg_200d.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ONCOSIL CREAM TERBINAFINE",
+    "image": "oncosil_cream_terbinafine.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITAMIN A 200,000IU",
+    "image": "vitamin_a_200_000iu.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OSSTHIOL ADULT SYRUP 100ML",
+    "image": "ossthiol_adult_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TALIMUS OINTMENT 0.1% 10GM",
+    "image": "talimus_ointment_0_1_10gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALERCHECK 0.1% EYE DROP 5ML",
+    "image": "alercheck_0_1_eye_drop_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KETOCONAZOLE (KONAZOL) TABS 100S",
+    "image": "ketoconazole_konazol_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BEXTRAM TABS 30S",
+    "image": "bextram_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "YESCORT DEFLAZACORT 6MG TABS 30S",
+    "image": "yescort_deflazacort_6mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KEVIN P SYRUP (PARACETAMOL + PROMETHAZINE) 100ML",
+    "image": "kevin_p_syrup_paracetamol_promethazine_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRONCHOPED SYRUP 100ML",
+    "image": "bronchoped_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACINET DRY 457 SYRUP 100ML",
+    "image": "acinet_dry_457_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEPATOP EYE DROP 5ML",
+    "image": "nepatop_eye_drop_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DELASED CHESTY NON DROWSY 100MLS",
+    "image": "delased_chesty_non_drowsy_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUREX PLAY MASSAGE",
+    "image": "durex_play_massage.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SENNA TABS 50S",
+    "image": "senna_tabs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BACLOFEN 10MG (BALCON) 84S",
+    "image": "baclofen_10mg_balcon_84s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDGRA 100MG 4S",
+    "image": "zedgra_100mg_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITACAP CAPS 50S",
+    "image": "vitacap_caps_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ESTOVON 30S",
+    "image": "estovon_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LYSO SPRAY 75ML",
+    "image": "lyso_spray_75ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COENZYME Q10 250MG PACK OF 45S (JAMIESON)",
+    "image": "coenzyme_q10_250mg_pack_of_45s_jamieson.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDCAL-OP PLUS TABLETS 30S",
+    "image": "zedcal_op_plus_tablets_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZITHROMAX TABS 500MG 3S",
+    "image": "zithromax_tabs_500mg_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENAT CREAM 50GMS",
+    "image": "enat_cream_50gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AUROZOLE 2% EYE DROPS 5ML",
+    "image": "aurozole_2_eye_drops_5ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "REJUVA STARS (GINSENG, ZINC, MULTIVITAMINS) 30S",
+    "image": "rejuva_stars_ginseng_zinc_multivitamins_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TEGRETOL CR 200 50S",
+    "image": "tegretol_cr_200_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENAFLU TOTO 100ML",
+    "image": "benaflu_toto_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CIPROFLOXACIN (CIPROFRED) 500MG 100S",
+    "image": "ciprofloxacin_ciprofred_500mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELOXICAM (UXIM) TABS 15MG 20S",
+    "image": "meloxicam_uxim_tabs_15mg_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORVASC 5MG TABS 30S",
+    "image": "norvasc_5mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BENAFLU TOTO 60ML",
+    "image": "benaflu_toto_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CEFUROXIME (CELZA) 125MG 50ML",
+    "image": "cefuroxime_celza_125mg_50ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "URISOL SACHET 10S",
+    "image": "urisol_sachet_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ALERFREE 5MG (LEVOCETRIZINE) 10S",
+    "image": "alerfree_5mg_levocetrizine_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SEKROL PAEDRIATIC (AMBROXOL) 100ML",
+    "image": "sekrol_paedriatic_ambroxol_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TREVIA 50MGS 35S",
+    "image": "trevia_50mgs_35s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZOCEF CEFUROXIME 500MG 10S",
+    "image": "zocef_cefuroxime_500mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PLENDIL 5MG FELODIPINE 30S",
+    "image": "plendil_5mg_felodipine_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "WELLWOMAN PLUS OMEGA 3-6-9 CAPS 56S",
+    "image": "wellwoman_plus_omega_3_6_9_caps_56s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BEROTEC-B2 LIQUID 2.5MG/5ML 150ML",
+    "image": "berotec_b2_liquid_2_5mg_5ml_150ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACYCLOVIR SYRUP (ACLOVIR) 100ML",
+    "image": "acyclovir_syrup_aclovir_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARTIL OMEGA 30S",
+    "image": "cartil_omega_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KEFFROX CEFUROXIME SYRUP 50MLS",
+    "image": "keffrox_cefuroxime_syrup_50mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STREPSILS HONEY AND LEMON 50S",
+    "image": "strepsils_honey_and_lemon_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LUXAT 10MG TABS 28S",
+    "image": "luxat_10mg_tabs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HEDEX TABS 50S",
+    "image": "hedex_tabs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FERICAP CR 10S",
+    "image": "fericap_cr_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PEP 90S",
+    "image": "pep_90s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORVASC 10MG 30S",
+    "image": "norvasc_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CONTUS PAEDRIATIC LINCTUS 100MLS",
+    "image": "contus_paedriatic_linctus_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EVIT 200 SOFTGELS 30S",
+    "image": "evit_200_softgels_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALCIBONE WAFERS 1S",
+    "image": "calcibone_wafers_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SAFERON PLUS TABS 30S",
+    "image": "saferon_plus_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLAVAM 625 20S",
+    "image": "clavam_625_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NORMAZIDE HYPERTENSIVES 10S",
+    "image": "normazide_hypertensives_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EVION 400MGS 30S",
+    "image": "evion_400mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOPHAGE 850 MGS 60S",
+    "image": "glucophage_850_mgs_60s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRUFEN (GENERIC) 100MLS SYRUP",
+    "image": "brufen_generic_100mls_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DREZ SOLUTION 30MLS",
+    "image": "drez_solution_30mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENSURE VANILLA",
+    "image": "ensure_vanilla.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EMITOSS SOLUTION 30MLS",
+    "image": "emitoss_solution_30mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARDINOL 100MGS 28S",
+    "image": "cardinol_100mgs_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AZTOR 20MG 50S",
+    "image": "aztor_20mg_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FEXET 180MG 20S",
+    "image": "fexet_180mg_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MELOXICAM 7.5 MGS (MELONAC) 30S",
+    "image": "meloxicam_7_5_mgs_melonac_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLEXILOR P 8MG TABS 100S",
+    "image": "flexilor_p_8mg_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GENTAMYCIN INJECTION",
+    "image": "gentamycin_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMPICLOX GENERIC CAPS 500MG 100S",
+    "image": "ampiclox_generic_caps_500mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DICLOFENAC INJECTION 75MGS 3ML",
+    "image": "diclofenac_injection_75mgs_3ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PHENALIN SYRUP 60ML",
+    "image": "phenalin_syrup_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SONAMOJA 50S",
+    "image": "sonamoja_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DALACIN C SYRUP 75MGS/5MLS",
+    "image": "dalacin_c_syrup_75mgs_5mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CALCIGARD R (NIFELAT) 20MG 100S",
+    "image": "calcigard_r_nifelat_20mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNIGAN TABS 500 MGS 100S",
+    "image": "unigan_tabs_500_mgs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ISOFLAV CR CAPS 10S",
+    "image": "isoflav_cr_caps_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EROSTIN 10MG TABS 10S",
+    "image": "erostin_10mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SEPTRIN 960MG GENERIC (COSATRIM DS) TABS 100S",
+    "image": "septrin_960mg_generic_cosatrim_ds_tabs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VILDAMET 50/500MG 30S",
+    "image": "vildamet_50_500mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PREG SMILE 30S",
+    "image": "preg_smile_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SONADERM 10GMS",
+    "image": "sonaderm_10gms.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIASTOP TABS 25S",
+    "image": "diastop_tabs_25s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PREGNACARE PLUS TABS 56S",
+    "image": "pregnacare_plus_tabs_56s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STIR UP 10MG TABS 20S",
+    "image": "stir_up_10mg_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZYRTAL PLUS 20S",
+    "image": "zyrtal_plus_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TERBICARE 1 PERCENT TERBINAFINE CREAM",
+    "image": "terbicare_1_percent_terbinafine_cream.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ELASTOPLAST SONAPLAST 100S",
+    "image": "elastoplast_sonaplast_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEBILET (NEBIVOLOL) 5MG 28S",
+    "image": "nebilet_nebivolol_5mg_28s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIGOXIN (DIGOMET) TABS 125MGS 100S",
+    "image": "digoxin_digomet_tabs_125mgs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENO ORANGE 48S",
+    "image": "eno_orange_48s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOBESIL 500MG CAPS 50S",
+    "image": "dobesil_500mg_caps_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NOGLUC 112S",
+    "image": "nogluc_112s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LANTUS 10ML VIAL (SANOFI)",
+    "image": "lantus_10ml_vial_sanofi.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AMBEZIM G 30S",
+    "image": "ambezim_g_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HELICOBAN KIT 7S",
+    "image": "helicoban_kit_7s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FLAGYL (METROZOLE) 200MGS 100S",
+    "image": "flagyl_metrozole_200mgs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ZEDGRA 50 4S",
+    "image": "zedgra_50_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "FRANOL TABS 100S (GIFOL)",
+    "image": "franol_tabs_100s_gifol.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LORTAN H TABS 30S",
+    "image": "lortan_h_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENAPRIL (INTAS) 10MGS 100S",
+    "image": "enapril_intas_10mgs_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CABERLIN 0.5MG TABS 4S",
+    "image": "caberlin_0_5mg_tabs_4s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RISPERIDONE (RISDONE) 1MG 50S",
+    "image": "risperidone_risdone_1mg_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLOMID TABS 10S",
+    "image": "clomid_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "AVAS (ATORVASTATIN) 20MG 30S",
+    "image": "avas_atorvastatin_20mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDISTAT 200 PESSARY 3S",
+    "image": "candistat_200_pessary_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STILNOX TABS 10MG 14S (ROCHE)",
+    "image": "stilnox_tabs_10mg_14s_roche.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "MY GIRL SANITARY PADS",
+    "image": "my_girl_sanitary_pads.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KONTAB TABS 50S",
+    "image": "kontab_tabs_50s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GRISEOFULVIN 250MG (GRISEOFIL) 100S",
+    "image": "griseofulvin_250mg_griseofil_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "LEVOTHYROXINE (EUTHYROX) 100MGS 30S",
+    "image": "levothyroxine_euthyrox_100mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUSTEN 400MGS 30S",
+    "image": "susten_400mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VENOFER 20MG 5ML 1S",
+    "image": "venofer_20mg_5ml_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OLFEN TABS 75MG 30S",
+    "image": "olfen_tabs_75mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLARIWIN 500MG TABS 10S",
+    "image": "clariwin_500mg_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACINET 375 TABS 10S",
+    "image": "acinet_375_tabs_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OMEPRAZOLE (OMIS) 100S",
+    "image": "omeprazole_omis_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRANEXAMIC ACID 500MG CAPS 30S (PAUSE)",
+    "image": "tranexamic_acid_500mg_caps_30s_pause.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BREATHEZY TABS (MONTELUKAST) 10MG 30S",
+    "image": "breathezy_tabs_montelukast_10mg_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PLASIL TABS (METCOS) 10MG 100S",
+    "image": "plasil_tabs_metcos_10mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ENTAMIZOLE DS TABS 15S",
+    "image": "entamizole_ds_tabs_15s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUSTEN 200MGS 30S",
+    "image": "susten_200mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PREDNISONE WHITE 5MG 100S",
+    "image": "prednisone_white_5mg_100s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CANDIFEM (ORNIDAZOLE & MICONAZOLE) 1S",
+    "image": "candifem_ornidazole_miconazole_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DOLOJOINT -03 30S",
+    "image": "dolojoint_03_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OSTEOMIN TABS 30S",
+    "image": "osteomin_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CETODERM 450ML",
+    "image": "cetoderm_450ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DUREX FEATHERLITE 1S",
+    "image": "durex_featherlite_1s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NEORELAX A 30S",
+    "image": "neorelax_a_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CYPON SYRUP 100ML",
+    "image": "cypon_syrup_100ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TREPHAZIN EXPECTORANT WITH HONEY",
+    "image": "trephazin_expectorant_with_honey.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OMEGA 3 VALUPAK 30S",
+    "image": "omega_3_valupak_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CLARITHROMYCIN (CLARIFRED) 500MG 10S",
+    "image": "clarithromycin_clarifred_500mg_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POVICON SOLUTION 250ML",
+    "image": "povicon_solution_250ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ISOVENT 30S",
+    "image": "isovent_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "APDROPS EYES 3MLS",
+    "image": "apdrops_eyes_3mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ACNESOL CREAM 25GM",
+    "image": "acnesol_cream_25gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KALUMA BALM 9 ML",
+    "image": "kaluma_balm_9_ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITANORM 100MLS",
+    "image": "vitanorm_100mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DAFRACLAV 228MG/5ML 70ML",
+    "image": "dafraclav_228mg_5ml_70ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HUGGIES DRY COMFORT 10S",
+    "image": "huggies_dry_comfort_10s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "KETOCONAZOLE CREAM (HITORAL)",
+    "image": "ketoconazole_cream_hitoral.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "(LACTODEL) BROMOCRIPTINE TABS 20S",
+    "image": "lactodel_bromocriptine_tabs_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "BRUFEN (GENERIC) 60MLS SYRUP",
+    "image": "brufen_generic_60mls_syrup.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "POLYTROL EYE DROP",
+    "image": "polytrol_eye_drop.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DIAPRIDE 4MG TABS 30S",
+    "image": "diapride_4mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PILOT D TABS 30S",
+    "image": "pilot_d_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "HEMSAMIC 500MG CAPS 20S",
+    "image": "hemsamic_500mg_caps_20s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "OSMOLAX 200MLS",
+    "image": "osmolax_200mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIHISTAMIN 60ML",
+    "image": "trihistamin_60ml.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "PARACETAMOL SUSPENSION 60MLS",
+    "image": "paracetamol_suspension_60mls.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "DICLOFENAC GEL (RUFENAC) 20GM",
+    "image": "diclofenac_gel_rufenac_20gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "GLUCOPHAGE 1000MG 60S",
+    "image": "glucophage_1000mg_60s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITAMIN K PAEDIATRIC 5MG ORAL/INJECTION",
+    "image": "vitamin_k_paediatric_5mg_oral_injection.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "RILIF PLUS 600MG TABS 30S",
+    "image": "rilif_plus_600mg_tabs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ERYTHROMYCIN 500MG 100S (ERYTHROX)",
+    "image": "erythromycin_500mg_100s_erythrox.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CABALIN 25MGS 30S",
+    "image": "cabalin_25mgs_30s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SILVER SULPHADIAZINE (BURNAZINE) CREAM 15GM",
+    "image": "silver_sulphadiazine_burnazine_cream_15gm.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "EPHEDRINE CHILD NASAL DROP 10ML (BENMED)",
+    "image": "ephedrine_child_nasal_drop_10ml_benmed.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "COW AND GATE NUTRISTAT 2",
+    "image": "cow_and_gate_nutristat_2.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "CARDRONATE 3S",
+    "image": "cardronate_3s.jpg",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRAMADOL INJECTION 100MG (STROM) 10S",
+    "image": "tramadol_injection_100mg_strom_10s.jpg",
+    "category": "pharmacy"
+  }
+]

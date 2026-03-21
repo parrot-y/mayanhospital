@@ -22,4 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Project-specific ignores
+downloaded_images
+products.py
+products.txt
+products_audit.csv
+products_output.csv
 hospital.txt

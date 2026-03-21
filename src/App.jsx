@@ -9,7 +9,8 @@ import Contact from './pages/Contact';
 import Team from './pages/Team';
 import Blog from './pages/Blog';
 import Appointment from './pages/Appointment';
-import PricingPlan from './pages/PricingPlan';
+import Medicines from './pages/Medicines';
+import ServiceDetail from './pages/ServiceDetail';
 
 function App() {
   return (
@@ -21,13 +22,15 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
+            <Route path="/service/:serviceId" element={<ServiceDetail />} />
             <Route path="/team" element={<Team />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/appointment" element={<Appointment />} />
-            <Route path="/pricing-plan" element={<PricingPlan />} />
+            <Route path="/medicines" element={<Medicines />} />
           </Routes>
         </main>
+        <Footer />
       </div>
     </Router>
   );

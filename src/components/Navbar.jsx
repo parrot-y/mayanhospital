@@ -21,7 +21,7 @@ const Navbar = () => {
         { name: 'Home', path: '/' },
         { name: 'About', path: '/about' },
         { name: 'Services', path: '/services' },
-        { name: 'Pricing', path: '/pricing-plan' },
+        { name: 'Medicines', path: '/medicines' },
         { name: 'Team', path: '/team' },
         { name: 'Contact', path: '/contact' },
     ];
@@ -36,12 +36,17 @@ const Navbar = () => {
             >
                 <div className="container flex items-center justify-between">
                     {/* Logo */}
-                    <Link to="/" className="relative z-10 block group">
-                        <img
-                            src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65f957d3e63a560a7789172c_logo.webp"
-                            alt="OviCare"
-                            className="h-8 md:h-10 transition-transform duration-500 group-hover:scale-105"
-                        />
+                    <Link to="/" className="relative z-10 flex items-center gap-3 group">
+                        <div className="w-8 h-8 md:w-10 md:h-10 bg-ovicare-primary rounded-full flex items-center justify-center -rotate-12 transition-transform duration-500 group-hover:rotate-0">
+                            <img
+                                src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65c9ef098ec979d4fa72d6f3_icon-1.webp"
+                                alt="Star"
+                                className="w-1/2 h-1/2 object-contain"
+                            />
+                        </div>
+                        <span className="text-xl md:text-2xl font-black uppercase tracking-tighter text-white">
+                            Mayan <span className="text-ovicare-primary italic">Lifestyle</span>
+                        </span>
                     </Link>
 
                     {/* Desktop Navigation */}
@@ -87,6 +92,7 @@ const Navbar = () => {
             <AnimatePresence>
                 {isSidebarOpen && (
                     <>
+                        {/* Backdrop */}
                         <motion.div
                             initial={{ opacity: 0 }}
                             animate={{ opacity: 1 }}
@@ -94,6 +100,8 @@ const Navbar = () => {
                             onClick={() => setIsSidebarOpen(false)}
                             className="fixed inset-0 bg-ovicare-dark/80 backdrop-blur-sm z-[60]"
                         />
+
+                        {/* Drawer Content */}
                         <motion.div
                             initial={{ x: '100%' }}
                             animate={{ x: 0 }}
@@ -101,56 +109,67 @@ const Navbar = () => {
                             transition={{ type: 'spring', damping: 25, stiffness: 200 }}
                             className="fixed top-0 right-0 bottom-0 w-full md:w-[500px] bg-ovicare-dark z-[70] p-12 flex flex-col justify-between shadow-2xl overflow-y-auto"
                         >
-                            {/* Top */}
-                            <div className="flex items-center justify-between">
-                                <img
-                                    src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65f957d3e63a560a7789172c_logo.webp"
-                                    alt="OviCare"
-                                    className="h-8"
-                                />
-                                <button
-                                    onClick={() => setIsSidebarOpen(false)}
-                                    className="w-12 h-12 bg-white/5 rounded-full flex items-center justify-center hover:bg-ovicare-primary transition-colors group"
-                                >
-                                    <X className="w-6 h-6 text-white group-hover:text-ovicare-dark" />
-                                </button>
-                            </div>
-
-                            {/* Navigation */}
-                            <div className="flex flex-col space-y-8 mt-12">
-                                {navLinks.map((link, i) => (
-                                    <motion.div
-                                        key={link.path}
-                                        initial={{ opacity: 0, x: 20 }}
-                                        animate={{ opacity: 1, x: 0 }}
-                                        transition={{ delay: 0.1 * i }}
+                            {/* Top Content */}
+                            <div>
+                                <div className="flex items-center justify-between">
+                                    <div className="flex items-center gap-3">
+                                        <div className="w-8 h-8 bg-ovicare-primary rounded-full flex items-center justify-center -rotate-12">
+                                            <img
+                                                src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65c9ef098ec979d4fa72d6f3_icon-1.webp"
+                                                alt="Star"
+                                                className="w-1/2 h-1/2 object-contain"
+                                            />
+                                        </div>
+                                        <span className="text-xl font-black uppercase tracking-tighter text-white">
+                                            Mayan <span className="text-ovicare-primary italic">Lifestyle</span>
+                                        </span>
+                                    </div>
+                                    <button
+                                        onClick={() => setIsSidebarOpen(false)}
+                                        className="w-12 h-12 bg-white/5 rounded-full flex items-center justify-center hover:bg-ovicare-primary transition-colors group"
                                     >
-                                        <Link
-                                            to={link.path}
-                                            onClick={() => setIsSidebarOpen(false)}
-                                            className="text-4xl md:text-6xl font-bold hover:text-ovicare-primary transition-colors uppercase"
+                                        <X className="w-6 h-6 text-white group-hover:text-ovicare-dark" />
+                                    </button>
+                                </div>
+
+                                {/* Navigation */}
+                                <div className="flex flex-col space-y-8 mt-16">
+                                    {navLinks.map((link, i) => (
+                                        <motion.div
+                                            key={link.path}
+                                            initial={{ opacity: 0, x: 20 }}
+                                            animate={{ opacity: 1, x: 0 }}
+                                            transition={{ delay: 0.1 * i }}
                                         >
-                                            {link.name}
-                                        </Link>
-                                    </motion.div>
-                                ))}
+                                            <Link
+                                                to={link.path}
+                                                onClick={() => setIsSidebarOpen(false)}
+                                                className="text-4xl md:text-6xl font-bold hover:text-ovicare-primary transition-colors uppercase leading-none"
+                                            >
+                                                {link.name}
+                                            </Link>
+                                        </motion.div>
+                                    ))}
+                                </div>
                             </div>
 
-                            {/* Bottom */}
-                            <div className="mt-12 flex flex-col md:flex-row justify-between items-end gap-8 border-t border-white/10 pt-12">
-                                <div className="space-y-4 w-full">
+                            {/* Bottom Content */}
+                            <div className="mt-12 flex flex-col gap-12 border-t border-white/10 pt-12">
+                                <div className="space-y-6">
                                     <p className="text-ovicare-text/40 font-bold uppercase tracking-widest text-xs">Get in touch</p>
-                                    <a href="mailto:info@careco.com" className="text-xl font-bold hover:text-ovicare-primary transition-colors block">Info@example.com</a>
+                                    <div className="space-y-4">
+                                        <a href="mailto:info@mayanlifestyle.com" className="text-xl md:text-2xl font-bold hover:text-ovicare-primary transition-colors block">info@mayanlifestyle.com</a>
+                                        <a href="tel:+2547XXXXXXXX" className="text-lg text-white/60 hover:text-white transition-colors block">+254 7XX XXX XXX</a>
+                                    </div>
                                     <div className="flex space-x-6 pt-4">
-                                        <Facebook className="w-5 h-5 cursor-pointer hover:text-ovicare-primary transition-colors" />
-                                        <Twitter className="w-5 h-5 cursor-pointer hover:text-ovicare-primary transition-colors" />
-                                        <Instagram className="w-5 h-5 cursor-pointer hover:text-ovicare-primary transition-colors" />
-                                        <Linkedin className="w-5 h-5 cursor-pointer hover:text-ovicare-primary transition-colors" />
+                                        {[Facebook, Twitter, Instagram, Linkedin].map((Icon, idx) => (
+                                            <Icon key={idx} className="w-5 h-5 cursor-pointer hover:text-ovicare-primary transition-colors" />
+                                        ))}
                                     </div>
                                 </div>
-                                <div className="text-right whitespace-nowrap">
-                                    <p className="text-ovicare-text/40 text-xs">Privacy Policy</p>
-                                    <p className="text-ovicare-text/40 text-xs mt-1">© 2024 Ovicare</p>
+                                <div className="flex justify-between items-center opacity-40">
+                                    <p className="text-xs uppercase tracking-widest font-bold">Privacy Policy</p>
+                                    <p className="text-xs font-bold uppercase tracking-widest">© {new Date().getFullYear()} Mayan Lifestyle</p>
                                 </div>
                             </div>
                         </motion.div>

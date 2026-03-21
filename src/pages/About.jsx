@@ -15,10 +15,10 @@ const About = () => {
                         animate={{ opacity: 1, y: 0 }}
                         className="text-5xl md:text-7xl font-bold text-white mb-6 uppercase tracking-tight"
                     >
-                        About <span className="text-ovicare-primary italic">OviCare</span>
+                        About <span className="text-ovicare-primary italic">Mayan Lifestyle</span>
                     </motion.h1>
                     <p className="text-xl text-ovicare-text/60 max-w-2xl">
-                        Learn more about our mission, our values, and the dedicated team of professionals who make OviCare the leading medical provider.
+                        Learn more about our mission, our values, and the dedicated team of professionals who make Mayan Lifestyle the leading medical provider.
                     </p>
                 </div>
             </div>

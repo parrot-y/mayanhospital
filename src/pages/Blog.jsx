@@ -15,7 +15,7 @@ const Blog = () => {
                         Latest <span className="text-ovicare-primary italic">News</span>
                     </motion.h1>
                     <p className="text-xl text-ovicare-text/60 max-w-2xl">
-                        Stay updated with the latest medical breakthroughs, health tips, and news from OviCare.
+                        Stay updated with the latest medical breakthroughs, health tips, and news from Mayan Lifestyle.
                     </p>
                 </div>
             </div>
@@ -27,7 +27,7 @@ const Blog = () => {
                             <div className="aspect-video bg-white/10 group-hover:bg-ovicare-primary/10 transition-colors" />
                             <div className="p-8">
                                 <span className="text-ovicare-primary text-xs font-bold uppercase tracking-widest">Medical • March 18, 2026</span>
-                                <h3 className="text-xl font-bold text-white mt-4 mb-4 group-hover:text-ovicare-primary transition-colors leading-tight">Innovative Heart Surgery Techniques at OviCare</h3>
+                                <h3 className="text-xl font-bold text-white mt-4 mb-4 group-hover:text-ovicare-primary transition-colors leading-tight">Innovative Heart Surgery Techniques at Mayan Lifestyle</h3>
                                 <p className="text-ovicare-text/40 text-sm mb-6 line-clamp-2">Learn about how we are using robotic assistance to improve outcomes in complex cardiac procedures...</p>
                                 <button className="text-white font-bold text-sm border-b border-white/10 pb-1 hover:text-ovicare-primary hover:border-ovicare-primary transition-all">Read More →</button>
                             </div>

@@ -51,7 +51,7 @@ const Hero = () => {
                         className="flex flex-col md:flex-row items-start md:items-center justify-between gap-8 mt-4"
                     >
                         <p className="text-lg md:text-xl text-ovicare-text/60 max-w-xl leading-relaxed">
-                            With OviCare, your health is our priority. We offer comprehensive medical services, personalized care plans, and a dedicated team of professionals committed to your well-being.
+                            With Mayan Lifestyle Hospital, your health is our priority. We offer comprehensive medical services, personalized care plans, and a dedicated team of professionals committed to your well-being.
                         </p>
                         <a
                             href="/appointment"
