@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3000,
     host: true,
     watch: {
-      ignored: ['**/downloaded_images/**']
+      ignored: ['**/downloaded_images/**', '**/public/assets/medicines/**', '**/src/data/medicines.json']
     }
   }
 })

@@ -1,19 +1,19 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Package, ArrowLeft, ArrowRight, X, Pill } from 'lucide-react';
-import medicinesData from '../data/medicines.json';
-import availableImages from '../data/available_images.json';
-
 const ITEMS_PER_PAGE = 20;
 
-const MedicineImage = ({ item, index, onZoom }) => {
+const MedicineImage = ({ item, index, availableImagesPool, onZoom }) => {
     const [isLoaded, setIsLoaded] = useState(false);
     const [hasError, setHasError] = useState(false);
 
     // Deterministic fallback image based on index
-    const fallbackImage = availableImages[index % availableImages.length];
+    const fallbackImage = availableImagesPool && availableImagesPool.length > 0
+        ? availableImagesPool[index % availableImagesPool.length]
+        : null;
+
     const primarySrc = `/assets/medicines/${item.image}`;
-    const secondarySrc = `/assets/medicines/${fallbackImage}`;
+    const secondarySrc = fallbackImage ? `/assets/medicines/${fallbackImage}` : null;
 
     return (
         <div className="w-full h-full relative">
@@ -32,13 +32,13 @@ const MedicineImage = ({ item, index, onZoom }) => {
             </AnimatePresence>
 
             <img
-                src={hasError ? secondarySrc : primarySrc}
+                src={hasError && secondarySrc ? secondarySrc : primarySrc}
                 alt={item.name}
                 loading="lazy"
                 decoding="async"
                 onLoad={() => setIsLoaded(true)}
                 onError={() => {
-                    if (!hasError) setHasError(true);
+                    if (!hasError && secondarySrc) setHasError(true);
                 }}
                 className={`w-full h-full object-contain filter brightness-[95%] group-hover:brightness-100 transition-all duration-700 ${isLoaded ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
                     }`}
@@ -51,16 +51,39 @@ const Medicines = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
     const [selectedImage, setSelectedImage] = useState(null);
+    const [medicinesData, setMedicinesData] = useState([]);
+    const [availableImages, setAvailableImages] = useState([]);
+    const [loading, setLoading] = useState(true);
 
     useEffect(() => {
         window.scrollTo(0, 0);
+
+        // Fetch large data sets at runtime to prevent Vite OOM
+        const fetchData = async () => {
+            try {
+                const [medRes, imgRes] = await Promise.all([
+                    fetch('/data/medicines.json'),
+                    fetch('/data/available_images.json')
+                ]);
+                const medData = await medRes.json();
+                const imgData = await imgRes.json();
+                setMedicinesData(medData);
+                setAvailableImages(imgData);
+            } catch (error) {
+                console.error('Error loading medicine data:', error);
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        fetchData();
     }, []);
 
     const filteredMedicines = useMemo(() => {
         return medicinesData.filter(item =>
             item.name.toLowerCase().includes(searchTerm.toLowerCase())
         );
-    }, [searchTerm]);
+    }, [searchTerm, medicinesData]);
 
     const totalPages = Math.ceil(filteredMedicines.length / ITEMS_PER_PAGE);
 
@@ -124,43 +147,52 @@ const Medicines = () => {
                 </div>
 
                 {/* Grid */}
-                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-8">
-                    <AnimatePresence mode="popLayout">
-                        {currentItems.map((item, i) => (
-                            <motion.div
-                                key={item.name}
-                                layout
-                                initial={{ opacity: 0, scale: 0.9 }}
-                                animate={{ opacity: 1, scale: 1 }}
-                                exit={{ opacity: 0, scale: 0.9 }}
-                                transition={{ duration: 0.3, delay: i * 0.05 }}
-                                className="group relative bg-white/5 border border-white/10 rounded-[32px] overflow-hidden hover:border-ovicare-primary/30 transition-all duration-500"
-                            >
-                                <div
-                                    className="aspect-square p-6 flex items-center justify-center cursor-zoom-in"
-                                    onClick={() => setSelectedImage(item)}
-                                >
-                                    <div className="w-full h-full relative group-hover:scale-105 transition-transform duration-700">
-                                        <MedicineImage
-                                            item={item}
-                                            index={medicinesData.indexOf(item)}
-                                            onZoom={() => setSelectedImage(item)}
-                                        />
-                                    </div>
-                                </div>
-                                <div className="p-6 pt-0">
-                                    <div className="h-px w-8 bg-ovicare-primary/30 mb-4 group-hover:w-full transition-all duration-700" />
-                                    <h3 className="text-white font-bold text-sm md:text-base uppercase tracking-tight line-clamp-2 leading-tight group-hover:text-ovicare-primary transition-colors">
-                                        {item.name}
-                                    </h3>
-                                </div>
-                            </motion.div>
+                {loading ? (
+                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-8">
+                        {[...Array(8)].map((_, i) => (
+                            <div key={i} className="bg-white/5 border border-white/10 rounded-[32px] h-[300px] animate-pulse" />
                         ))}
-                    </AnimatePresence>
-                </div>
+                    </div>
+                ) : (
+                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-8">
+                        <AnimatePresence mode="popLayout">
+                            {currentItems.map((item, i) => (
+                                <motion.div
+                                    key={item.name}
+                                    layout
+                                    initial={{ opacity: 0, scale: 0.9 }}
+                                    animate={{ opacity: 1, scale: 1 }}
+                                    exit={{ opacity: 0, scale: 0.9 }}
+                                    transition={{ duration: 0.3, delay: i * 0.05 }}
+                                    className="group relative bg-white/5 border border-white/10 rounded-[32px] overflow-hidden hover:border-ovicare-primary/30 transition-all duration-500"
+                                >
+                                    <div
+                                        className="aspect-square p-6 flex items-center justify-center cursor-zoom-in"
+                                        onClick={() => setSelectedImage(item)}
+                                    >
+                                        <div className="w-full h-full relative group-hover:scale-105 transition-transform duration-700">
+                                            <MedicineImage
+                                                item={item}
+                                                index={medicinesData.indexOf(item)}
+                                                availableImagesPool={availableImages}
+                                                onZoom={() => setSelectedImage(item)}
+                                            />
+                                        </div>
+                                    </div>
+                                    <div className="p-6 pt-0">
+                                        <div className="h-px w-8 bg-ovicare-primary/30 mb-4 group-hover:w-full transition-all duration-700" />
+                                        <h3 className="text-white font-bold text-sm md:text-base uppercase tracking-tight line-clamp-2 leading-tight group-hover:text-ovicare-primary transition-colors">
+                                            {item.name}
+                                        </h3>
+                                    </div>
+                                </motion.div>
+                            ))}
+                        </AnimatePresence>
+                    </div>
+                )}
 
                 {/* Empty State */}
-                {filteredMedicines.length === 0 && (
+                {!loading && filteredMedicines.length === 0 && (
                     <motion.div
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
@@ -175,7 +207,7 @@ const Medicines = () => {
                 )}
 
                 {/* Pagination */}
-                {totalPages > 1 && (
+                {!loading && totalPages > 1 && (
                     <div className="mt-20 flex flex-col md:flex-row items-center justify-center gap-8 border-t border-white/5 pt-12">
                         <div className="flex items-center gap-2">
                             <button
@@ -245,6 +277,7 @@ const Medicines = () => {
                                 <MedicineImage
                                     item={selectedImage}
                                     index={medicinesData.indexOf(selectedImage)}
+                                    availableImagesPool={availableImages}
                                 />
                                 <button
                                     onClick={() => setSelectedImage(null)}
