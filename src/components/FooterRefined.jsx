@@ -82,17 +82,17 @@ const FooterRefined = () => {
                         <div className="space-y-8 col-span-2 md:col-span-1">
                             <h4 className="text-white font-bold uppercase tracking-widest text-sm">Contact Us</h4>
                             <div className="space-y-6">
-                                <a href="tel:+2547XXXXXXXX" className="flex items-center gap-4 text-white/40 hover:text-white transition-colors group">
+                                <a href="tel:254728173181" className="flex items-center gap-4 text-white/40 hover:text-white transition-colors group">
                                     <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center group-hover:bg-ovicare-primary/20 transition-colors">
                                         <Phone size={18} className="text-ovicare-primary" />
                                     </div>
-                                    <span className="text-sm font-medium tracking-wide">+254 7XX XXX XXX</span>
+                                    <span className="text-sm font-medium tracking-wide">0728 173 181</span>
                                 </a>
-                                <a href="mailto:info@mayanlifestyle.com" className="flex items-center gap-4 text-white/40 hover:text-white transition-colors group">
+                                <a href="mailto:mayanlifestylehospital@gmail.com" className="flex items-center gap-4 text-white/40 hover:text-white transition-colors group">
                                     <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center group-hover:bg-ovicare-primary/20 transition-colors">
                                         <Mail size={18} className="text-ovicare-primary" />
                                     </div>
-                                    <span className="text-sm font-medium tracking-wide">info@mayanlifestyle.com</span>
+                                    <span className="text-sm font-medium tracking-wide">mayanlifestylehospital@gmail.com</span>
                                 </a>
                                 <div className="flex items-center gap-4 text-white/40 group">
                                     <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center">

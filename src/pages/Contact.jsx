@@ -31,9 +31,9 @@ const Contact = () => {
 
                     <div className="flex flex-col gap-8">
                         {[
-                            { icon: <Phone />, label: "Call Us", val: "+1 234 567 890" },
-                            { icon: <Mail />, label: "Email Us", val: "info@ovicare.com" },
-                            { icon: <MapPin />, label: "Visit Us", val: "123 Health Ave, Medical District, NY" },
+                            { icon: <Phone />, label: "Call Us", val: "0728 173 181" },
+                            { icon: <Mail />, label: "Email Us", val: "mayanlifestylehospital@gmail.com" },
+                            { icon: <MapPin />, label: "Visit Us", val: "Mayan Lifestyle Hospital, Kenya" },
                         ].map((item, i) => (
                             <div key={i} className="flex items-center gap-6 p-6 bg-white/5 border border-white/10 rounded-3xl group hover:border-ovicare-primary/30 transition-all">
                                 <div className="w-14 h-14 bg-ovicare-primary/10 rounded-2xl flex items-center justify-center text-ovicare-primary group-hover:bg-ovicare-primary group-hover:text-ovicare-dark transition-all">
@@ -63,7 +63,7 @@ const Contact = () => {
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-bold text-ovicare-text/60 ml-2">Email Address</label>
-                                <input type="email" placeholder="john@example.com" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
+                                <input type="email" placeholder="mayanlifestylehospital@gmail.com" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                         </div>
                         <div className="flex flex-col gap-2">

@@ -157,8 +157,8 @@ const Navbar = () => {
                                 <div className="space-y-6">
                                     <p className="text-ovicare-text/40 font-bold uppercase tracking-widest text-xs">Get in touch</p>
                                     <div className="space-y-4">
-                                        <a href="mailto:info@mayanlifestyle.com" className="text-xl md:text-2xl font-bold hover:text-ovicare-primary transition-colors block">info@mayanlifestyle.com</a>
-                                        <a href="tel:+2547XXXXXXXX" className="text-lg text-white/60 hover:text-white transition-colors block">+254 7XX XXX XXX</a>
+                                        <a href="mailto:mayanlifestylehospital@gmail.com" className="text-xl md:text-2xl font-bold hover:text-ovicare-primary transition-colors block">mayanlifestylehospital@gmail.com</a>
+                                        <a href="tel:254728173181" className="text-lg text-white/60 hover:text-white transition-colors block">0728 173 181</a>
                                     </div>
                                     <div className="flex space-x-6 pt-4">
                                         {[Facebook, Twitter, Instagram, Linkedin].map((Icon, idx) => (

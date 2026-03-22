@@ -2,8 +2,50 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Package, ArrowLeft, ArrowRight, X, Pill } from 'lucide-react';
 import medicinesData from '../data/medicines.json';
+import availableImages from '../data/available_images.json';
 
-const ITEMS_PER_PAGE = 24;
+const ITEMS_PER_PAGE = 20;
+
+const MedicineImage = ({ item, index, onZoom }) => {
+    const [isLoaded, setIsLoaded] = useState(false);
+    const [hasError, setHasError] = useState(false);
+
+    // Deterministic fallback image based on index
+    const fallbackImage = availableImages[index % availableImages.length];
+    const primarySrc = `/assets/medicines/${item.image}`;
+    const secondarySrc = `/assets/medicines/${fallbackImage}`;
+
+    return (
+        <div className="w-full h-full relative">
+            {/* Loading Skeleton */}
+            <AnimatePresence>
+                {!isLoaded && !hasError && (
+                    <motion.div
+                        initial={{ opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                        className="absolute inset-0 bg-white/5 animate-pulse flex flex-col items-center justify-center gap-2"
+                    >
+                        <Pill className="text-white/10" size={32} />
+                        <div className="w-1/2 h-1 bg-white/5 rounded-full" />
+                    </motion.div>
+                )}
+            </AnimatePresence>
+
+            <img
+                src={hasError ? secondarySrc : primarySrc}
+                alt={item.name}
+                loading="lazy"
+                decoding="async"
+                onLoad={() => setIsLoaded(true)}
+                onError={() => {
+                    if (!hasError) setHasError(true);
+                }}
+                className={`w-full h-full object-contain filter brightness-[95%] group-hover:brightness-100 transition-all duration-700 ${isLoaded ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
+                    }`}
+            />
+        </div>
+    );
+};
 
 const Medicines = () => {
     const [searchTerm, setSearchTerm] = useState('');
@@ -99,14 +141,10 @@ const Medicines = () => {
                                     onClick={() => setSelectedImage(item)}
                                 >
                                     <div className="w-full h-full relative group-hover:scale-105 transition-transform duration-700">
-                                        <img
-                                            src={`/assets/medicines/${item.image}`}
-                                            alt={item.name}
-                                            className="w-full h-full object-contain filter brightness-[95%] group-hover:brightness-100 transition-all"
-                                            onError={(e) => {
-                                                e.target.style.display = 'none';
-                                                e.target.parentElement.innerHTML = '<div class="w-full h-full flex flex-col items-center justify-center text-white/10 gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-package"><path d="m7.5 4.27 9 5.15"/><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></svg><span class="text-[10px] font-bold uppercase tracking-widest text-center px-4">Image Not Available</span></div>';
-                                            }}
+                                        <MedicineImage
+                                            item={item}
+                                            index={medicinesData.indexOf(item)}
+                                            onZoom={() => setSelectedImage(item)}
                                         />
                                     </div>
                                 </div>
@@ -161,8 +199,8 @@ const Medicines = () => {
                                             key={pageNum}
                                             onClick={() => setCurrentPage(pageNum)}
                                             className={`w-12 h-12 rounded-full font-bold text-sm transition-all ${currentPage === pageNum
-                                                    ? 'bg-ovicare-primary text-ovicare-dark'
-                                                    : 'text-white/40 hover:text-white hover:bg-white/5'
+                                                ? 'bg-ovicare-primary text-ovicare-dark'
+                                                : 'text-white/40 hover:text-white hover:bg-white/5'
                                                 }`}
                                         >
                                             {pageNum}
@@ -204,14 +242,13 @@ const Medicines = () => {
                             className="max-w-4xl w-full flex flex-col items-center gap-8"
                         >
                             <div className="relative w-full aspect-square md:aspect-video rounded-[40px] overflow-hidden border border-white/10 bg-white/5 shadow-2xl">
-                                <img
-                                    src={`/assets/medicines/${selectedImage.image}`}
-                                    alt={selectedImage.name}
-                                    className="w-full h-full object-contain p-8"
+                                <MedicineImage
+                                    item={selectedImage}
+                                    index={medicinesData.indexOf(selectedImage)}
                                 />
                                 <button
                                     onClick={() => setSelectedImage(null)}
-                                    className="absolute top-8 right-8 w-12 h-12 rounded-full bg-white/10 hover:bg-ovicare-primary hover:text-ovicare-dark transition-all flex items-center justify-center text-white"
+                                    className="absolute top-8 right-8 w-12 h-12 rounded-full bg-white/10 hover:bg-ovicare-primary hover:text-ovicare-dark transition-all flex items-center justify-center text-white z-10"
                                 >
                                     <X size={24} />
                                 </button>

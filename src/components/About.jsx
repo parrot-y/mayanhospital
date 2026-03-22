@@ -71,7 +71,7 @@ const About = () => {
                             Read More
                         </button>
                         <div className="flex flex-col">
-                            <span className="text-white font-bold text-xl">+123 456 789</span>
+                            <span className="text-white font-bold text-xl">0728 173 181</span>
                             <span className="text-ovicare-text/50 text-xs font-medium uppercase">Call for Appointment</span>
                         </div>
                     </div>

@@ -48,17 +48,17 @@ const CTASection = () => {
                     className="flex flex-wrap justify-center items-center gap-6"
                 >
                     <a
-                        href="tel:+17891234567"
+                        href="tel:254728173181"
                         className="text-2xl md:text-3xl font-bold text-white hover:text-ovicare-primary transition-colors"
                     >
-                        +1(789) -123-4567
+                        0728 173 181
                     </a>
                     <div className="w-px h-8 bg-white/20" />
                     <a
-                        href="mailto:info@example.com"
+                        href="mailto:mayanlifestylehospital@gmail.com"
                         className="text-2xl md:text-3xl font-bold text-white hover:text-ovicare-primary transition-colors"
                     >
-                        info@example.com
+                        mayanlifestylehospital@gmail.com
                     </a>
                 </motion.div>
 

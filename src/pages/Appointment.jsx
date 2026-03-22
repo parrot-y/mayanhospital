@@ -1,12 +1,42 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Phone, Mail, Clock, Send } from 'lucide-react';
-import Footer from '../components/FooterRefined';
 import MarqueeTicker from '../components/MarqueeTicker';
 import { useWebflowInteraction, webflowVariants } from '../hooks/useWebflowInteraction';
+import { servicesData } from '../utils/servicesData';
+import { useState } from 'react';
 
 const Appointment = () => {
     const { ref, isVisible } = useWebflowInteraction({ threshold: 0.1 });
+    const [formData, setFormData] = useState({
+        name: '',
+        email: '',
+        phone: '',
+        date: '',
+        service: servicesData[0]?.title || '',
+        message: ''
+    });
+
+    const handleInputChange = (e) => {
+        const { name, value } = e.target;
+        setFormData(prev => ({ ...prev, [name]: value }));
+    };
+
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        const { name, email, phone, date, service, message } = formData;
+
+        const whatsappMessage = `*New Appointment Request*%0A%0A` +
+            `*Name:* ${name}%0A` +
+            `*Email:* ${email}%0A` +
+            `*Phone:* ${phone}%0A` +
+            `*Date:* ${date}%0A` +
+            `*Service:* ${service}%0A` +
+            `*Message:* ${message}`;
+
+        const whatsappUrl = `https://wa.me/254728173181?text=${whatsappMessage}`;
+        window.open(whatsappUrl, '_blank');
+    };
 
     return (
         <div className="bg-ovicare-dark min-h-screen">
@@ -50,8 +80,8 @@ const Appointment = () => {
 
                     <div className="flex flex-col gap-6">
                         {[
-                            { icon: <Phone />, label: "Emergency Line", val: "+1(789) -123-4567" },
-                            { icon: <Mail />, label: "Support Email", val: "info@example.com" },
+                            { icon: <Phone />, label: "Emergency Line", val: "0728173181" },
+                            { icon: <Mail />, label: "Support Email", val: "mayanlifestylehospital@gmail.com" },
                             { icon: <Clock />, label: "Working Hours", val: "Mon - Sat: 9:00 AM - 9:00 PM" },
                         ].map((item, i) => (
                             <motion.div
@@ -82,41 +112,42 @@ const Appointment = () => {
                     variants={webflowVariants}
                     className="bg-white/5 border border-white/10 p-10 rounded-[40px] shadow-2xl"
                 >
-                    <form className="flex flex-col gap-6">
+                    <form onSubmit={handleSubmit} className="flex flex-col gap-6">
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div className="flex flex-col gap-2">
                                 <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Full Name</label>
-                                <input type="text" placeholder="Your Name" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
+                                <input name="name" type="text" placeholder="Your Name" required value={formData.name} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Email Address</label>
-                                <input type="email" placeholder="Email" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
+                                <input name="email" type="email" placeholder="Email" required value={formData.email} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div className="flex flex-col gap-2">
                                 <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Phone Number</label>
-                                <input type="tel" placeholder="Phone" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
+                                <input name="phone" type="tel" placeholder="Phone" required value={formData.phone} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Preferred Date</label>
-                                <input type="date" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
+                                <input name="date" type="date" required value={formData.date} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                         </div>
                         <div className="flex flex-col gap-2">
-                            <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Select Specialist</label>
-                            <select className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white appearance-none">
-                                <option className="bg-ovicare-dark">Cardiologist</option>
-                                <option className="bg-ovicare-dark">Neurologist</option>
-                                <option className="bg-ovicare-dark">Pediatrician</option>
-                                <option className="bg-ovicare-dark">Gynaecologist</option>
+                            <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Select Service</label>
+                            <select name="service" value={formData.service} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white appearance-none">
+                                {servicesData.map(service => (
+                                    <option key={service.id} value={service.title} className="bg-ovicare-dark">
+                                        {service.title}
+                                    </option>
+                                ))}
                             </select>
                         </div>
                         <div className="flex flex-col gap-2">
                             <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Message</label>
-                            <textarea rows="4" placeholder="How can we help you?" className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white resize-none"></textarea>
+                            <textarea name="message" rows="4" placeholder="How can we help you?" value={formData.message} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white resize-none"></textarea>
                         </div>
-                        <button className="bg-ovicare-primary text-ovicare-dark py-5 rounded-2xl font-bold text-lg flex items-center justify-center gap-3 hover:bg-white transition-all transform hover:scale-[1.02]">
+                        <button type="submit" className="bg-ovicare-primary text-ovicare-dark py-5 rounded-2xl font-bold text-lg flex items-center justify-center gap-3 hover:bg-white transition-all transform hover:scale-[1.02]">
                             Book Now <Send size={20} />
                         </button>
                     </form>
@@ -124,8 +155,7 @@ const Appointment = () => {
             </section>
 
             <MarqueeTicker />
-            <Footer />
-        </div>
+        </div >
     );
 };
 
