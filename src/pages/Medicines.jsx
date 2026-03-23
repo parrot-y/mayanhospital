@@ -7,19 +7,27 @@ const MedicineImage = ({ item, index, availableImagesPool, onZoom }) => {
     const [isLoaded, setIsLoaded] = useState(false);
     const [hasError, setHasError] = useState(false);
 
-    // Deterministic fallback image based on index
-    const fallbackImage = availableImagesPool && availableImagesPool.length > 0
-        ? availableImagesPool[index % availableImagesPool.length]
-        : null;
+    // Precise placeholder logic based on item characteristics
+    const getPlaceholder = (name = '') => {
+        const lowerName = name.toLowerCase();
+        if (lowerName.includes('syrup') || lowerName.includes('liquid') || lowerName.includes('suspension')) return 'generic_syrup.webp';
+        if (lowerName.includes('caps') || lowerName.includes('cap')) return 'generic_capsules.webp';
+        if (lowerName.includes('tabs') || lowerName.includes('tablet')) return 'generic_tablets.webp';
+        if (lowerName.includes('ointment') || lowerName.includes('cream') || lowerName.includes('gel')) return 'generic_ointment.webp';
+        if (lowerName.includes('spray') || lowerName.includes('nasal') || lowerName.includes('drops')) return 'generic_spray.webp';
+        return 'generic_tablets.webp'; // Default
+    };
 
-    const primarySrc = `/assets/medicines/${item.image}`;
-    const secondarySrc = fallbackImage ? `/assets/medicines/${fallbackImage}` : null;
+    // Only use official image if it actually exists in the pool
+    const imageExists = availableImagesPool && availableImagesPool.includes(item.image);
+    const primarySrc = imageExists ? `/assets/medicines/${item.image}` : `/assets/medicines/${getPlaceholder(item.name)}`;
+    const placeholderSrc = `/assets/medicines/${getPlaceholder(item.name)}`;
 
     return (
         <div className="w-full h-full relative">
             {/* Loading Skeleton */}
             <AnimatePresence>
-                {!isLoaded && !hasError && (
+                {!isLoaded && (
                     <motion.div
                         initial={{ opacity: 1 }}
                         exit={{ opacity: 0 }}
@@ -32,14 +40,12 @@ const MedicineImage = ({ item, index, availableImagesPool, onZoom }) => {
             </AnimatePresence>
 
             <img
-                src={hasError && secondarySrc ? secondarySrc : primarySrc}
+                src={hasError ? placeholderSrc : primarySrc}
                 alt={item.name}
                 loading="lazy"
                 decoding="async"
                 onLoad={() => setIsLoaded(true)}
-                onError={() => {
-                    if (!hasError && secondarySrc) setHasError(true);
-                }}
+                onError={() => setHasError(true)}
                 className={`w-full h-full object-contain filter brightness-[95%] group-hover:brightness-100 transition-all duration-700 ${isLoaded ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
                     }`}
             />
