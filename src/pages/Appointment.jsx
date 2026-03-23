@@ -10,7 +10,6 @@ const Appointment = () => {
     const { ref, isVisible } = useWebflowInteraction({ threshold: 0.1 });
     const [formData, setFormData] = useState({
         name: '',
-        email: '',
         phone: '',
         date: '',
         service: servicesData[0]?.title || '',
@@ -24,11 +23,10 @@ const Appointment = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const { name, email, phone, date, service, message } = formData;
+        const { name, phone, date, service, message } = formData;
 
         const whatsappMessage = `*New Appointment Request*%0A%0A` +
             `*Name:* ${name}%0A` +
-            `*Email:* ${email}%0A` +
             `*Phone:* ${phone}%0A` +
             `*Date:* ${date}%0A` +
             `*Service:* ${service}%0A` +
@@ -119,29 +117,25 @@ const Appointment = () => {
                                 <input name="name" type="text" placeholder="Your Name" required value={formData.name} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                             <div className="flex flex-col gap-2">
-                                <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Email Address</label>
-                                <input name="email" type="email" placeholder="Email" required value={formData.email} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
+                                <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Phone Number</label>
+                                <input name="phone" type="tel" placeholder="Phone" required value={formData.phone} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div className="flex flex-col gap-2">
-                                <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Phone Number</label>
-                                <input name="phone" type="tel" placeholder="Phone" required value={formData.phone} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
-                            </div>
-                            <div className="flex flex-col gap-2">
                                 <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Preferred Date</label>
                                 <input name="date" type="date" required value={formData.date} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white" />
                             </div>
-                        </div>
-                        <div className="flex flex-col gap-2">
-                            <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Select Service</label>
-                            <select name="service" value={formData.service} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white appearance-none">
-                                {servicesData.map(service => (
-                                    <option key={service.id} value={service.title} className="bg-ovicare-dark">
-                                        {service.title}
-                                    </option>
-                                ))}
-                            </select>
+                            <div className="flex flex-col gap-2">
+                                <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Select Service</label>
+                                <select name="service" value={formData.service} onChange={handleInputChange} className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-ovicare-primary transition-all text-white appearance-none w-full">
+                                    {servicesData.map(service => (
+                                        <option key={service.id} value={service.title} className="bg-ovicare-dark">
+                                            {service.title}
+                                        </option>
+                                    ))}
+                                </select>
+                            </div>
                         </div>
                         <div className="flex flex-col gap-2">
                             <label className="text-xs font-bold text-ovicare-text/40 uppercase tracking-widest ml-2">Message</label>

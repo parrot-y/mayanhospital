@@ -69,7 +69,7 @@ const Navbar = () => {
                             onClick={() => setIsSidebarOpen(true)}
                             className="flex items-center space-x-3 group cursor-pointer"
                         >
-                            <div className="text-white font-bold uppercase tracking-widest text-sm group-hover:text-ovicare-primary transition-colors">Menu</div>
+                            <div className="hidden lg:block text-white font-bold uppercase tracking-widest text-sm group-hover:text-ovicare-primary transition-colors">Menu</div>
                             <div className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center group-hover:bg-ovicare-primary transition-all duration-500">
                                 <Menu className="w-5 h-5 text-white group-hover:text-ovicare-dark transition-colors" />
                             </div>
