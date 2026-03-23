@@ -35,7 +35,7 @@ const services = [
     },
     {
         title: "Emergency Care",
-        desc: "Rapid response and critical care services available 24 hours a day.",
+        desc: "Rapid response and critical care services available 24 hrs everyday.",
         icon: <Thermometer className="w-8 h-8" />,
         link: "/service/emergency"
     }

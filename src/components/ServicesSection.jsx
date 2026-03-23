@@ -95,16 +95,23 @@ const ServicesSection = () => {
                 </div>
 
                 {/* Stacked Cards Area with Scroll-Mapped Spreading */}
-                <div className="relative w-full h-[700px] flex items-center justify-center">
+                <div className="relative w-full h-[600px] md:h-[700px] flex items-center justify-center">
                     {services.map((service, i) => {
                         // Progression window for the "spread" (0.2 to 0.5 of section visibility)
                         const start = 0.2 + (i * 0.02); // Small stagger in scroll mapping
                         const end = 0.5 + (i * 0.02);
 
-                        const x = useTransform(scrollYProgress, [start, end], ["0%", service.targetX]);
-                        const y = useTransform(scrollYProgress, [start, end], ["70px", service.targetY]);
-                        const rotate = useTransform(scrollYProgress, [start, end], [0, service.targetRotate]);
-                        const scale = useTransform(scrollYProgress, [start, end], [0.8, 1]);
+                        // Mobile-aware adjustment for offsets
+                        const isMobile = typeof window !== 'undefined' && window.innerWidth < 768;
+                        const factor = isMobile ? 0.35 : 1;
+
+                        const targetX = `${parseFloat(service.targetX) * factor}%`;
+                        const targetY = `${parseFloat(service.targetY) * factor}%`;
+
+                        const x = useTransform(scrollYProgress, [start, end], ["0%", targetX]);
+                        const y = useTransform(scrollYProgress, [start, end], [isMobile ? "40px" : "70px", targetY]);
+                        const rotate = useTransform(scrollYProgress, [start, end], [0, service.targetRotate * factor]);
+                        const scale = useTransform(scrollYProgress, [start, end], [0.85, 1]);
                         const opacity = useTransform(scrollYProgress, [start - 0.1, start, 0.75, 0.85], [0, 1, 1, 0]);
 
                         return (

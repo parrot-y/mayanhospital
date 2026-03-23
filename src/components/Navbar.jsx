@@ -34,8 +34,7 @@ const Navbar = () => {
                 )}
             >
                 <div className="container flex items-center justify-between">
-                    {/* Logo */}
-                    <Link to="/" className="relative z-10 flex items-center gap-3 group">
+                    <Link to="/" className="relative z-10 flex items-center gap-2 md:gap-3 group">
                         <div className="w-8 h-8 md:w-10 md:h-10 flex items-center justify-center -rotate-12 transition-transform duration-500 group-hover:rotate-0">
                             <img
                                 src="/favicon.svg"
@@ -43,7 +42,7 @@ const Navbar = () => {
                                 className="w-full h-full object-contain"
                             />
                         </div>
-                        <span className="text-xl md:text-2xl font-black uppercase tracking-tighter text-white">
+                        <span className="text-lg md:text-2xl font-black uppercase tracking-tighter text-white">
                             Mayan <span className="text-ovicare-primary italic">Lifestyle</span>
                         </span>
                     </Link>
@@ -160,15 +159,15 @@ const Navbar = () => {
                                         <a href="mailto:mayanlifestylehospital@gmail.com" className="text-xl md:text-2xl font-bold hover:text-ovicare-primary transition-colors block">mayanlifestylehospital@gmail.com</a>
                                         <a href="tel:254728173181" className="text-lg text-white/60 hover:text-white transition-colors block">0728 173 181</a>
                                     </div>
-                                    <div className="flex space-x-6 pt-4">
+                                    <div className="flex justify-center md:justify-start space-x-6 pt-4">
                                         {[Facebook, Twitter, Instagram, Linkedin].map((Icon, idx) => (
                                             <Icon key={idx} className="w-5 h-5 cursor-pointer hover:text-ovicare-primary transition-colors" />
                                         ))}
                                     </div>
                                 </div>
-                                <div className="flex justify-between items-center opacity-40">
-                                    <p className="text-xs uppercase tracking-widest font-bold">Privacy Policy</p>
-                                    <p className="text-xs font-bold uppercase tracking-widest">© {new Date().getFullYear()} Mayan Lifestyle</p>
+                                <div className="flex flex-col md:flex-row justify-between items-center gap-4 opacity-40">
+                                    <p className="text-[10px] md:text-xs uppercase tracking-widest font-bold">Privacy Policy</p>
+                                    <p className="text-[10px] md:text-xs font-bold uppercase tracking-widest">© {new Date().getFullYear()} Mayan Lifestyle</p>
                                 </div>
                             </div>
                         </motion.div>

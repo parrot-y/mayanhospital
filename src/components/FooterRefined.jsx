@@ -98,11 +98,24 @@ const FooterRefined = () => {
                                     <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center">
                                         <MapPin size={18} className="text-ovicare-primary" />
                                     </div>
-                                    <span className="text-sm font-medium tracking-wide leading-tight">Mayan Lifestyle Hospital, Kenya</span>
+                                    <span className="text-sm font-medium tracking-wide leading-tight">Mayan Lifestyle Hospital, Kiambu, Kenya</span>
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+
+                {/* Map Section */}
+                <div className="mb-24 w-full h-[300px] md:h-[400px] rounded-[30px] overflow-hidden border border-white/10 shadow-2xl">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d270.4124096726395!2d36.825650102729384!3d-1.1683580030582428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f3dc88d6b13a9%3A0x84cdf203cafa156a!2sMayan%20Lifestyle%20Medical%20Center!5e1!3m2!1ssw!2ske!4v1774259447276!5m2!1ssw!2ske"
+                        width="100%"
+                        height="100%"
+                        style={{ border: 0 }}
+                        allowFullScreen=""
+                        loading="lazy"
+                        referrerPolicy="no-referrer-when-downgrade"
+                    ></iframe>
                 </div>
 
                 {/* Bottom Footer */}

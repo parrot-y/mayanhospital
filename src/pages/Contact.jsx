@@ -26,14 +26,14 @@ const Contact = () => {
                 <div className="flex flex-col gap-10">
                     <div className="flex flex-col gap-4">
                         <h2 className="text-3xl font-bold text-white">Contact Information</h2>
-                        <p className="text-ovicare-text/60 text-lg">We are here to help you 24/7. Reach out via any of the methods below.</p>
+                        <p className="text-ovicare-text/60 text-lg">We are here to help you 24 hrs everyday. Reach out via any of the methods below.</p>
                     </div>
 
                     <div className="flex flex-col gap-8">
                         {[
                             { icon: <Phone />, label: "Call Us", val: "0728 173 181" },
                             { icon: <Mail />, label: "Email Us", val: "mayanlifestylehospital@gmail.com" },
-                            { icon: <MapPin />, label: "Visit Us", val: "Mayan Lifestyle Hospital, Kenya" },
+                            { icon: <MapPin />, label: "Visit Us", val: "Mayan Lifestyle Hospital, Kiambu, Kenya" },
                         ].map((item, i) => (
                             <div key={i} className="flex items-center gap-6 p-6 bg-white/5 border border-white/10 rounded-3xl group hover:border-ovicare-primary/30 transition-all">
                                 <div className="w-14 h-14 bg-ovicare-primary/10 rounded-2xl flex items-center justify-center text-ovicare-primary group-hover:bg-ovicare-primary group-hover:text-ovicare-dark transition-all">

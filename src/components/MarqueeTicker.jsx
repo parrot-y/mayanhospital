@@ -12,14 +12,14 @@ const MarqueeTicker = ({ reverse = false }) => (
         <div
             className="flex items-center"
             style={{
-                animation: `marquee${reverse ? 'Reverse' : ''} 60s linear infinite`,
+                animation: `marquee${reverse ? 'Reverse' : ''} 40s linear infinite`,
                 willChange: 'transform',
                 whiteSpace: 'nowrap',
             }}
         >
-            {[...items, ...items, ...items, ...items].map((text, i) => (
+            {[...items, ...items].map((text, i) => (
                 <React.Fragment key={i}>
-                    <span className="text-2xl md:text-3xl font-black uppercase tracking-tighter text-ovicare-dark">
+                    <span className="text-xl md:text-3xl font-black uppercase tracking-tighter text-ovicare-dark">
                         {text}
                     </span>
                     <PlusStar />

@@ -82,7 +82,7 @@ const Appointment = () => {
                         {[
                             { icon: <Phone />, label: "Emergency Line", val: "0728173181" },
                             { icon: <Mail />, label: "Support Email", val: "mayanlifestylehospital@gmail.com" },
-                            { icon: <Clock />, label: "Working Hours", val: "Mon - Sat: 9:00 AM - 9:00 PM" },
+                            { icon: <Clock />, label: "Working Hours", val: "24 hrs everyday" },
                         ].map((item, i) => (
                             <motion.div
                                 key={i}

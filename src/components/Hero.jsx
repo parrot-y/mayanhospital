@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { useWebflowInteraction, webflowVariants } from '../hooks/useWebflowInteraction';
 
 const Hero = () => {
@@ -28,12 +29,12 @@ const Hero = () => {
                         animate={isVisible ? "visible" : "hidden"}
                         custom={1}
                         variants={webflowVariants}
-                        className="flex justify-end items-center space-x-4 md:space-x-8"
+                        className="flex justify-end items-center gap-3 md:gap-8"
                     >
                         <h2 className="hero-title text-ovicare-primary italic uppercase tracking-tight">
                             Healthcare
                         </h2>
-                        <div className="w-12 h-12 md:w-24 md:h-24 bg-ovicare-primary rounded-full flex items-center justify-center -rotate-12 flex-shrink-0">
+                        <div className="w-14 h-14 md:w-24 md:h-24 bg-ovicare-primary rounded-full flex items-center justify-center -rotate-12 flex-shrink-0">
                             <img
                                 src="https://cdn.prod.website-files.com/65c9db2ebeedf24f0e4dec0b/65c9ef098ec979d4fa72d6f3_icon-1.webp"
                                 alt="Icon"
@@ -53,12 +54,12 @@ const Hero = () => {
                         <p className="text-lg md:text-xl text-ovicare-text/60 max-w-xl leading-relaxed">
                             With Mayan Lifestyle Hospital, your health is our priority. We offer comprehensive medical services, personalized care plans, and a dedicated team of professionals committed to your well-being.
                         </p>
-                        <a
-                            href="/appointment"
+                        <Link
+                            to="/appointment"
                             className="bg-ovicare-primary text-ovicare-dark px-10 py-5 rounded-2xl font-bold uppercase tracking-widest text-sm hover:bg-white transition-all transform hover:scale-[1.05]"
                         >
                             Get Appointment!
-                        </a>
+                        </Link>
                     </motion.div>
 
                     {/* Large Hero Image with Filter */}

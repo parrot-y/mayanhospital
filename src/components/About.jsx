@@ -5,7 +5,7 @@ import { CheckCircle2, Award, Users, Clock } from 'lucide-react';
 const features = [
     { icon: <Award className="text-ovicare-primary" />, title: "Best Medical Support" },
     { icon: <Users className="text-ovicare-primary" />, title: "Expert Professional Doctors" },
-    { icon: <Clock className="text-ovicare-primary" />, title: "24/7 Emergency Services" },
+    { icon: <Clock className="text-ovicare-primary" />, title: "24 hrs everyday emergency services" },
     { icon: <CheckCircle2 className="text-ovicare-primary" />, title: "Affordable Care Plans" },
 ];
 
