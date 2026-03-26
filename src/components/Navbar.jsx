@@ -35,16 +35,13 @@ const Navbar = () => {
             >
                 <div className="container flex items-center justify-between">
                     <Link to="/" className="relative z-10 flex items-center gap-2 md:gap-3 group">
-                        <div className="w-8 h-8 md:w-10 md:h-10 flex items-center justify-center -rotate-12 transition-transform duration-500 group-hover:rotate-0">
+                        <div className="h-16 md:h-20 transition-transform duration-500 group-hover:scale-105">
                             <img
-                                src="/favicon.svg"
-                                alt="Mayan Lifestyle"
-                                className="w-full h-full object-contain"
+                                src="/assets/images/logo.png"
+                                alt="Mayan Lifestyle Hospital"
+                                className="h-full w-auto object-contain"
                             />
                         </div>
-                        <span className="text-lg md:text-2xl font-black uppercase tracking-tighter text-white">
-                            Mayan <span className="text-ovicare-primary italic">Lifestyle</span>
-                        </span>
                     </Link>
 
                     {/* Desktop Navigation */}
@@ -111,16 +108,13 @@ const Navbar = () => {
                             <div>
                                 <div className="flex items-center justify-between">
                                     <div className="flex items-center gap-3">
-                                        <div className="w-8 h-8 flex items-center justify-center -rotate-12">
+                                        <div className="h-16 flex items-center justify-center">
                                             <img
-                                                src="/favicon.svg"
-                                                alt="Star"
-                                                className="w-full h-full object-contain"
+                                                src="/assets/images/logo.png"
+                                                alt="Mayan Lifestyle Hospital"
+                                                className="h-full w-auto object-contain"
                                             />
                                         </div>
-                                        <span className="text-xl font-black uppercase tracking-tighter text-white">
-                                            Mayan <span className="text-ovicare-primary italic">Lifestyle</span>
-                                        </span>
                                     </div>
                                     <button
                                         onClick={() => setIsSidebarOpen(false)}

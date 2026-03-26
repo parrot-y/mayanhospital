@@ -18,10 +18,15 @@ const FooterRefined = () => {
                             >
                                 Premium Healthcare
                             </motion.div>
-                            <h2 className="responsive-title text-white">
-                                Mayan Lifestyle <br />
-                                <span className="text-ovicare-primary italic">Hospital & Pharmacy</span>
-                            </h2>
+                            <div className="flex items-center gap-4">
+                                <div className="h-20">
+                                    <img
+                                        src="/assets/images/logo.png"
+                                        alt="Mayan Lifestyle Hospital"
+                                        className="h-full w-auto object-contain"
+                                    />
+                                </div>
+                            </div>
                         </div>
 
                         <p className="text-xl text-white/40 leading-relaxed max-w-md">
