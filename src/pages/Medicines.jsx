@@ -86,9 +86,11 @@ const Medicines = () => {
     }, []);
 
     const filteredMedicines = useMemo(() => {
-        return medicinesData.filter(item =>
-            item.name.toLowerCase().includes(searchTerm.toLowerCase())
-        );
+        return medicinesData
+            .filter(item =>
+                item.name.toLowerCase().includes(searchTerm.toLowerCase())
+            )
+            .sort((a, b) => a.name.localeCompare(b.name));
     }, [searchTerm, medicinesData]);
 
     const totalPages = Math.ceil(filteredMedicines.length / ITEMS_PER_PAGE);
