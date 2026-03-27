@@ -68,12 +68,12 @@ const Hero = () => {
                         animate={isVisible ? "visible" : "hidden"}
                         custom={3}
                         variants={webflowVariants}
-                        className="mt-12 md:mt-20 relative w-full aspect-[16/7] rounded-[40px] overflow-hidden group border border-white/5"
+                        className="mt-12 md:mt-20 relative w-full aspect-[4/5] md:aspect-[16/7] rounded-[20px] md:rounded-[40px] overflow-hidden group border border-white/5 bg-ovicare-dark/30"
                     >
                         <img
-                            src="/assets/images/hospital_exterior.png"
-                            alt="Advanced Healthcare"
-                            className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 filter brightness-[85%]"
+                            src="/assets/images/hero_image.jpg"
+                            alt="Mayan Hospital Staff and Services"
+                            className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105 filter brightness-[90%]"
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-ovicare-dark/60 via-transparent to-transparent pointer-events-none" />
                     </motion.div>

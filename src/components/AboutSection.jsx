@@ -28,12 +28,12 @@ const AboutSection = () => {
                         initial={{ opacity: 0, x: -40 }}
                         animate={isVisible ? { opacity: 1, x: 0 } : {}}
                         transition={{ duration: 0.9, ease: [0.25, 0.8, 0.25, 1] }}
-                        className="rounded-[40px] overflow-hidden aspect-[4/5] group border border-white/5"
+                        className="rounded-[40px] overflow-hidden aspect-[4/3] md:aspect-video group border border-white/5"
                     >
                         <img
-                            src="/assets/images/mri_scanner.png"
-                            alt="Medical"
-                            className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105 filter brightness-[90%]"
+                            src="/assets/images/hospital_clinic.jpg"
+                            alt="Mayan Lifestyle Hospital Clinic"
+                            className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105 filter brightness-[90%]"
                         />
                     </motion.div>
 
