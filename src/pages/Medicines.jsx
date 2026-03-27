@@ -187,7 +187,7 @@ const Medicines = () => {
                                     </div>
                                     <div className="p-6 pt-0">
                                         <div className="h-px w-8 bg-ovicare-primary/30 mb-4 group-hover:w-full transition-all duration-700" />
-                                        <h3 className="text-white font-bold text-sm md:text-base uppercase tracking-tight line-clamp-2 leading-tight group-hover:text-ovicare-primary transition-colors">
+                                        <h3 className="text-white font-bold text-[11px] md:text-base uppercase tracking-tight line-clamp-3 md:line-clamp-2 leading-tight group-hover:text-ovicare-primary transition-colors min-h-[2.5rem] md:min-h-0">
                                             {item.name}
                                         </h3>
                                     </div>
