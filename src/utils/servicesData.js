@@ -5,7 +5,7 @@ export const servicesData = [
         shortDesc: "Comprehensive pharmacy services with a wide range of medications and professional advice.",
         fullDesc: "Our pharmacy is stocked with a comprehensive range of essential medications, health supplements, and wellness products. Our licensed pharmacists are available to provide expert guidance on medication management, potential interactions, and general health advice.",
         benefits: ["24/7 Availability", "Expert Pharmacist Advice", "Wide Range of Medications", "Prescription Refill Services"],
-        image: "https://images.unsplash.com/photo-1587854692152-cbe660dbbb88?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_pharmacy_1.jpg", "/assets/images/svc_pharmacy_2.jpg"],
         icon: "Pill"
     },
     {
@@ -14,7 +14,7 @@ export const servicesData = [
         shortDesc: "Expert medical advice and diagnosis from our experienced team of doctors.",
         fullDesc: "Receive personalized medical attention from our highly qualified general practitioners and specialists. We offer thorough examinations, accurate diagnoses, and tailored treatment plans for a wide variety of health concerns.",
         benefits: ["Experienced Specialists", "Personalized Care Plans", "Advanced Diagnostics", "Comfortable Consultation Rooms"],
-        image: "https://images.unsplash.com/photo-1581056771107-24ca5f033842?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_doctors.jpg"],
         icon: "UserRound"
     },
     {
@@ -23,7 +23,7 @@ export const servicesData = [
         shortDesc: "State-of-the-art laboratory services for accurate and timely diagnostic testing.",
         fullDesc: "Our laboratory is equipped with advanced technology to perform a broad spectrum of diagnostic tests. We prioritize accuracy and speed to ensure that your medical team has the information needed for effective treatment.",
         benefits: ["High Accuracy Results", "Fast Turnaround Time", "Modern Testing Equipment", "Professional Lab Technicians"],
-        image: "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_laboratory.jpg"],
         icon: "FlaskConical"
     },
     {
@@ -32,7 +32,7 @@ export const servicesData = [
         shortDesc: "Dedicated round-the-clock medical care in a comfortable and supportive environment.",
         fullDesc: "For patients requiring extended medical supervision, our inpatient facilities provide a safe and healing environment. Our nursing staff and medical team offer 24/7 care focused on your recovery and comfort.",
         benefits: ["24/7 Nursing Supervision", "Comfortable Private Rooms", "Nutritional Meal Plans", "Advanced Monitoring Systems"],
-        image: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800",
+        images: ["https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"],
         icon: "Bed"
     },
     {
@@ -41,7 +41,7 @@ export const servicesData = [
         shortDesc: "Flexible medical services for patients who do not require overnight stays.",
         fullDesc: "Our outpatient department offers a convenient way to access high-quality medical care without staying overnight. This includes follow-up visits, minor procedures, and ongoing health management.",
         benefits: ["Convenient Scheduling", "Quick Procedures", "Expert Follow-up Care", "Minimal Disruption to Daily Life"],
-        image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_outpatient.jpg"],
         icon: "Activity"
     },
     {
@@ -50,7 +50,7 @@ export const servicesData = [
         shortDesc: "Rehabilitative care to improve movement, reduce pain, and restore physical function.",
         fullDesc: "Our physiotherapy experts use evidence-based techniques to help patients recover from injuries, manage chronic pain, and improve mobility. We create customized exercise and therapy programs for every individual.",
         benefits: ["Certified Physiotherapists", "Personalized Recovery Programs", "Pain Management Techniques", "Sports Injury Rehabilitation"],
-        image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800",
+        images: ["https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"],
         icon: "Accessibility"
     },
     {
@@ -59,7 +59,7 @@ export const servicesData = [
         shortDesc: "Comprehensive care for expectant mothers and their developing babies.",
         fullDesc: "Our Antenatal Clinic provides essential healthcare throughout pregnancy. We offer regular check-ups, monitoring of fetal development, and guidance on nutrition and birthing options to ensure a healthy journey for mother and child.",
         benefits: ["Experienced Obstetricians", "Fetal Development Monitoring", "Nutritional Counseling", "Birth Preparation Guidance"],
-        image: "https://images.unsplash.com/photo-1531983412531-1f49a365ffed?auto=format&fit=crop&q=80&w=800",
+        images: ["https://images.unsplash.com/photo-1531983412531-1f49a365ffed?auto=format&fit=crop&q=80&w=800"],
         icon: "Baby"
     },
     {
@@ -68,7 +68,7 @@ export const servicesData = [
         shortDesc: "Specialized management and monitoring of high blood pressure.",
         fullDesc: "We provide specialized care for patients with hypertension. Our clinic focuses on regular monitoring, medication management, and lifestyle adjustments to prevent complications and maintain heart health.",
         benefits: ["Continuous BP Monitoring", "Expert Cardiology Support", "Lifestyle Modification Plans", "Early Complication Detection"],
-        image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800",
+        images: ["https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"],
         icon: "Activity"
     },
     {
@@ -77,7 +77,7 @@ export const servicesData = [
         shortDesc: "Comprehensive management of Type 1 and Type 2 diabetes.",
         fullDesc: "Our dedicated Diabetes Clinic helps patients effectively manage leur condition. We offer blood sugar monitoring, insulin guidance, dietary planning, and screening for diabetes-related complications.",
         benefits: ["Glucose Monitoring Education", "Specialized Diabetic Diet Plans", "Insulin Management Support", "Regular Foot and Eye Screenings"],
-        image: "https://images.unsplash.com/photo-1579154212604-89f1fe96fc66?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_diabetes.png"],
         icon: "Droplet"
     },
     {
@@ -86,7 +86,7 @@ export const servicesData = [
         shortDesc: "Expert care for labor, delivery, and postpartum recovery.",
         fullDesc: "Our maternity services provide a safe and supportive environment for childbirth. We offer expert obstetric care, neonatal support, and postpartum recovery assistance in a warm, family-friendly setting.",
         benefits: ["Safest Delivery Environment", "Expert Midwifery and OB Care", "Postpartum Support", "Neonatal Intensive Care"],
-        image: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&q=80&w=800",
+        images: ["https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&q=80&w=800"],
         icon: "Heart"
     },
     {
@@ -95,7 +95,7 @@ export const servicesData = [
         shortDesc: "Professional guidance for safe and sustainable weight management.",
         fullDesc: "Our weight loss specialists provide evidence-based strategies for achieving a healthy weight. We combine nutritional guidance, physical activity planning, and behavioral coaching for long-term success.",
         benefits: ["Scientifically Backed Methods", "Personalized Meal Planning", "Regular Progress Tracking", "Psychological Support"],
-        image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_weightloss_1.png", "/assets/images/svc_weightloss_2.jpg"],
         icon: "Scale"
     },
     {
@@ -104,7 +104,7 @@ export const servicesData = [
         shortDesc: "Expert dietary advice for overall health and specific medical conditions.",
         fullDesc: "Our nutritionists provide personalized dietary advice tailored to your specific needs. Whether for general wellness, sports nutrition, or managing a medical condition, we help you make healthy food choices.",
         benefits: ["Certified Nutritonists", "Tailored Meal Plans", "Condition-Specific Diets", "Healthy Eating Workshops"],
-        image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800",
+        images: ["https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800"],
         icon: "Apple"
     },
     {
@@ -113,7 +113,7 @@ export const servicesData = [
         shortDesc: "Expert care for skin, hair, and nail conditions.",
         fullDesc: "Our dermatologists provide advanced care for a wide range of skin conditions, from acne and eczema to more complex skin diseases. We also offer screening for skin cancer and aesthetic consultations.",
         benefits: ["Advanced Skin Treatments", "Skin Cancer Screenings", "Expert Dermatological Staff", "Aesthetic Consultations"],
-        image: "https://images.unsplash.com/photo-1542841791-1c27f6bdd0cc?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_dermatology.jpg"],
         icon: "Sparkles"
     },
     {
@@ -122,7 +122,7 @@ export const servicesData = [
         shortDesc: "Advanced imaging services including Abdominal, Pelvic, and Bladder scans.",
         fullDesc: "We offer high-resolution diagnostic imaging services including Abdominal, Pelvic, Obstetrics, Kidney, Ureter, and Bladder scans. Our state-of-the-art equipment ensures clear results for accurate diagnosis.",
         benefits: ["High-Resolution Imaging", "Detailed Internal Scans", "Expert Radiologists", "Quick Report Generation"],
-        image: "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=800",
+        images: ["/assets/images/svc_scans.png"],
         icon: "Scan"
     }
 ];
