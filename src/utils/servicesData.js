@@ -5,7 +5,7 @@ export const servicesData = [
         shortDesc: "Comprehensive pharmacy services with a wide range of medications and professional advice.",
         fullDesc: "Our pharmacy is stocked with a comprehensive range of essential medications, health supplements, and wellness products. Our licensed pharmacists are available to provide expert guidance on medication management, potential interactions, and general health advice.",
         benefits: ["24/7 Availability", "Expert Pharmacist Advice", "Wide Range of Medications", "Prescription Refill Services"],
-        images: ["/assets/images/svc_pharmacy_1.jpg", "/assets/images/svc_pharmacy_2.jpg"],
+        images: ["/assets/images/svc_pharmacy_1.webp", "/assets/images/svc_pharmacy_2.webp"],
         icon: "Pill"
     },
     {
@@ -14,7 +14,7 @@ export const servicesData = [
         shortDesc: "Expert medical advice and diagnosis from our experienced team of doctors.",
         fullDesc: "Receive personalized medical attention from our highly qualified general practitioners and specialists. We offer thorough examinations, accurate diagnoses, and tailored treatment plans for a wide variety of health concerns.",
         benefits: ["Experienced Specialists", "Personalized Care Plans", "Advanced Diagnostics", "Comfortable Consultation Rooms"],
-        images: ["/assets/images/svc_doctors.jpg"],
+        images: ["/assets/images/svc_doctors.webp"],
         icon: "UserRound"
     },
     {
@@ -23,7 +23,7 @@ export const servicesData = [
         shortDesc: "State-of-the-art laboratory services for accurate and timely diagnostic testing.",
         fullDesc: "Our laboratory is equipped with advanced technology to perform a broad spectrum of diagnostic tests. We prioritize accuracy and speed to ensure that your medical team has the information needed for effective treatment.",
         benefits: ["High Accuracy Results", "Fast Turnaround Time", "Modern Testing Equipment", "Professional Lab Technicians"],
-        images: ["/assets/images/svc_laboratory.jpg"],
+        images: ["/assets/images/svc_laboratory.webp"],
         icon: "FlaskConical"
     },
     {
@@ -41,7 +41,7 @@ export const servicesData = [
         shortDesc: "Flexible medical services for patients who do not require overnight stays.",
         fullDesc: "Our outpatient department offers a convenient way to access high-quality medical care without staying overnight. This includes follow-up visits, minor procedures, and ongoing health management.",
         benefits: ["Convenient Scheduling", "Quick Procedures", "Expert Follow-up Care", "Minimal Disruption to Daily Life"],
-        images: ["/assets/images/svc_outpatient.jpg"],
+        images: ["/assets/images/svc_outpatient.webp"],
         icon: "Activity"
     },
     {
@@ -75,9 +75,9 @@ export const servicesData = [
         id: "diabetes-clinic",
         title: "Diabetes Clinic",
         shortDesc: "Comprehensive management of Type 1 and Type 2 diabetes.",
-        fullDesc: "Our dedicated Diabetes Clinic helps patients effectively manage leur condition. We offer blood sugar monitoring, insulin guidance, dietary planning, and screening for diabetes-related complications.",
+        fullDesc: "Our dedicated Diabetes Clinic helps patients effectively manage their condition. We offer blood sugar monitoring, insulin guidance, dietary planning, and screening for diabetes-related complications.",
         benefits: ["Glucose Monitoring Education", "Specialized Diabetic Diet Plans", "Insulin Management Support", "Regular Foot and Eye Screenings"],
-        images: ["/assets/images/svc_diabetes.png"],
+        images: ["/assets/images/svc_diabetes.webp"],
         icon: "Droplet"
     },
     {
@@ -95,7 +95,7 @@ export const servicesData = [
         shortDesc: "Professional guidance for safe and sustainable weight management.",
         fullDesc: "Our weight loss specialists provide evidence-based strategies for achieving a healthy weight. We combine nutritional guidance, physical activity planning, and behavioral coaching for long-term success.",
         benefits: ["Scientifically Backed Methods", "Personalized Meal Planning", "Regular Progress Tracking", "Psychological Support"],
-        images: ["/assets/images/svc_weightloss_1.png", "/assets/images/svc_weightloss_2.jpg"],
+        images: ["/assets/images/svc_weightloss_1.webp", "/assets/images/svc_weightloss_2.webp"],
         icon: "Scale"
     },
     {
@@ -113,7 +113,7 @@ export const servicesData = [
         shortDesc: "Expert care for skin, hair, and nail conditions.",
         fullDesc: "Our dermatologists provide advanced care for a wide range of skin conditions, from acne and eczema to more complex skin diseases. We also offer screening for skin cancer and aesthetic consultations.",
         benefits: ["Advanced Skin Treatments", "Skin Cancer Screenings", "Expert Dermatological Staff", "Aesthetic Consultations"],
-        images: ["/assets/images/svc_dermatology.jpg"],
+        images: ["/assets/images/svc_dermatology.webp"],
         icon: "Sparkles"
     },
     {
@@ -122,7 +122,7 @@ export const servicesData = [
         shortDesc: "Advanced imaging services including Abdominal, Pelvic, and Bladder scans.",
         fullDesc: "We offer high-resolution diagnostic imaging services including Abdominal, Pelvic, Obstetrics, Kidney, Ureter, and Bladder scans. Our state-of-the-art equipment ensures clear results for accurate diagnosis.",
         benefits: ["High-Resolution Imaging", "Detailed Internal Scans", "Expert Radiologists", "Quick Report Generation"],
-        images: ["/assets/images/svc_scans.png"],
+        images: ["/assets/images/svc_scans.webp"],
         icon: "Scan"
     }
 ];

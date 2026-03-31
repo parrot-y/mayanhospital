@@ -31,6 +31,9 @@ const ImageCarousel = ({ images, title }) => {
                     exit={{ opacity: 0, scale: 0.97 }}
                     transition={{ duration: 0.8, ease: 'easeInOut' }}
                     className="absolute inset-0 w-full h-full object-cover object-center filter brightness-[90%] group-hover:scale-105 transition-transform duration-1000"
+                    loading="eager"
+                    fetchpriority="high"
+                    decoding="async"
                 />
             </AnimatePresence>
             <div className="absolute inset-0 bg-gradient-to-t from-ovicare-dark/60 via-transparent to-transparent pointer-events-none" />
