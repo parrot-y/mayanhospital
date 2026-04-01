@@ -4060,8 +4060,23 @@
     "category": "pharmacy"
   },
   {
+    "name": "SONADERM 10GMS",
+    "image": "sonaderm_10gms.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "SONAMOJA 50S",
     "image": "sonamoja_50s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SONATEC MOUTHWASH 200 C/P",
+    "image": "sonatec_mouthwash_200_c_p.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SPASMOMEN TABLETS 40MG 3OS",
+    "image": "spasmomen_tablets_40mg_3os.webp",
     "category": "pharmacy"
   },
   {
@@ -4070,8 +4085,43 @@
     "category": "pharmacy"
   },
   {
+    "name": "STERON TABS 5 MG 100S",
+    "image": "steron_tabs_5_mg_100s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STILNOX TABS 10MG 14S",
+    "image": "stilnox_tabs_10mg_14s.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "STIR UP 10MG TABS 20S",
     "image": "stir_up_10mg_tabs_20s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STOPACID SUSP 100 ML",
+    "image": "stopacid_susp_100_ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STRAPPIN (ZINC OXIDE) 3",
+    "image": "strappin_zinc_oxide_3.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STREPSIL REGULAR  50 2S",
+    "image": "strepsil_regular_50_2s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "STREPSILS HONEY AND LEMON",
+    "image": "strepsils_honey_and_lemon.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SUBSYDE CR CAPS 10S",
+    "image": "subsyde_cr_caps_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -4090,8 +4140,23 @@
     "category": "pharmacy"
   },
   {
+    "name": "SURDEX SYRUP 60ML",
+    "image": "surdex_syrup_60ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURGICAL SPIRIT 100ML",
+    "image": "surgical_spirit_100ml.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "SURGICAL SPIRIT 50 ML",
     "image": "surgical_spirit_50_ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "SURGICAL SPIRIT 500 ML",
+    "image": "surgical_spirit_500_ml.webp",
     "category": "pharmacy"
   },
   {
@@ -4110,8 +4175,28 @@
     "category": "pharmacy"
   },
   {
+    "name": "SYP 150MLS",
+    "image": "syp_150mls.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "TAGERA FORTE 2",
     "image": "tagera_forte_2.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TALIMUS OINT 0.03% 10GM",
+    "image": "talimus_oint_0_03_10gm.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TEARS NATURALE 11 15MLS",
+    "image": "tears_naturale_11_15mls.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TEGRETOL CR 200 50S",
+    "image": "tegretol_cr_200_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -4122,6 +4207,31 @@
   {
     "name": "TELMI 80MGS 28s",
     "image": "telmi_80mgs_28s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TERBEX CRM 15GM",
+    "image": "terbex_crm_15gm.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TERBICARE 1PERCENT TERBINAFINE CREAM",
+    "image": "terbicare_1percent_terbinafine_cream.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "THIOCARB &PROM 100ML SYRUP",
+    "image": "thiocarb_prom_100ml_syrup.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "THIOVENT (WITH PROMETHAZINE) C & A 100MLS",
+    "image": "thiovent_with_promethazine_c_a_100mls.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TINCTURE OF IODINE 50MLS",
+    "image": "tincture_of_iodine_50mls.webp",
     "category": "pharmacy"
   },
   {
@@ -4170,8 +4280,18 @@
     "category": "pharmacy"
   },
   {
+    "name": "TOUCH AND GO SOL 7ML",
+    "image": "touch_and_go_sol_7ml.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "TPN TOTAL PARENTERAL PERIPHERAL INFUSION",
     "image": "tpn_total_parenteral_peripheral_infusion.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRAMACETAL 10S",
+    "image": "tramacetal_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -4182,6 +4302,11 @@
   {
     "name": "TRANEXAMIC ACID 500MG CAPS 30S (PAUSE)",
     "image": "tranexamic_acid_500mg_caps_30s_pause.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRANSAMIN 500MG CAPS 20S",
+    "image": "transamin_500mg_caps_20s.webp",
     "category": "pharmacy"
   },
   {
@@ -4202,6 +4327,11 @@
   {
     "name": "TRIANGULAR BANDAGES 90CM BY 90CM",
     "image": "triangular_bandages_90cm_by_90cm.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIBEES FORTE TABS 20S",
+    "image": "tribees_forte_tabs_20s.webp",
     "category": "pharmacy"
   },
   {
@@ -4230,8 +4360,48 @@
     "category": "pharmacy"
   },
   {
+    "name": "TRIHISTAMIN 100ML",
+    "image": "trihistamin_100ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIHISTAMIN 60ML",
+    "image": "trihistamin_60ml.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "TRIMETABOL SYRUP 150ML",
     "image": "trimetabol_syrup_150ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMEX EXP 100ML C/P ADULT",
+    "image": "trimex_exp_100ml_c_p_adult.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMEX EXP(DIABETIC) 100ML",
+    "image": "trimex_exp_diabetic_100ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIMEX EXP(PAED)100ML C/P",
+    "image": "trimex_exp_paed_100ml_c_p.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIOHIST  EXPECTORANT 60ML",
+    "image": "triohist_expectorant_60ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRIOKIT 1S",
+    "image": "triokit_1s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "TRUST CONDOM STUDDED 24",
+    "image": "trust_condom_studded_24.webp",
     "category": "pharmacy"
   },
   {
@@ -4240,13 +4410,38 @@
     "category": "pharmacy"
   },
   {
+    "name": "TRUST RIBBED 24S",
+    "image": "trust_ribbed_24s.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "TUSPRESS 60MLS",
     "image": "tuspress_60mls.webp",
     "category": "pharmacy"
   },
   {
+    "name": "TUSPRESS SUSP 100ML",
+    "image": "tuspress_susp_100ml.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "UDIHEP  FORTE 300MG 50S",
     "image": "udihep_forte_300mg_50s.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULCERID PLA1N 100 ML",
+    "image": "ulcerid_pla1n_100_ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "ULGICID SUSP 200ML(PINEAPPLE FLAVOR)",
+    "image": "ulgicid_susp_200ml_pineapple_flavor.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNIBROL 250 MG TABS 24S",
+    "image": "unibrol_250_mg_tabs_24s.webp",
     "category": "pharmacy"
   },
   {
@@ -4267,6 +4462,11 @@
   {
     "name": "UNISTEN HC CREAM 20GM",
     "image": "unisten_hc_cream_20gm.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "UNIVIR CREAM 10GM",
+    "image": "univir_cream_10gm.webp",
     "category": "pharmacy"
   },
   {
@@ -5410,78 +5610,13 @@
     "category": "pharmacy"
   },
   {
-    "name": "SONADERM 10GMS",
-    "image": "sonaderm_10gms.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "SONATEC MOUTHWASH 200 C/P",
-    "image": "sonatec_mouthwash_200_c_p.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "SPASMOMEN TABLETS 40MG 3OS",
-    "image": "spasmomen_tablets_40mg_3os.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "STAY YOUNG ACTIVE GIRL",
     "image": "stay_young_active_girl.webp",
     "category": "pharmacy"
   },
   {
-    "name": "STERON TABS 5 MG 100S",
-    "image": "steron_tabs_5_mg_100s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "STILNOX TABS 10MG 14S",
-    "image": "stilnox_tabs_10mg_14s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "STOPACID SUSP 100 ML",
-    "image": "stopacid_susp_100_ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "STRAPPIN (ZINC OXIDE) 3",
-    "image": "strappin_zinc_oxide_3.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "STREPSIL REGULAR  50 2S",
-    "image": "strepsil_regular_50_2s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "STREPSILS HONEY AND LEMON",
-    "image": "strepsils_honey_and_lemon.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "SUBSYDE CR CAPS 10S",
-    "image": "subsyde_cr_caps_10s.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "SUNSCREEN CREAM MALIBU SPF 30",
     "image": "sunscreen_cream_malibu_spf_30.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "SURDEX SYRUP 60ML",
-    "image": "surdex_syrup_60ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "SURGICAL SPIRIT 100ML",
-    "image": "surgical_spirit_100ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "SURGICAL SPIRIT 500 ML",
-    "image": "surgical_spirit_500_ml.webp",
     "category": "pharmacy"
   },
   {
@@ -5495,58 +5630,13 @@
     "category": "pharmacy"
   },
   {
-    "name": "SYP 150MLS",
-    "image": "syp_150mls.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TALIMUS OINT 0.03% 10GM",
-    "image": "talimus_oint_0_03_10gm.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "TALIMUS OINT 0.1% 10GM",
     "image": "talimus_oint_0_1_10gm.webp",
     "category": "pharmacy"
   },
   {
-    "name": "TEARS NATURALE 11 15MLS",
-    "image": "tears_naturale_11_15mls.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TEGRETOL CR 200 50S",
-    "image": "tegretol_cr_200_50s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TERBEX CRM 15GM",
-    "image": "terbex_crm_15gm.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TERBICARE 1PERCENT TERBINAFINE CREAM",
-    "image": "terbicare_1percent_terbinafine_cream.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "TETRACYCLINE EYE OINT 5G (TX)",
     "image": "tetracycline_eye_oint_5g_tx.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "THIOCARB &PROM 100ML SYRUP",
-    "image": "thiocarb_prom_100ml_syrup.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "THIOVENT (WITH PROMETHAZINE) C & A 100MLS",
-    "image": "thiovent_with_promethazine_c_a_100mls.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TINCTURE OF IODINE 50MLS",
-    "image": "tincture_of_iodine_50mls.webp",
     "category": "pharmacy"
   },
   {
@@ -5560,73 +5650,8 @@
     "category": "pharmacy"
   },
   {
-    "name": "TOUCH AND GO SOL 7ML",
-    "image": "touch_and_go_sol_7ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRAMACETAL 10S",
-    "image": "tramacetal_10s.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "TRAMADOL INJ 100MG (STROM) 10S",
     "image": "tramadol_inj_100mg_strom_10s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRANSAMIN 500MG CAPS 20S",
-    "image": "transamin_500mg_caps_20s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIBEES FORTE TABS 20S",
-    "image": "tribees_forte_tabs_20s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIHISTAMIN 100ML",
-    "image": "trihistamin_100ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIHISTAMIN 60ML",
-    "image": "trihistamin_60ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIMEX EXP 100ML C/P ADULT",
-    "image": "trimex_exp_100ml_c_p_adult.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIMEX EXP(DIABETIC) 100ML",
-    "image": "trimex_exp_diabetic_100ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIMEX EXP(PAED)100ML C/P",
-    "image": "trimex_exp_paed_100ml_c_p.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIOHIST  EXPECTORANT 60ML",
-    "image": "triohist_expectorant_60ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRIOKIT 1S",
-    "image": "triokit_1s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRUST CONDOM STUDDED 24",
-    "image": "trust_condom_studded_24.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "TRUST RIBBED 24S",
-    "image": "trust_ribbed_24s.webp",
     "category": "pharmacy"
   },
   {
@@ -5645,16 +5670,6 @@
     "category": "pharmacy"
   },
   {
-    "name": "TUSPRESS SUSP 100ML",
-    "image": "tuspress_susp_100ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "ULCERID PLA1N 100 ML",
-    "image": "ulcerid_pla1n_100_ml.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "ULGICID SUSP 200ML(CHERRY FLOVAR)",
     "image": "ulgicid_susp_200ml_cherry_flovar.webp",
     "category": "pharmacy"
@@ -5665,23 +5680,8 @@
     "category": "pharmacy"
   },
   {
-    "name": "ULGICID SUSP 200ML(PINEAPPLE FLAVOR)",
-    "image": "ulgicid_susp_200ml_pineapple_flavor.webp",
-    "category": "pharmacy"
-  },
-  {
     "name": "ULSACURE",
     "image": "ulsacure.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "UNIBROL 250 MG TABS 24S",
-    "image": "unibrol_250_mg_tabs_24s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "UNIVIR CREAM 10GM",
-    "image": "univir_cream_10gm.webp",
     "category": "pharmacy"
   },
   {
