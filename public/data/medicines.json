@@ -4490,6 +4490,16 @@
     "category": "pharmacy"
   },
   {
+    "name": "VEDROX DRY SYRUP 100ML",
+    "image": "vedrox_dry_syrup_100ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VEDROX DRY SYRUP 60ML",
+    "image": "vedrox_dry_syrup_60ml.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "VEET 50GM",
     "image": "veet_50gm.webp",
     "category": "pharmacy"
@@ -4525,8 +4535,18 @@
     "category": "pharmacy"
   },
   {
+    "name": "VENTOLIN SYR (SUGAR FREE) 2MG/5ML 100ML",
+    "image": "ventolin_syr_sugar_free_2mg_5ml_100ml.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "VERMOX SYRUP 30ML",
     "image": "vermox_syrup_30ml.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VILDAMET 50/500MG",
+    "image": "vildamet_50_500mg.webp",
     "category": "pharmacy"
   },
   {
@@ -4555,6 +4575,11 @@
     "category": "pharmacy"
   },
   {
+    "name": "VITAMIN D3 INJ (DEVIT-3)",
+    "image": "vitamin_d3_inj_devit_3.webp",
+    "category": "pharmacy"
+  },
+  {
     "name": "VITAMIN K PAEDIATRIC 5MG ORAL/INJECTION",
     "image": "vitamin_k_paediatric_5mg_oral_injection.webp",
     "category": "pharmacy"
@@ -4562,6 +4587,11 @@
   {
     "name": "VITANORM 100MLS",
     "image": "vitanorm_100mls.webp",
+    "category": "pharmacy"
+  },
+  {
+    "name": "VITIX GEL FOR HYPOPIGMENTATION 20ML",
+    "image": "vitix_gel_for_hypopigmentation_20ml.webp",
     "category": "pharmacy"
   },
   {
@@ -5692,36 +5722,6 @@
   {
     "name": "URISOL SATCHET 10S",
     "image": "urisol_satchet_10s.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "VEDROX DRY SYRUP 100ML",
-    "image": "vedrox_dry_syrup_100ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "VEDROX DRY SYRUP 60ML",
-    "image": "vedrox_dry_syrup_60ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "VENTOLIN SYR (SUGAR FREE) 2MG/5ML 100ML",
-    "image": "ventolin_syr_sugar_free_2mg_5ml_100ml.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "VILDAMET 50/500MG",
-    "image": "vildamet_50_500mg.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "VITAMIN D3 INJ (DEVIT-3)",
-    "image": "vitamin_d3_inj_devit_3.webp",
-    "category": "pharmacy"
-  },
-  {
-    "name": "VITIX GEL FOR HYPOPIGMENTATION 20ML",
-    "image": "vitix_gel_for_hypopigmentation_20ml.webp",
     "category": "pharmacy"
   },
   {
