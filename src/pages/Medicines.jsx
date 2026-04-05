@@ -104,37 +104,45 @@ const Medicines = () => {
     }, []);
 
     const filteredMedicines = useMemo(() => {
-        return [...medicinesData]
-            .filter(item =>
-                item.name.toLowerCase().includes(searchTerm.toLowerCase())
-            )
-            .sort((a, b) => {
-                const isPlaceholder = (img) => {
-                    if (!img) return true;
-                    if (!availableImages.includes(img)) return true;
-                    if (img.startsWith('0000')) return true;
+        const globalPlaceholders = [
+            'generic_syrup.webp',
+            'generic_capsules.webp',
+            'generic_tablets.webp',
+            'generic_ointment.webp',
+            'generic_spray.webp'
+        ];
 
-                    const globalPlaceholders = [
-                        'generic_syrup.webp',
-                        'generic_capsules.webp',
-                        'generic_tablets.webp',
-                        'generic_ointment.webp',
-                        'generic_spray.webp'
-                    ];
-                    if (globalPlaceholders.includes(img.toLowerCase())) return true;
+        const isPlaceholder = (img) => {
+            if (!img) return true;
+            if (!availableImages.includes(img)) return true;
+            if (img.startsWith('0000')) return true;
+            if (globalPlaceholders.includes(img.toLowerCase())) return true;
+            return false;
+        };
 
-                    return false;
-                };
+        const filtered = [...medicinesData].filter(item =>
+            item.name.toLowerCase().includes(searchTerm.toLowerCase())
+        );
 
-                const aIsPlaceholder = isPlaceholder(a.image);
-                const bIsPlaceholder = isPlaceholder(b.image);
+        // Stable seeded shuffle — order is consistent within a day but not alphabetical
+        const seed = Math.floor(Date.now() / 86400000); // changes once per day
+        const seededRand = (i) => {
+            let x = Math.sin(seed + i) * 10000;
+            return x - Math.floor(x);
+        };
 
-                if (!aIsPlaceholder && bIsPlaceholder) return -1;
-                if (aIsPlaceholder && !bIsPlaceholder) return 1;
+        const withReal = filtered.filter(item => !isPlaceholder(item.image));
+        const withPlaceholder = filtered.filter(item => isPlaceholder(item.image));
 
-                return a.name.localeCompare(b.name);
-            });
+        // Shuffle real products using seeded random
+        const shuffled = withReal
+            .map((item, i) => ({ item, sort: seededRand(i) }))
+            .sort((a, b) => a.sort - b.sort)
+            .map(({ item }) => item);
+
+        return [...shuffled, ...withPlaceholder];
     }, [searchTerm, medicinesData, availableImages]);
+
 
     const totalPages = Math.ceil(filteredMedicines.length / ITEMS_PER_PAGE);
 
