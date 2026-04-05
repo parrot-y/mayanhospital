@@ -64,7 +64,7 @@ const TeamGallery = () => {
                         href="https://photosbyobare24.pixieset.com/mayanlifestylehospital/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="group inline-flex items-center gap-3 px-8 py-4 bg-ovicare-primary text-white font-semibold rounded-full shadow-lg hover:shadow-ovicare-primary/40 hover:scale-105 transition-all duration-300"
+                        className="group inline-flex items-center gap-3 px-8 py-4 bg-white text-gray-900 font-semibold rounded-full shadow-lg hover:bg-ovicare-primary hover:text-gray-900 hover:scale-105 transition-all duration-300"
                     >
                         <span>View Full Gallery</span>
                         <svg
