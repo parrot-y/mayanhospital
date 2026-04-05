@@ -59,7 +59,7 @@ export const servicesData = [
         shortDesc: "Comprehensive care for expectant mothers and their developing babies.",
         fullDesc: "Our Antenatal Clinic provides essential healthcare throughout pregnancy. We offer regular check-ups, monitoring of fetal development, and guidance on nutrition and birthing options to ensure a healthy journey for mother and child.",
         benefits: ["Experienced Obstetricians", "Fetal Development Monitoring", "Nutritional Counseling", "Birth Preparation Guidance"],
-        images: ["https://images.unsplash.com/photo-1531983412531-1f49a365ffed?auto=format&fit=crop&q=80&w=800"],
+        images: ["/assets/anc_clinic_hero.png"],
         icon: "Baby"
     },
     {
