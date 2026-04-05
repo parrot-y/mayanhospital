@@ -13,7 +13,7 @@ const ProcessImageCarousel = () => {
     useEffect(() => {
         const timer = setInterval(() => {
             setCurrentIndex((prevIndex) => (prevIndex + 1) % carouselImages.length);
-        }, 5000);
+        }, 2500);
         return () => clearInterval(timer);
     }, []);
 

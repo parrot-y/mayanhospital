@@ -90,8 +90,16 @@ const Medicines = () => {
             .filter(item =>
                 item.name.toLowerCase().includes(searchTerm.toLowerCase())
             )
-            .sort((a, b) => a.name.localeCompare(b.name));
-    }, [searchTerm, medicinesData]);
+            .sort((a, b) => {
+                const aHasImage = availableImages.includes(a.image);
+                const bHasImage = availableImages.includes(b.image);
+
+                if (aHasImage && !bHasImage) return -1;
+                if (!aHasImage && bHasImage) return 1;
+
+                return a.name.localeCompare(b.name);
+            });
+    }, [searchTerm, medicinesData, availableImages]);
 
     const totalPages = Math.ceil(filteredMedicines.length / ITEMS_PER_PAGE);
 

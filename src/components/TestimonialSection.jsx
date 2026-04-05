@@ -9,18 +9,18 @@ const TestimonialSection = () => {
     const testimonials = [
         {
             quote: "Exceptional care! The medical team's expertise and compassion made my recovery swift and reassuring. Grateful for their dedication",
-            author: "Arthur conan doyle",
-            role: "CEO and Co-Founder / Evoke company"
+            author: "James Kamau",
+            role: "Entrepreneur / Kiambu Business Council"
         },
         {
             quote: "Outstanding medical expertise! The accurate diagnosis and effective treatment plan greatly improved my quality of life. Truly grateful.",
-            author: "William faulkner",
-            role: "Engineer / Nelson company"
+            author: "Sharon Wanjiku",
+            role: "Teacher / Thika High School"
         },
         {
             quote: "Highly recommend! The personalized approach to my health concerns was outstanding. A team that truly cares about patients' well-being",
-            author: "Ernest hemingway",
-            role: "Model / Voege megazine"
+            author: "David Mwangi",
+            role: "Farmer / Githunguri Dairy"
         }
     ];
 
