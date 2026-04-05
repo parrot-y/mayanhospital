@@ -14,7 +14,7 @@ export const servicesData = [
         shortDesc: "Expert medical advice and diagnosis from our experienced team of doctors.",
         fullDesc: "Receive personalized medical attention from our highly qualified general practitioners and specialists. We offer thorough examinations, accurate diagnoses, and tailored treatment plans for a wide variety of health concerns.",
         benefits: ["Experienced Specialists", "Personalized Care Plans", "Advanced Diagnostics", "Comfortable Consultation Rooms"],
-        images: ["/assets/images/svc_doctors.webp"],
+        images: ["/assets/images/svc_doctors.webp", "/assets/images/svc_consultation_2.webp"],
         icon: "UserRound"
     },
     {
