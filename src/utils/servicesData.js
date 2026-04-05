@@ -5,7 +5,7 @@ export const servicesData = [
         shortDesc: "Comprehensive pharmacy services with a wide range of medications and professional advice.",
         fullDesc: "Our pharmacy is stocked with a comprehensive range of essential medications, health supplements, and wellness products. Our licensed pharmacists are available to provide expert guidance on medication management, potential interactions, and general health advice.",
         benefits: ["24/7 Availability", "Expert Pharmacist Advice", "Wide Range of Medications", "Prescription Refill Services"],
-        images: ["/assets/images/svc_pharmacy_1.webp", "/assets/images/svc_pharmacy_2.webp"],
+        images: ["/assets/images/pharmacy_counter.webp", "/assets/images/svc_pharmacy_2.webp"],
         icon: "Pill"
     },
     {
@@ -32,7 +32,7 @@ export const servicesData = [
         shortDesc: "Dedicated round-the-clock medical care in a comfortable and supportive environment.",
         fullDesc: "For patients requiring extended medical supervision, our inpatient facilities provide a safe and healing environment. Our nursing staff and medical team offer 24/7 care focused on your recovery and comfort.",
         benefits: ["24/7 Nursing Supervision", "Comfortable Private Rooms", "Nutritional Meal Plans", "Advanced Monitoring Systems"],
-        images: ["https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"],
+        images: ["/assets/images/svc_inpatient.webp"],
         icon: "Bed"
     },
     {

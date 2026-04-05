@@ -21,7 +21,7 @@ const FooterRefined = () => {
                             <div className="flex items-center gap-4">
                                 <div className="h-20">
                                     <img
-                                        src="/assets/images/logo.png"
+                                        src="/assets/images/logo.webp"
                                         alt="Mayan Lifestyle Hospital"
                                         className="h-full w-auto object-contain"
                                     />

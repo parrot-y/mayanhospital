@@ -71,7 +71,7 @@ const Hero = () => {
                         className="mt-12 md:mt-20 relative w-full aspect-[4/5] md:aspect-[16/7] rounded-[20px] md:rounded-[40px] overflow-hidden group border border-white/5 bg-ovicare-dark/30"
                     >
                         <img
-                            src="/assets/images/hero_image.jpg"
+                            src="/assets/images/hero_image.webp"
                             alt="Mayan Hospital Staff and Services"
                             className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105 filter brightness-[90%]"
                         />

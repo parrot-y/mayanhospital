@@ -2,11 +2,11 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const images = [
-    '/assets/images/team_a.jpg',
-    '/assets/images/team_b.jpg',
-    '/assets/images/team_c.jpg',
-    '/assets/images/team_d.jpg',
-    '/assets/images/team_e.jpg',
+    '/assets/images/team_a.webp',
+    '/assets/images/team_b.webp',
+    '/assets/images/team_c.webp',
+    '/assets/images/team_d.webp',
+    '/assets/images/team_e.webp',
 ];
 
 const TeamGallery = () => {

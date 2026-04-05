@@ -37,7 +37,7 @@ const Navbar = () => {
                     <Link to="/" className="relative z-10 flex items-center gap-2 md:gap-3 group">
                         <div className="h-16 md:h-20 transition-transform duration-500 group-hover:scale-105">
                             <img
-                                src="/assets/images/logo.png"
+                                src="/assets/images/logo.webp"
                                 alt="Mayan Lifestyle Hospital"
                                 className="h-full w-auto object-contain"
                             />
@@ -110,7 +110,7 @@ const Navbar = () => {
                                     <div className="flex items-center gap-3">
                                         <div className="h-16 flex items-center justify-center">
                                             <img
-                                                src="/assets/images/logo.png"
+                                                src="/assets/images/logo.webp"
                                                 alt="Mayan Lifestyle Hospital"
                                                 className="h-full w-auto object-contain"
                                             />

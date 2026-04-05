@@ -31,7 +31,7 @@ const AboutSection = () => {
                         className="rounded-[40px] overflow-hidden aspect-[4/3] md:aspect-video group border border-white/5"
                     >
                         <img
-                            src="/assets/images/hospital_clinic.jpg"
+                            src="/assets/images/hospital_clinic.webp"
                             alt="Mayan Lifestyle Hospital Clinic"
                             className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105 filter brightness-[90%]"
                         />
