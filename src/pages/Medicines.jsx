@@ -120,27 +120,17 @@ const Medicines = () => {
             return false;
         };
 
-        const filtered = [...medicinesData].filter(item =>
-            item.name.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-
-        // Stable seeded shuffle — order is consistent within a day but not alphabetical
-        const seed = Math.floor(Date.now() / 86400000); // changes once per day
-        const seededRand = (i) => {
-            let x = Math.sin(seed + i) * 10000;
-            return x - Math.floor(x);
-        };
-
-        const withReal = filtered.filter(item => !isPlaceholder(item.image));
-        const withPlaceholder = filtered.filter(item => isPlaceholder(item.image));
-
-        // Shuffle real products using seeded random
-        const shuffled = withReal
-            .map((item, i) => ({ item, sort: seededRand(i) }))
-            .sort((a, b) => a.sort - b.sort)
-            .map(({ item }) => item);
-
-        return [...shuffled, ...withPlaceholder];
+        return [...medicinesData]
+            .filter(item =>
+                item.name.toLowerCase().includes(searchTerm.toLowerCase())
+            )
+            .sort((a, b) => {
+                const aIsPlaceholder = isPlaceholder(a.image);
+                const bIsPlaceholder = isPlaceholder(b.image);
+                if (!aIsPlaceholder && bIsPlaceholder) return -1;
+                if (aIsPlaceholder && !bIsPlaceholder) return 1;
+                return a.name.localeCompare(b.name);
+            });
     }, [searchTerm, medicinesData, availableImages]);
 
 
