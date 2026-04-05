@@ -52,6 +52,31 @@ const TeamGallery = () => {
                         </motion.div>
                     ))}
                 </div>
+                {/* View Full Gallery CTA */}
+                <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 0.5, delay: 0.3 }}
+                    className="flex justify-center mt-12"
+                >
+                    <a
+                        href="https://photosbyobare24.pixieset.com/mayanlifestylehospital/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="group inline-flex items-center gap-3 px-8 py-4 bg-ovicare-primary text-white font-semibold rounded-full shadow-lg hover:shadow-ovicare-primary/40 hover:scale-105 transition-all duration-300"
+                    >
+                        <span>View Full Gallery</span>
+                        <svg
+                            className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-1"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                        >
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+                    </a>
+                </motion.div>
             </div>
         </section>
     );
