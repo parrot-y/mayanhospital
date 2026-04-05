@@ -91,7 +91,7 @@
   },
   {
     "name": "ACTION",
-    "image": "action.webp",
+    "image": "action_100s.webp",
     "category": "pharmacy"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "name": "ACTRAPID INSULIN 100IU",
-    "image": "actrapid_insulin_100iu.webp",
+    "image": "actrapid_insulin_100iu_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "name": "AFLODOR 8",
-    "image": "aflodor_8.webp",
+    "image": "aflodor_8_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "name": "ANGIZAAR 50",
-    "image": "angizaar_50.webp",
+    "image": "angizaar_50_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -371,7 +371,7 @@
   },
   {
     "name": "ANTI D INJ",
-    "image": "anti_d_inj.webp",
+    "image": "anti_d_injection.webp",
     "category": "pharmacy"
   },
   {
@@ -446,17 +446,17 @@
   },
   {
     "name": "ASHTON AND PARSONS 20",
-    "image": "ashton_and_parsons_20.webp",
+    "image": "ashton_and_parsons_20s.webp",
     "category": "pharmacy"
   },
   {
     "name": "ASOMEX 2.5MG",
-    "image": "asomex_2_5mg.webp",
+    "image": "asomex_2_5mg_30s.webp",
     "category": "pharmacy"
   },
   {
     "name": "ASOMEX 5MGS",
-    "image": "asomex_5mgs.webp",
+    "image": "asomex_5mgs_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -491,7 +491,7 @@
   },
   {
     "name": "ATROPINE INJE",
-    "image": "atropine_inje.webp",
+    "image": "atropine_injection.webp",
     "category": "pharmacy"
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "name": "AVEZA",
-    "image": "aveza.webp",
+    "image": "aveza_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "name": "CABALIN",
-    "image": "cabalin.webp",
+    "image": "cabalin_25mg_nt_caps_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -936,7 +936,7 @@
   },
   {
     "name": "CABALIN 25MGS",
-    "image": "cabalin_25mgs.webp",
+    "image": "cabalin_25mgs_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -971,7 +971,7 @@
   },
   {
     "name": "CALAMINE LOTION",
-    "image": "calamine_lotion.webp",
+    "image": "calamine_lotion_100ml.webp",
     "category": "pharmacy"
   },
   {
@@ -991,7 +991,7 @@
   },
   {
     "name": "CALCIGARD R NIFELAT",
-    "image": "calcigard_r_nifelat.webp",
+    "image": "calcigard_r_nifelat_20mg_100s.webp",
     "category": "pharmacy"
   },
   {
@@ -1006,7 +1006,7 @@
   },
   {
     "name": "CALPOL INFANT SUSPENSION",
-    "image": "calpol_infant_suspension.webp",
+    "image": "calpol_infant_suspension_100ml.webp",
     "category": "pharmacy"
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "CANDID V-1 VAG PESSARY 1",
-    "image": "candid_v_1_vag_pessary_1.webp",
+    "image": "candid_v_1_vag_pessary_1s.webp",
     "category": "pharmacy"
   },
   {
@@ -1071,12 +1071,12 @@
   },
   {
     "name": "CANDID V-6 VAG PESSARY 6",
-    "image": "candid_v_6_vag_pessary_6.webp",
+    "image": "candid_v_6_vag_pessary_6s.webp",
     "category": "pharmacy"
   },
   {
     "name": "CANDIDDUO 7S (CLINDAMYCIN / CLOTRIMAZOLE) VAGINAL CAPSULE",
-    "image": "candidduo_7s_clindamycin_clotrimazole_vaginal_capsule.webp",
+    "image": "candidduo_7s_clindamycin_clotrimazole_vaginal_capsules.webp",
     "category": "pharmacy"
   },
   {
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "CARNATION CORN CAPS 5",
-    "image": "carnation_corn_caps_5.webp",
+    "image": "carnation_corn_caps_5s.webp",
     "category": "pharmacy"
   },
   {
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "DESOSTAR 5MG DESLORATADINE",
-    "image": "desostar_5mg_desloratadine.webp",
+    "image": "desostar_5mg_desloratadine_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "DF118 TABLETS 30MG 100",
-    "image": "df118_tablets_30mg_100.webp",
+    "image": "df118_tablets_30mg_100s.webp",
     "category": "pharmacy"
   },
   {
@@ -1821,7 +1821,7 @@
   },
   {
     "name": "DOLOJOINT -03",
-    "image": "dolojoint_03.webp",
+    "image": "dolojoint_03_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -1836,7 +1836,7 @@
   },
   {
     "name": "DONECEPT 10MG DONEPEZIL TABS",
-    "image": "donecept_10mg_donepezil_tabs.webp",
+    "image": "donecept_10mg_donepezil_tabs_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -1941,7 +1941,7 @@
   },
   {
     "name": "ELASTOPLASTS",
-    "image": "elastoplasts.webp",
+    "image": "elastoplasts_100s.webp",
     "category": "pharmacy"
   },
   {
@@ -2046,7 +2046,7 @@
   },
   {
     "name": "EPOSOFT",
-    "image": "eposoft.webp",
+    "image": "eposoft_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -2091,7 +2091,7 @@
   },
   {
     "name": "ESOMEPRAZOLE 40MG -SOMPRAZ-INJ",
-    "image": "esomeprazole_40mg_sompraz_inj.webp",
+    "image": "esomeprazole_40mg_sompraz_injection.webp",
     "category": "pharmacy"
   },
   {
@@ -2466,7 +2466,7 @@
   },
   {
     "name": "GUMMYS",
-    "image": "gummys.webp",
+    "image": "gummys_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -2476,7 +2476,7 @@
   },
   {
     "name": "GYPSONA P.O.P 8",
-    "image": "gypsona_p_o_p_8.webp",
+    "image": "gypsona_p_o_p_8_inch.webp",
     "category": "pharmacy"
   },
   {
@@ -2506,7 +2506,7 @@
   },
   {
     "name": "HUGGIES DRY COMFORT",
-    "image": "huggies_dry_comfort.webp",
+    "image": "huggies_dry_comfort_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -2616,7 +2616,7 @@
   },
   {
     "name": "KAPLIV FORTE",
-    "image": "kapliv_forte.webp",
+    "image": "kapliv_forte_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -2711,7 +2711,7 @@
   },
   {
     "name": "LEVAMISOLE-LEVAWORM SUSP",
-    "image": "levamisole_levaworm_susp.webp",
+    "image": "levamisole_levaworm_suspension.webp",
     "category": "pharmacy"
   },
   {
@@ -2721,7 +2721,7 @@
   },
   {
     "name": "LIMCEE VITAMIN C CHEWABLE 500 ORANGE",
-    "image": "limcee_vitamin_c_chewable_500_orange.webp",
+    "image": "limcee_vitamin_c_chewable_500_orange_300s.webp",
     "category": "pharmacy"
   },
   {
@@ -2856,7 +2856,7 @@
   },
   {
     "name": "MACRO CARE ADULT LARGE",
-    "image": "macro_care_adult_large.webp",
+    "image": "macro_care_adult_large_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -3106,7 +3106,7 @@
   },
   {
     "name": "MYTEKA TABS 10MG",
-    "image": "myteka_tabs_10mg.webp",
+    "image": "myteka_tabs_10mg_14s.webp",
     "category": "pharmacy"
   },
   {
@@ -3186,7 +3186,7 @@
   },
   {
     "name": "NETAZOX OF TABS",
-    "image": "netazox_of_tabs.webp",
+    "image": "netazox_of_tabs_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -3541,7 +3541,7 @@
   },
   {
     "name": "PANADOL ADV",
-    "image": "panadol_adv.webp",
+    "image": "panadol_advance_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -3646,7 +3646,7 @@
   },
   {
     "name": "PIRITON INJECTION",
-    "image": "piriton_injection.webp",
+    "image": "piriton_injection_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -3686,7 +3686,7 @@
   },
   {
     "name": "POSTINOR TABS",
-    "image": "postinor_tabs.webp",
+    "image": "postinor_tabs_1s.webp",
     "category": "pharmacy"
   },
   {
@@ -3896,7 +3896,7 @@
   },
   {
     "name": "ROSTAT -10 <ROSUVASTATIN>",
-    "image": "rostat_10_rosuvastatin.webp",
+    "image": "rostat_10_rosuvastatin_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -3921,7 +3921,7 @@
   },
   {
     "name": "SARACAL SUSP",
-    "image": "saracal_susp.webp",
+    "image": "saracal_suspension.webp",
     "category": "pharmacy"
   },
   {
@@ -3981,7 +3981,7 @@
   },
   {
     "name": "SEPTRIN 960MG GENERIC COSATRIM DS TABS",
-    "image": "septrin_960mg_generic_cosatrim_ds_tabs.webp",
+    "image": "septrin_960mg_generic_cosatrim_ds_tabs_100s.webp",
     "category": "pharmacy"
   },
   {
@@ -4091,7 +4091,7 @@
   },
   {
     "name": "STILNOX TABS 10MG 14S",
-    "image": "stilnox_tabs_10mg_14s.webp",
+    "image": "stilnox_tabs_10mg_14s_roche.webp",
     "category": "pharmacy"
   },
   {
@@ -4106,7 +4106,7 @@
   },
   {
     "name": "STRAPPIN (ZINC OXIDE) 3",
-    "image": "strappin_zinc_oxide_3.webp",
+    "image": "strappin_zinc_oxide_3_inch.webp",
     "category": "pharmacy"
   },
   {
@@ -4116,7 +4116,7 @@
   },
   {
     "name": "STREPSILS HONEY AND LEMON",
-    "image": "strepsils_honey_and_lemon.webp",
+    "image": "strepsils_honey_and_lemon_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -4741,7 +4741,7 @@
   },
   {
     "name": "ATORVASTATIN(ARVAZ) 20MG",
-    "image": "atorvastatin_arvaz_20mg.webp",
+    "image": "atorvastatin_arvaz_20mg_28s.webp",
     "category": "pharmacy"
   },
   {
@@ -4751,7 +4751,7 @@
   },
   {
     "name": "CARDRONATE",
-    "image": "cardronate.webp",
+    "image": "cardronate_3s.webp",
     "category": "pharmacy"
   },
   {
@@ -4811,7 +4811,7 @@
   },
   {
     "name": "COFTA TABLETS",
-    "image": "cofta_tablets.webp",
+    "image": "cofta_tablets_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -4826,7 +4826,7 @@
   },
   {
     "name": "COSVATE GM",
-    "image": "cosvate_gm.webp",
+    "image": "cosvate_gm_cream.webp",
     "category": "pharmacy"
   },
   {
@@ -5001,7 +5001,7 @@
   },
   {
     "name": "DOLAFREE 50MGS",
-    "image": "dolafree_50mgs.webp",
+    "image": "dolafree_50mgs_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5076,7 +5076,7 @@
   },
   {
     "name": "ESTOVON",
-    "image": "estovon.webp",
+    "image": "estovon_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5091,7 +5091,7 @@
   },
   {
     "name": "FERICAP CR",
-    "image": "fericap_cr.webp",
+    "image": "fericap_cr_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -5191,7 +5191,7 @@
   },
   {
     "name": "HEDEX TABS",
-    "image": "hedex_tabs.webp",
+    "image": "hedex_tabs_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -5226,7 +5226,7 @@
   },
   {
     "name": "INOVIT E VITAMIN E",
-    "image": "inovit_e_vitamin_e.webp",
+    "image": "inovit_e_vitamin_e_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5336,7 +5336,7 @@
   },
   {
     "name": "LIV 52",
-    "image": "liv_52.webp",
+    "image": "liv_52_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5371,17 +5371,17 @@
   },
   {
     "name": "MELOXICAM 7.5 MGS (MELONAC)",
-    "image": "meloxicam_7_5_mgs_melonac.webp",
+    "image": "meloxicam_7_5_mgs_melonac_30s.webp",
     "category": "pharmacy"
   },
   {
     "name": "MENOEASE",
-    "image": "menoease.webp",
+    "image": "menoease_30s.webp",
     "category": "pharmacy"
   },
   {
     "name": "MEROPENEM INJ",
-    "image": "meropenem_inj.webp",
+    "image": "meropenem_injection.webp",
     "category": "pharmacy"
   },
   {
@@ -5391,7 +5391,7 @@
   },
   {
     "name": "MICROGYNON 30 TABS 21",
-    "image": "microgynon_30_tabs_21.webp",
+    "image": "microgynon_30_tabs_21s.webp",
     "category": "pharmacy"
   },
   {
@@ -5446,7 +5446,7 @@
   },
   {
     "name": "NORMAZIDE HYPERTENSIVES",
-    "image": "normazide_hypertensives.webp",
+    "image": "normazide_hypertensives_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -5456,7 +5456,7 @@
   },
   {
     "name": "ODIMONT 10MGS 7",
-    "image": "odimont_10mgs_7.webp",
+    "image": "odimont_10mgs_7s.webp",
     "category": "pharmacy"
   },
   {
@@ -5471,7 +5471,7 @@
   },
   {
     "name": "OLANZAPINE (OZITAS 5MGS)",
-    "image": "olanzapine_ozitas_5mgs.webp",
+    "image": "olanzapine_ozitas_5mgs_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5511,7 +5511,7 @@
   },
   {
     "name": "PANADOL EXTRA",
-    "image": "panadol_extra.webp",
+    "image": "panadol_extra_50s.webp",
     "category": "pharmacy"
   },
   {
@@ -5531,7 +5531,7 @@
   },
   {
     "name": "PHARMATON CAPSULES",
-    "image": "pharmaton_capsules.webp",
+    "image": "pharmaton_capsules_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5541,7 +5541,7 @@
   },
   {
     "name": "PLENDIL 10MG FELODIPINE TABLETS",
-    "image": "plendil_10mg_felodipine_tablets.webp",
+    "image": "plendil_10mg_felodipine_tablets_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5591,12 +5591,12 @@
   },
   {
     "name": "Plasil Tabs (metcos) 10MG",
-    "image": "plasil_tabs_metcos_10mg.webp",
+    "image": "plasil_tabs_metcos_10mg_100s.webp",
     "category": "pharmacy"
   },
   {
     "name": "RANFERON CAPS 30",
-    "image": "ranferon_caps_30.webp",
+    "image": "ranferon_caps_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5616,7 +5616,7 @@
   },
   {
     "name": "SAFERON PLUS TABS",
-    "image": "saferon_plus_tabs.webp",
+    "image": "saferon_plus_tabs_30s.webp",
     "category": "pharmacy"
   },
   {
@@ -5766,7 +5766,7 @@
   },
   {
     "name": "XIBRA PLUS",
-    "image": "xibra_plus.webp",
+    "image": "xibra_plus_10s.webp",
     "category": "pharmacy"
   },
   {
@@ -5806,7 +5806,7 @@
   },
   {
     "name": "ZEDCAL-OP PLUS TABLETS",
-    "image": "zedcal_op_plus_tablets.webp",
+    "image": "zedcal_op_plus_tablets_30s.webp",
     "category": "pharmacy"
   },
   {
