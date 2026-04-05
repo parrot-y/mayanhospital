@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Package, ArrowLeft, ArrowRight, X, Pill } from 'lucide-react';
 const ITEMS_PER_PAGE = 20;
 
-const MedicineImage = ({ item, index, availableImagesPool, onZoom }) => {
+const MedicineImage = ({ item, index, availableImagesPool, onZoom, priority = false }) => {
     const [isLoaded, setIsLoaded] = useState(false);
     const [hasError, setHasError] = useState(false);
 
@@ -42,7 +42,8 @@ const MedicineImage = ({ item, index, availableImagesPool, onZoom }) => {
             <img
                 src={hasError ? placeholderSrc : primarySrc}
                 alt={item.name}
-                loading="lazy"
+                loading={priority ? "eager" : "lazy"}
+                fetchPriority={priority ? "high" : "auto"}
                 decoding="async"
                 onLoad={() => setIsLoaded(true)}
                 onError={() => setHasError(true)}
@@ -86,22 +87,54 @@ const Medicines = () => {
     }, []);
 
     const filteredMedicines = useMemo(() => {
-        return medicinesData
+        return [...medicinesData]
             .filter(item =>
                 item.name.toLowerCase().includes(searchTerm.toLowerCase())
             )
             .sort((a, b) => {
-                const aHasImage = availableImages.includes(a.image);
-                const bHasImage = availableImages.includes(b.image);
+                const isPlaceholder = (img) => {
+                    if (!img) return true;
+                    if (!availableImages.includes(img)) return true;
+                    if (img.startsWith('0000')) return true;
+                    if (img.toLowerCase().includes('generic')) return true;
+                    return false;
+                };
 
-                if (aHasImage && !bHasImage) return -1;
-                if (!aHasImage && bHasImage) return 1;
+                const aIsPlaceholder = isPlaceholder(a.image);
+                const bIsPlaceholder = isPlaceholder(b.image);
+
+                if (!aIsPlaceholder && bIsPlaceholder) return -1;
+                if (aIsPlaceholder && !bIsPlaceholder) return 1;
 
                 return a.name.localeCompare(b.name);
             });
     }, [searchTerm, medicinesData, availableImages]);
 
     const totalPages = Math.ceil(filteredMedicines.length / ITEMS_PER_PAGE);
+
+    // Preload next page images for speed
+    useEffect(() => {
+        if (currentPage < totalPages) {
+            const nextPageItems = filteredMedicines.slice(
+                currentPage * ITEMS_PER_PAGE,
+                (currentPage + 1) * ITEMS_PER_PAGE
+            );
+            nextPageItems.forEach(item => {
+                const img = new Image();
+                const isPlaceholder = (img) => {
+                    if (!img) return true;
+                    if (!availableImages.includes(img)) return true;
+                    if (img.startsWith('0000')) return true;
+                    if (img.toLowerCase().includes('generic')) return true;
+                    return false;
+                };
+
+                if (!isPlaceholder(item.image)) {
+                    img.src = `/assets/medicines/${item.image}`;
+                }
+            });
+        }
+    }, [currentPage, filteredMedicines, totalPages, availableImages]);
 
     useEffect(() => {
         setCurrentPage(1);
@@ -189,9 +222,10 @@ const Medicines = () => {
                                         <div className="w-full h-full relative group-hover:scale-105 transition-transform duration-700">
                                             <MedicineImage
                                                 item={item}
-                                                index={medicinesData.indexOf(item)}
+                                                index={filteredMedicines.indexOf(item)}
                                                 availableImagesPool={availableImages}
                                                 onZoom={() => setSelectedImage(item)}
+                                                priority={i < 4}
                                             />
                                         </div>
                                     </div>
