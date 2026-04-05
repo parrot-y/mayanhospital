@@ -8,7 +8,11 @@ MEDICINES_DATA = 'public/data/medicines.json'
 AVAILABLE_IMAGES_DATA = 'public/data/available_images.json'
 ASSETS_DIR = 'public/assets/medicines'
 
-GLOBAL_PLACEHOLDERS = {'generic_syrup.webp', 'generic_capsules.webp', 'generic_tablets.webp', 'generic_ointment.webp', 'generic_spray.webp'}
+GLOBAL_PLACEHOLDERS = {
+    'generic_syrup.webp', 'generic_capsules.webp', 'generic_tablets.webp', 
+    'generic_ointment.webp', 'generic_spray.webp', 'asprin_300mg_tabs_1000s.webp',
+    'ashton_and_parsons_20s.webp', 'hospital_clinic.webp'
+}
 
 def slugify(text):
     if not text: return ""
@@ -52,7 +56,7 @@ def sync():
         name = item.get('name', '')
         img = item.get('image', '')
         
-        # Determine if current image is missing or a placeholder
+        # Determine if current image is missing or a placeholder/trap
         is_missing = not img or img not in actual_files
         is_placeholder = img.startswith('0000') or img in GLOBAL_PLACEHOLDERS
         
