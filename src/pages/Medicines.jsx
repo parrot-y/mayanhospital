@@ -20,7 +20,24 @@ const MedicineImage = ({ item, index, availableImagesPool, onZoom, priority = fa
 
     // Only use official image if it actually exists in the pool
     const imageExists = availableImagesPool && availableImagesPool.includes(item.image);
-    const primarySrc = imageExists ? `/assets/medicines/${item.image}` : `/assets/medicines/${getPlaceholder(item.name)}`;
+
+    // Improved resolution logic: If primary image fails, try a fallback based on product name
+    const resolveImagePath = () => {
+        if (imageExists) return `/assets/medicines/${item.image}`;
+
+        // Dynamic search for a file matching the product name
+        const slug = item.name.toLowerCase().replace(/[^a-z0-9]+/g, '_').trim('_');
+        const fallback = availableImagesPool?.find(f => {
+            const fLow = f.toLowerCase();
+            return fLow.startsWith(slug) || slug.startsWith(fLow.split('.')[0]);
+        });
+
+        if (fallback) return `/assets/medicines/${fallback}`;
+
+        return `/assets/medicines/${getPlaceholder(item.name)}`;
+    };
+
+    const primarySrc = resolveImagePath();
     const placeholderSrc = `/assets/medicines/${getPlaceholder(item.name)}`;
 
     return (

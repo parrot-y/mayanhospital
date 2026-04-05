@@ -1,11 +1,21 @@
 import os
 import json
+import re
 import difflib
 
 # Paths
 MEDICINES_DATA = 'public/data/medicines.json'
 AVAILABLE_IMAGES_DATA = 'public/data/available_images.json'
 ASSETS_DIR = 'public/assets/medicines'
+
+GLOBAL_PLACEHOLDERS = {'generic_syrup.webp', 'generic_capsules.webp', 'generic_tablets.webp', 'generic_ointment.webp', 'generic_spray.webp'}
+
+def slugify(text):
+    if not text: return ""
+    text = text.lower()
+    # Replace non-alphanumeric with underscores
+    text = re.sub(r'[^a-z0-9]+', '_', text)
+    return text.strip('_')
 
 def sync():
     # 1. Get actual files on disk
@@ -29,35 +39,57 @@ def sync():
     updated_count = 0
     actual_files_lower = {f.lower(): f for f in actual_files}
     
+    # Map slugified names to actual filenames for quick lookup
+    slug_map = {}
+    for f in actual_files:
+        # Strip extension for slug mapping
+        base = os.path.splitext(f)[0]
+        slug = slugify(base)
+        if slug not in slug_map:
+            slug_map[slug] = f
+            
     for item in medicines:
-        img = item.get('image')
-        if not img or img not in actual_files:
-            # Try case-insensitive match
-            if img and img.lower() in actual_files_lower:
+        name = item.get('name', '')
+        img = item.get('image', '')
+        
+        # Determine if current image is missing or a placeholder
+        is_missing = not img or img not in actual_files
+        is_placeholder = img.startswith('0000') or img in GLOBAL_PLACEHOLDERS
+        
+        if is_missing or is_placeholder:
+            # TRY 1: Slugified name match
+            name_slug = slugify(name)
+            if name_slug in slug_map:
                 old_img = img
-                item['image'] = actual_files_lower[img.lower()]
-                print(f"Fixed case mismatch: {old_img} -> {item['image']}")
-                updated_count += 1
+                item['image'] = slug_map[name_slug]
+                if old_img != item['image']:
+                    print(f"Found match by slug: '{name}' -> {item['image']} (was {old_img})")
+                    updated_count += 1
                 continue
                 
-            # Try to find a very close match if it's missing
-            if img:
-                matches = difflib.get_close_matches(img, actual_files, n=1, cutoff=0.8)
+            # TRY 2: Prefix match (product name starts with a file's slug or vice versa)
+            matched = False
+            for slug, filename in slug_map.items():
+                if (name_slug.startswith(slug) and len(slug) > 5) or (slug.startswith(name_slug) and len(name_slug) > 5):
+                    old_img = img
+                    item['image'] = filename
+                    if old_img != item['image']:
+                        print(f"Found match by prefix: '{name}' -> {item['image']} (was {old_img})")
+                        updated_count += 1
+                    matched = True
+                    break
+            if matched: continue
+            
+            # TRY 3: Fuzzy matching on filenames if we have an image field but it's wrong
+            if img and not is_placeholder:
+                matches = difflib.get_close_matches(img, actual_files, n=1, cutoff=0.7)
                 if matches:
                     old_img = img
                     item['image'] = matches[0]
-                    print(f"Fixed fuzzy mismatch: {old_img} -> {item['image']} (for {item['name']})")
-                    updated_count += 1
+                    if old_img != item['image']:
+                        print(f"Found match by fuzzy filename: '{name}' -> {item['image']} (was {old_img})")
+                        updated_count += 1
                     continue
-                    
-            # Special case: Arimis
-            if 'ARIMIS' in item['name'].upper() and 'milking_jelly' in img:
-                arimis_files = [f for f in actual_files if 'arimis' in f.lower() and 'milking' in f.lower()]
-                if arimis_files:
-                    old_img = img
-                    item['image'] = arimis_files[0]
-                    print(f"Fixed Arimis special case: {old_img} -> {item['image']}")
-                    updated_count += 1
 
     if updated_count > 0:
         print(f"Updating {MEDICINES_DATA} with {updated_count} fixes...")
