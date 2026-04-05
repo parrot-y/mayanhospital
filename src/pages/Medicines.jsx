@@ -96,7 +96,16 @@ const Medicines = () => {
                     if (!img) return true;
                     if (!availableImages.includes(img)) return true;
                     if (img.startsWith('0000')) return true;
-                    if (img.toLowerCase().includes('generic')) return true;
+
+                    const globalPlaceholders = [
+                        'generic_syrup.webp',
+                        'generic_capsules.webp',
+                        'generic_tablets.webp',
+                        'generic_ointment.webp',
+                        'generic_spray.webp'
+                    ];
+                    if (globalPlaceholders.includes(img.toLowerCase())) return true;
+
                     return false;
                 };
 
@@ -125,7 +134,16 @@ const Medicines = () => {
                     if (!img) return true;
                     if (!availableImages.includes(img)) return true;
                     if (img.startsWith('0000')) return true;
-                    if (img.toLowerCase().includes('generic')) return true;
+
+                    const globalPlaceholders = [
+                        'generic_syrup.webp',
+                        'generic_capsules.webp',
+                        'generic_tablets.webp',
+                        'generic_ointment.webp',
+                        'generic_spray.webp'
+                    ];
+                    if (globalPlaceholders.includes(img.toLowerCase())) return true;
+
                     return false;
                 };
 
